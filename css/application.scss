@@ -1,0 +1,142 @@
+// ==============
+// Global imports
+// ==============
+@import "base/variables";
+@import "base/mixins";
+@import "base/base";
+@import "components/header";
+@import "components/footer";
+
+.cover {
+  margin-bottom:15%;
+}
+
+h1 {
+  text-align: center;
+  background: rgba(247, 122, 82, 0.7) none repeat scroll 0 0;
+  color: #fff;
+  padding: 5px;
+  @media #{$brk-spnarrow} {
+    font-size: 2.5em;
+  }
+}
+
+.subtitle {
+	font-size: 1.7em;
+    line-height: 1.5em;
+    font-weight: 300;
+    color: #383e47;
+}
+
+
+.credits {
+  color:$main-text;
+  font-size: 1.3em;
+  line-height: 1.5em;
+  & span {
+    font-weight: bold;
+  }
+  &.date {
+    margin-top:1em;
+    font-size:1.1em;
+    font-weight:300;
+  }
+}
+
+.annotation {
+  @include text(12px,24px);
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+  color: #636363;
+}
+
+p,li  {
+    &.first{
+    margin-top: 3.5em;
+    &::first-letter {
+    float: left;
+    margin: 0 20px 0 0;
+    font-size: 52px;
+    font-weight: bold;
+    padding: 10px;
+    line-height: 1;
+    }
+  }
+    & span {
+      background: rgba(123,152,173,0.3);
+      padding: 1px;
+    }
+    & span.itallic {
+      background: none;
+      font-style: italic;
+    }
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+td, th {
+  font-size: 12px;
+}
+
+img {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.quote {
+  margin-top:13em;
+  margin-bottom:1em;
+  font-size: 2.3em;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #211A23;
+  @media #{$brk-narrow} {
+    margin-top:0px;
+    margin-bottom:2em;
+  }
+  @media #{$brk-spnarrow} {
+    margin-top:0px;
+    margin-bottom:2em;
+  }
+  &::before {
+    font-family: Arial;
+    content: "\201C";
+    font-size: 7em;
+    position: relative;
+    left: 0em;
+    top: 0.5em;
+    @media #{$brk-spnarrow} {
+      font-size: 7em;
+    }
+  }
+}
+
+.margin-top {
+  margin-top: 20em;
+}
+
+
+.new-section {
+  margin-top: 5%;
+}
+
+
+.mobile {
+  display: none;
+  @media #{$brk-spnarrow} {
+    display: block;
+  }
+}
+
+.desktop {
+  display: block;
+  @media #{$brk-spnarrow} {
+    display: none;
+  }
+}
+
+.read-more {
+  margin-bottom: 15px;
+}

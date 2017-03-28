@@ -1,0 +1,74 @@
+/* ======== HEADER ======== */
+
+
+.logo {
+    position: fixed;
+    float: left;
+    margin: 15px 0px 0px 15px;
+    z-index: 1000;
+}
+
+.social-icons {
+  position: fixed;
+  padding-top: 10px;
+  z-index: 1000;
+}
+
+.fa-twitter,
+.fa-facebook {
+  background-color:rgba(187, 189, 192, 0.9);
+  padding: 5px;
+  color: #5b5b5b;
+  float: right;
+  margin: 5px 10px 0px 0px;
+  cursor: pointer;
+  &:hover{
+    color: $orange;
+  }
+}
+
+.menu-wrap {
+  padding: 5px;
+}
+
+.menu-item {
+  color: #555;
+  display: block;
+  font-size: 1.2em;
+  font-style: italic;
+  font-weight: 600;
+  height: 25px;
+
+  @media #{$brk-narrow} {
+    font-size: 1.2em;
+  }
+
+  @media #{$brk-narrow-menu} {
+    display: inline-block;
+    padding-right: 10px;
+  }
+}
+
+.menu-inner-wrap {
+  margin-top: 99px;
+  margin-left: 7px;
+
+  @media #{$brk-narrow-menu} {
+    margin-top: 0;
+    margin-bottom:0;
+
+    display: inline-block;
+  }
+}
+
+.menu-item-first {
+  display: block;
+  //margin:5px;
+  height: 26px;
+  background: none;
+  padding: 0;
+}
+
+.img-logo {
+  margin: 0;
+}
