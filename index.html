@@ -13,6 +13,7 @@
 
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css">
     <link rel="stylesheet" href="css/application.css">
 
     <!-- OpenGraph Meta Tags -->
@@ -74,8 +75,8 @@
 <div class="container cover" style="margin-top: 125px;">
     <div class="col-lg-8 col-lg-offset-2 col-sm-12">
         <!--<img class="img-responsive main-pic" src="img/bg.jpg">-->
-        <h1>Закупівліпівлі</h1>
-        <p class="subtitle">Як ми аналізували протоколи розкриття </p>
+        <h1>Як ми аналізували базу закупівель</h1>
+        <p class="subtitle">Схеми. Вісник державних закупівель і сотні тисяч вордівських файлів</p>
         <div class="credits">Опубліковано: 28 березня 2017 року</div>
     </div>
 </div>
@@ -84,8 +85,65 @@
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-9 col-sm-12 col-xs-12">
-        <h2>Важливі цифри:</h2>
-        <p>Видатки Пенсійного Фонду у 2016 році — 254,1 млрд грн</p>
+
+        <h2>Вступ</h2>
+        <p>Багато років журналісти розслідувачі і правоохоронці досліджували Вісник державних закупівель. В ньому публікувалися результати державних тендерів. Сотні, а той тисячі корупційних оборуток витягли на світло завдяки цим дослідженням.  Разом з тим найбільша частина бази Вісника -- це документи, найчастіше вордівські файли, з оголошеннями про закупівлю, списком цінових пропозицій, чи результатами закупівлі. Таких файлів у базі близько сотні тисяч,  і проаналізувати усі їх вручну було би нереально. У більшій мірі ці документи нецікаві журналістам, інформація про переможців і так є у базі в машиночитаному і придатному для аналізу вигляді. Документи більше потрібні для внутрішнього обігу між чиновниками (цього вимагав закон(?)).</p>
+
+
+
+        <p>Пропуск</p>
+
+
+        <h2>Перша і найпростіша. Компанії, які завжди програють.</h2>
+        <p>Відфільтровуємо компанії, які завжди програють і дивимось кому вони програють і на чиїх тендерах.</p>
+
+        <table id="scheme-one-table" class="dataTable">
+            <!--<thead>-->
+            <!--<tr>-->
+                <!--<th>П</th>-->
+                <!--<th>Position</th>-->
+                <!--<th>Office</th>-->
+                <!--<th>Extn.</th>-->
+                <!--<th>Start date</th>-->
+                <!--<th>Salary</th>-->
+            <!--</tr>-->
+            <!--</thead>-->
+            <!--<tfoot>-->
+            <!--<tr>-->
+                <!--<th>Name</th>-->
+                <!--<th>Position</th>-->
+                <!--<th>Office</th>-->
+                <!--<th>Extn.</th>-->
+                <!--<th>Start date</th>-->
+                <!--<th>Salary</th>-->
+            <!--</tr>-->
+            <!--</tfoot>-->
+
+
+        </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         <p>Кошти державного бюджету в доходах Пенсійного фонду 2016 року — 142,6 млрд грн</p>
         <p>Дотація бюджету Пенсійному фонду — 82,3 млрд грн</p>
         <p>Кількість пенсіонерів — 12 млн осіб </p>
@@ -277,6 +335,8 @@
 <script src="js/jquery-2.1.4.min.js"></script>
 <script src="js/jquery.dataTables.min.js"></script>
 <!--<script src="js/bootstrap.min.js"></script>-->
+<script src="js/d3.v4.min.js"></script>
+<script src="js/main.js" type="text/javascript"></script>
 <script src="js/share-behavior.js"></script>
 
 <script type="text/javascript">
