@@ -19,14 +19,16 @@ $(document).ready(function() {
             aoColumns: [
                 {mData: "winner_name", sTitle: "Переможець"},
                 {mData: "loser_name", sTitle: "Лузер"},
-                {mData: "total_count", sTitle: "Брали участь у тендерах"},
+                {mData: "total_count", sTitle: "Грали разом разів"},
                 {mData: "total_volume", mRender: function(data, type, full) {
                     if (type === 'display') return currencyFmt(full.total_volume);
                     return data
-                }, sTitle: "Сума по всіх тендерах, тис. грн"}
+                }, sTitle: "Сума по всіх тендерах, тис. грн", sType: "numeric"}
                 // {mData: "total_volume", sTitle: "Сума по всіх тендерах"}
             ],
-
+            "columnDefs": [
+                { className: "dt-body-right", "targets": [ 3 ] }
+            ],
             order: [[3, "desc"]]
         });
     });
