@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+395517,441748,2541,509298.54,507310.1,"2013-01-10",12,507310.1,12.58,12.69,TRUE,"Управління освіти і науки Бориспільської міськради Київської області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+548497,630975,37080,3117810,3e+06,"2014-12-16",25,3e+06,3e+06,3109410,TRUE,"Кам’янське комунальне підприємство теплових мереж"

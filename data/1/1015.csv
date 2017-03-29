@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+381250,435941,50248,10590170,10254019,"2013-01-03",17,10254019,10254019.2,10294999.2,TRUE,"Управління капітального будівництва Ізмаїльської міськради Одеської області"

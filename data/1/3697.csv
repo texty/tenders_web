@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+496413,581358,95803,720000,826480.3,"2014-03-21",25,826480.3,826480.3,867479.1,TRUE,"Комунальний заклад ""Черкаська обласна дитяча лікарня"" Черкаської обласної ради"

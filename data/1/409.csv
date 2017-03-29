@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226543,254676,630,NA,1070143,"2011-12-09",15,1070143,1070143,1090500,TRUE,"Департамент житлового господарства та інфраструктури Львівської міськради"

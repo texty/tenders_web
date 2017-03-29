@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225080,257232,3903,NA,14840448,"2011-12-16",22,14840448,14652255.6,20045278.82,TRUE,"СКП ""Харківзеленбуд"" Харківської міськради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226502,245954,21207,NA,1200200,"2011-11-10",1,1200200,1200200,1380230,TRUE,"Інститут водних проблем і меліорації НААН України"

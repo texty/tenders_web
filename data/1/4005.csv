@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+527735,612206,666,958000,957200,"2014-08-28",1,957200,957200,981745.2,TRUE,"Міністерство оборони України"

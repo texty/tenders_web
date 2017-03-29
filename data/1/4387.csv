@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+541237,624647,2361,2586000,2570049,"2014-11-24",1,2570049,2570239,2580744,TRUE,"1 окремий відділ капітального будівництва ДПС України"

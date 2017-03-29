@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+526501,616867,562,2500000,955200,"2014-10-06",4,955200,955200,1118400,TRUE,"КП ""Бершадське житлово-комунальне господарство"" Вінницької області"

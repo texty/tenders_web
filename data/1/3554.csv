@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+484933,569283,10495,638000,642400,"2014-02-25",11,642400,642400,690530,TRUE,"Долинська центральна районна лікарня Івано-Франківської області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+552515,647366,74621,1500000,1168868.78,"2015-01-28",17,1168868.78,1363680.25,1629000.08,TRUE,"Управління Державної служби охорони при ГУ МВС України в Одеській області"

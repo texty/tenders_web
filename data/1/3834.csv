@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+513165,598187,23005,801100,587664,"2014-05-29",10,587664,132,143,TRUE,"КЗ ""Запорізький обласний центр соціально-психологічної реабілітації дітей"" Запорізької облради"

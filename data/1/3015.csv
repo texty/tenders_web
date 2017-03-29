@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+461387,535863,452,1201336,1191472.44,"2013-12-09",16,1191472.44,1191472.44,1196510.21,TRUE,"ВП ""Южно-Українська АЕС"" ДП ""НАЕК ""Енергоатом"""

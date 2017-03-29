@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+551757,649828,68,5992440,15439862,"2015-02-05",5,15439862,15439862,22571509.44,TRUE,"ПАТ ""Волиньобленерго"""

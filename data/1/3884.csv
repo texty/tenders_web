@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+518103,600217,2729,1040326,1040326,"2014-06-11",5,1040326,9.2,9.5,TRUE,"Департамент соціального захисту населення  Волинської облдержадміністрації"

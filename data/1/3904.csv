@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+516747,601077,1593,6275667,6420000,"2014-06-17",7,6420000,6420000,6447454.97,TRUE,"Комунальне комерційне підприємство Донецької міськради ""Донецькміськтепломережа"""

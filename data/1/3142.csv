@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+461598,533488,144598,5631413,5018157.32,"2013-12-04",25,5018157.32,5018189,5462726.81,TRUE,"Руськополянська сільрада Черкаської області"

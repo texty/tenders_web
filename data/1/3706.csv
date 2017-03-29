@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+497076,594505,1844,1903300,1977780,"2014-05-08",27,1977780,1977780,2121537.5,TRUE,"Департамент інвестиційного розвитку та капітального будівництва Чернігівської обласної державної адміністрації"

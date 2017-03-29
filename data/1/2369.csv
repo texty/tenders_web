@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+446043,513847,2843,6e+06,3651547.2,"2013-07-30",18,3651547.2,3651547.2,4220267.83,TRUE,"Служба автомобільних доріг у Полтавській області Держагентства автомобільних доріг України"

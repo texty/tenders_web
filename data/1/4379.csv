@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+536437,617006,4711,2e+06,1899000,"2014-10-03",6,1899000,1899000,1929000,TRUE,"КЗ ""Криворізька станція швидкої медичної допомоги"" ДОР"""

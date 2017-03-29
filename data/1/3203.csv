@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+463197,531091,835,2250000,2182350,"2013-11-19",1,2182350,2182350,2185450,TRUE,"ВП ""Управління справами"" ДП ""НАЕК ""Енергоатом"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+524135,611872,10017,720000,799000.68,"2014-08-29",8,799000.68,799000.68,830000,TRUE,"КУ ""Центральна дитяча міська лікарня"" м.Житомира"

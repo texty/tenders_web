@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+316932,358644,599,4199995,4196540.89,"2012-05-14",1,4196540.89,4196540.89,4198428.49,TRUE,"ПАТ ""Укртрансгаз"" Філія ""УМГ ""Київтрансгаз"""

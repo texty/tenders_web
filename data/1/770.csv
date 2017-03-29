@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+373274,418559,3180,1395500,1367417.53,"2012-11-13",6,1367417.53,1367417.53,1367796,TRUE,"Комунальне підприємство ""Новомосковський комбінат комунальних підприємств"""

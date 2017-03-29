@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+461229,531804,51636,2364100,2200272,"2013-11-22",17,2200272,2200272,2303025.6,TRUE,"ДП ""Одеська об’єднана дирекція будівництва водогосподарських об’єктів"""

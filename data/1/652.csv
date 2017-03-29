@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+375953,429225,2484,352915.2,677214.72,"2012-12-18",1,677214.72,1241560.32,1278076.8,TRUE,"ДП ""НАЕК ""Енергоатом"""

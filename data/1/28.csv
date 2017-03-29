@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+222323,246035,38,NA,13618158.8,"2011-11-10",10,13618158.8,13618158.8,15865603.6,TRUE,"УПРАВЛІННЯ КАПІТАЛЬНОГО БУДІВНИЦТВА ЗАПОРІЗЬКОЇ ОБЛДЕРЖАДМІНІСТРАЦІЇ"

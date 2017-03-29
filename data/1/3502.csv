@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+492682,576768,97579,886000,879479.4,"2014-03-07",1,879479.4,879479.4,1025387.7,TRUE,"Міністерство енергетики та вугільної промисловості України"

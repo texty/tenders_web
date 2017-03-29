@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+548399,627396,1484,2849747,2799783.4,"2014-12-08",1,2799783.4,2799783.4,2807463.86,TRUE,"Національний інститут раку"

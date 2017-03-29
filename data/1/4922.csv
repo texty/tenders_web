@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+570107,670511,23,4500000,3700000,"2015-03-12",7,3700000,3700000,9498000,TRUE,"ДП ""КРАСНОАРМІЙСЬКВУГІЛЛЯ"""

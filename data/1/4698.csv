@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+556181,636524,6771,850000,756687.9,"2015-01-06",13,756687.9,756687.9,766142.37,TRUE,"Кіровоградська обласна лікарня"

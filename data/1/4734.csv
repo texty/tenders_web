@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+553461,650445,9808,973789,1585614.26,"2015-02-09",4,1585614.26,1585614.26,1647066.94,TRUE,"ЯМПІЛЬСЬКА ЦЕНТРАЛЬНА РАЙОННА ЛІКАРНЯ Вінницької області"

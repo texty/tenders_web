@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+466759,539675,81271,750000,647355,"2013-12-24",2,647355,647355,656250,TRUE,"Відділ Державної служби охорони при УМВС України в м.Севастополі"

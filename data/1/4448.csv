@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+541969,624910,3980,678000,622500,"2014-11-24",13,622500,622500,672000,TRUE,"Державний заклад ""Відділкова лікарня станції Знам’янка"" ДП ""Одеська залізниця"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+532535,615940,783,3600000,3498021,"2014-09-26",4,3498021,1166007,1317588,TRUE,"Військова частина А0215 МО України"

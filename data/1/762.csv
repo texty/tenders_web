@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+377774,422685,60711,2800000,2964530,"2012-11-30",1,2964530,2964530,3290833.26,TRUE,"Головне управління МВС України в Київській області"

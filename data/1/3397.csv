@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+476745,548749,2753,1300000,1036980,"2014-01-14",3,1036980,1036980,1299960,TRUE,"Управління освіти Сімферопольської міськради АР Крим"

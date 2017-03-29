@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449607,514323,126103,680000,612000,"2013-08-02",14,612000,612000,669120,TRUE,"Олександрівська сільрада міста Свердловська Луганської області"

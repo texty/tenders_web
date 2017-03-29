@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+531906,616630,74004,1742185,1597252,"2014-10-02",15,1597252,1597252,1636216,TRUE,"Львівська спеціалізована середня загальноосвітня школа №2 І-ІІІ ступенів з поглибленим вивченням англійської мови"

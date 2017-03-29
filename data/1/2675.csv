@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+452011,521400,77354,2819223,2807086.49,"2013-09-18",6,2807086.49,2807086.49,2809785.29,TRUE,"Міський комунальний заклад культури ""Дніпропетровська дитяча музична школа №15"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+222376,253852,100,NA,535000,"2011-12-08",15,535000,535000,632200,TRUE,"ПАТ ""ДТЕК Західенерго"""

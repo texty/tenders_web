@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+574445,668592,76435,3600000,4428610.42,"2015-03-10",24,4428610.42,4428610.42,4679902.33,TRUE,"Управління Державної служби охорони при УМВС України в Хмельницькій області"

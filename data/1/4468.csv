@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+547752,644417,401,510046.8,1608942.12,"2015-01-23",15,1608942.12,1608954,1689389.23,TRUE,"ПАТ ""УКРТРАНСГАЗ"" Філія ""УМГ ""ЛЬВІВТРАНСГАЗ"""

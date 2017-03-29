@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+230178,250758,398,NA,4552077.4,"2011-11-29",9,4552077.4,4552077.4,4625240.6,TRUE,"Тячівська міськрада Закарпатської області"

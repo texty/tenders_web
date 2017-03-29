@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+534567,615767,301,1392000,1099999.6,"2014-09-24",12,1099999.6,1178332.87,1330000,TRUE,"ВП ""Атомремонтсервіс"" ДП ""НАЕК ""Енергоатом"""

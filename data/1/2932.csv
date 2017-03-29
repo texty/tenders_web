@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+450261,514853,26946,2126050,630000,"2013-08-06",10,630000,630150,672160,TRUE,"Запорізьке  обласне відділення Фонду соцстрахування з тимчасової втрати працездатності"

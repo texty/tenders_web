@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+380756,423436,2799,1.2e+07,11276233.05,"2012-12-03",2,11276233.05,11276233.05,11368813.1,TRUE,"Кримське територіальне квартирно-експлуатаційне управління МО України"

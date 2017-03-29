@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+439285,505126,865,950000,947500,"2013-06-11",18,947500,947500,950000,TRUE,"Полтавська обласна клінічна лікарня ім.М.В. Скліфосовського"

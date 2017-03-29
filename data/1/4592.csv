@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+541401,629643,234015,2700000,3049159.32,"2014-12-09",16,3049159.32,3049159.32,3142543.36,TRUE,"Комунальне підприємство Миколаївської міської ради ""Капітальне будівництво міста Миколаєва"" "

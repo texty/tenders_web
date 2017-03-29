@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+547733,637955,2208,5e+05,560000,"2014-12-30",6,560000,560000,580000,TRUE,"Відділ освіти виконкому Довгинцівської районної в місті ради (м.Кривий Ріг Дніпропетровської області)"

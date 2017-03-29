@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+452166,523556,62855,2891222.8,2822392.08,"2013-10-02",24,2822392.08,2822392.08,2891213.28,TRUE,"Відділ освіти, молоді та спорту Хмельницької районної державної адміністрації"

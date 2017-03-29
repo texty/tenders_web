@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+224180,246644,998,NA,2376019.2,"2011-11-14",7,2376019.2,2376039,2702548.8,TRUE,"ДП ""Артемвугілля"""

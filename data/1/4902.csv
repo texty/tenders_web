@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+558282,666865,2905,444787,772500,"2015-03-05",1,772500,772500,795000,TRUE,"Державне підприємство ""Енергоринок"""

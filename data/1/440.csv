@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+247579,285937,6087,NA,595510,"2012-01-31",5,595510,595510,666770,TRUE,"Відділ освіти Маневицької районної державної адміністрації"

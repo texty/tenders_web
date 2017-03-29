@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+512779,589707,11721,572000,570700,"2014-04-14",9,570700,570743.9,571913.99,TRUE,"Управління освіти, молоді та спорту Виноградівської райдержадміністрації Закарпатської області"

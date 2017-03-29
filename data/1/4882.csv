@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+556721,651029,264546,5576939.6,5264122.3,"2015-02-09",10,5264122.3,5264122.3,5549196.04,TRUE,"Товариство з обмеженою відповідальністю ""Запорізький титано-магнієвий комбінат"""

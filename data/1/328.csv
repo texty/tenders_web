@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226178,248762,110082,NA,4400000,"2011-11-21",7,4400000,4400000,5e+06,TRUE,"Головне управління МНС України в Донецькій області"

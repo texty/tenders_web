@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454196,520370,33653,4087923,3993950,"2013-09-09",13,3993950,3994588,4081293,TRUE,"КП ""Інженерний центр"" м.Бобринець Кіровоградської області"

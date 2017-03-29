@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+375309,420193,50410,550000,549000,"2012-11-20",14,549000,549000,590000,TRUE,"Управління охорони здоров'я Ровеньківської міськради Луганської області"

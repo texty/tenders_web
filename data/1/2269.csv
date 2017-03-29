@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+443729,506242,590,552623,528540.3,"2013-06-14",1,528540.3,528570,560856.3,TRUE,"Секретаріат Київської міськради"

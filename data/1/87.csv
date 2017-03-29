@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+223654,249750,860,NA,7378171,"2011-11-25",3,7378171,7378171.2,7493941.2,TRUE,"ПАТ ""ДТЕК КРИМЕНЕРГО"""

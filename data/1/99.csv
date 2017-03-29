@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225307,252468,460,NA,834444,"2011-12-05",17,834444,834444,847104,TRUE,"ДП ""Морський торговельний порт ""Южний"""

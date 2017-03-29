@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+227132,247454,1591,NA,5330461.89,"2011-11-16",20,5330461.89,5330461.89,6039792.37,TRUE,"Управління капітального будівництва Сумської облдержадміністрації"

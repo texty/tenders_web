@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+517778,593154,3212,725000,638366,"2014-05-02",4,638366,678366,809760,TRUE,"Управління освіти Хмільницької міськради Вінницької області"

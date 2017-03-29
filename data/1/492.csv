@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+304343,358072,63764,NA,1917256.68,"2012-05-10",1,1917256.68,1917256.68,2620818,TRUE,"ДП ""Завод 410 ЦА"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+384066,452666,492,40500000,20413690,"2013-01-24",25,20413690,20413690,20576770.28,TRUE,"Служба автомобільних доріг у Черкаській області Держагентства автомобільних доріг України"

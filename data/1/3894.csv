@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+515217,604461,52301,2190730.71,2160388.03,"2014-07-08",1,2160388.03,2160388,2187446,TRUE,"ДП ""Центрально-Західна Компанія ""Вуглеторфреструктуризація"""

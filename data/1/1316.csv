@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+397006,458572,1389,563950,560000,"2013-02-07",16,560000,560000,563070,TRUE,"ЖОВТНЕВА ЦЕНТРАЛЬНА РАЙОННА ЛІКАРНЯ м.Миколаєва"

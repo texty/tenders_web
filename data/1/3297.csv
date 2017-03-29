@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+487170,553924,223898,956309,865005,"2014-01-27",15,865005,865082.0037,927126.004,TRUE,"Управління з питань освіти, молоді та спорту Золочівської райдержадміністрації Львівської області"

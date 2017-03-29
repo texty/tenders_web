@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+510581,585803,13336,629000,547200,"2014-04-02",15,547200,547200,627600,TRUE,"Відділ освіти Франківського району Управління освіти Департаменту гуманітарної політики Львівської міськради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+528597,617595,58985,6e+05,712350,"2014-10-07",16,712350,712350,715950,TRUE,"Квартирно-експлуатаційний відділ м.Миколаєва МО України"

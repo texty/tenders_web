@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+526034,615607,1333,7012843,14647538.24,"2014-09-25",1,14647538.24,14647538.24,20579160.36,TRUE,"ПАТ ""Київенерго"""

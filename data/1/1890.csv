@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+437731,499036,112150,8e+05,556591.2,"2013-05-14",22,556591.2,556591.2,562458,TRUE,"КП ""Міськелектротранссервіс"" м.Харків"

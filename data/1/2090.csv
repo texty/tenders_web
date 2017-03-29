@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+442169,503839,43133,805156,805156,"2013-06-05",3,805156,805156,857248,TRUE,"Спеціалізована монтажно-експлуатаційна дільниця Державтоінспекції УМВС України в м.Севастополі"

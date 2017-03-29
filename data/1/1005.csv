@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+388250,433826,2266,97130000,97685569,"2012-12-29",1,97685569,97685569,97916182,TRUE,"ДП ""НЕК ""Укренерго"""

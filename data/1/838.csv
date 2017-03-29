@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+372675,413379,217,720000,720000,"2012-10-19",10,720000,720000,763089.6,TRUE,"Комунальна установа ""Запорізька обласна клінічна лікарня"" Запорізької облради"

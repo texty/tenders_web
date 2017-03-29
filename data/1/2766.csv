@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+446595,521297,170468,137420312,137096880,"2013-09-16",1,137096880,137096880,137380446,TRUE,"Комунальне підприємство ""Дирекція з капітального будівництва та реконструкції ""Київбудреконструкція"""

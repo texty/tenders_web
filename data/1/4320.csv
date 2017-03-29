@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+540663,626937,596,887920,885249.36,"2014-11-28",10,885249.36,885260,908380,TRUE,"ВП ""Запорізька АЕС"" ДП ""НАЕК ""Енергоатом"""

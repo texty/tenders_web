@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+385127,431374,71,1410612,1410612,"2012-12-25",7,1410612,1410612,1418200,TRUE,"ДП ""ТОРЕЗАНТРАЦИТ"""

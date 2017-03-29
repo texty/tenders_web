@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+549185,634375,5054,1500000,1496700,"2014-12-29",8,1496700,1496700,1710000,TRUE,"КП ""Житомирське трамвайно-тролейбусне управління"" м.Житомира"

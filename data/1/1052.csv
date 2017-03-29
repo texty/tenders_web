@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+384944,427008,88519,19300700,18188932.8,"2012-12-13",17,18188932.8,18188932.8,18308872.8,TRUE,"Одеський апеляційний адміністративний суд"

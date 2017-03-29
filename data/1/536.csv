@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+340606,383225,9906,665000,647000,"2012-07-06",8,647000,647000,780000,TRUE,"ДП ""Словечанське лісове господарство"""

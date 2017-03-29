@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+364120,409211,1789,666835.48,666811.08,"2012-10-03",1,666811.08,666811.08,687567.66,TRUE,"Управління МВС України на Південно-Західній залізниці"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+532832,618779,160577,6e+05,780000,"2014-10-09",8,780000,780000,894990,TRUE,"Комунальне спеціалізоване ремонтно-будівельне підприємство ""Зеленбуд"" м.Житомир"

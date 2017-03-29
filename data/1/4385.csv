@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+540582,623291,712,6e+05,502200,"2014-11-17",22,502200,502200,576000,TRUE,"Інститут сцинтиляційних матеріалів НАН України"

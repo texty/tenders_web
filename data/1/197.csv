@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225958,246933,128,NA,633600,"2011-11-14",7,633600,648927,706533,TRUE,"ПАТ ""Шахтоуправління ""Донбас"""

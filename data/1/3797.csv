@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+516990,593520,3910,374562,536872.2,"2014-05-05",15,536872.2,536898,555627,TRUE,"ДЗ ""Дитячий спеціалізований (спеціальний) санаторій ""Джерело"" МОЗ України"

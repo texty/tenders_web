@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+453193,516446,240169,1900000,1898940,"2013-08-16",22,1898940,1898940,1899518,TRUE,"Обласне комунальне спеціалізоване підприємство з виконання норм екологічної безпеки "

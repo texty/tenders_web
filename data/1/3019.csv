@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+462802,532796,214,604631,597200,"2013-11-29",6,597200,597200,615000,TRUE,"Управління комунального господарства та будівництва Павлоградської міськради Дніпропетровської області"

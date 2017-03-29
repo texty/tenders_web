@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+381997,431170,339,5727176,809714.4,"2012-12-24",14,809714.4,809754,850212,TRUE,"ПАТ ""Лисичанськвугілля"""

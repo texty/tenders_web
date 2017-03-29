@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+445462,510543,106755,523800,514809.6,"2013-07-05",1,514809.6,514869,541535.44,TRUE,"Державна реєстраційна служба України"

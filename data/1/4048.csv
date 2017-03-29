@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+529548,609597,1926,6e+05,9e+05,"2014-08-12",15,9e+05,9e+05,950000,TRUE,"Комунальний заклад Львівської облради ""Львівський обласний центр екстреної медичної допомоги та медицини катастроф"""

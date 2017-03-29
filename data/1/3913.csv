@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+514301,601700,857,1008634,758587,"2014-06-19",22,758587,758587,840411.9,TRUE,"Зміївська теплова електрична станція ПАТ ""Центренерго"""

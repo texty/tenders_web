@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+541278,623309,1950,1500000,1435191.07,"2014-11-17",7,1435191.07,1435191.07,1461220.8,TRUE,"ДП ""Дзержинськвугілля"""

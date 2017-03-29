@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+512037,589850,102,850000,850000,"2014-04-15",1,850000,44436.71,50812,TRUE,"Управління виконавчої дирекції Фонду соцстрахування від нещасних випадків на виробництві та профзахворювань України у м.Києві"

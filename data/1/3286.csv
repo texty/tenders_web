@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+468427,542507,11084,395000,394200,"2014-01-01",27,394200,394200,420480,TRUE,"Чернігівський міськвиконком"
+489811,576004,9537,3e+05,258035.04,"2014-03-11",27,258035.04,258035.04,280560,TRUE,"Чернігівська облдержадміністрація"

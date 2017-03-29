@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+569047,667931,69931,504900,520344,"2015-03-06",12,520344,520344,710580,TRUE,"Відділ освіти Богуславської райдержадміністрації Київської області"

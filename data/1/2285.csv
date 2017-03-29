@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+446016,509883,18046,1443838.8,1341619.87,"2013-07-02",24,1341619.87,1341619.87,1469014.27,TRUE,"Комунальна установа Дунаєвецької райради ""Дунаєвецька центральна районна лікарня"" Хмельницької області"

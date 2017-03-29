@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+557108,648139,264526,691430,686958.09,"2015-01-26",22,686958.09,686958.09,691444,TRUE,"Державна гімназія-інтернат з посиленою військово-фізичною підготовкою ""Кадетський корпус"""

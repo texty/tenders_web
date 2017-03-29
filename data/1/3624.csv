@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+498175,589510,3244,1110900,1053400,"2014-04-15",4,1053400,1053400,2994500,TRUE,"Департамент енергетики, транспорту та зв’язку Вінницької міськради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+392051,471211,2287,1300000,1356840,"2013-02-27",24,1356840,1356840,1394046,TRUE,"Відділ освіти, молоді та спорту Білогірської райдержадміністрації Хмельницької області"

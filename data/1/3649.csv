@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+500186,589008,159,364000,357370,"2014-04-14",7,357370,357370,368800,TRUE,"ДП ""Укршахтгідрозахист"" "
+507187,590809,159,364000,357370,"2014-04-22",7,357370,357370,368800,TRUE,"ДП ""Укршахтгідрозахист"" "

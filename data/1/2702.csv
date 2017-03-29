@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+460137,526397,2424,2600000,2590107.91,"2013-10-22",4,2590107.91,2590198,2597718.92,TRUE,"Вінницький національний аграрний університет"

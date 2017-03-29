@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+518864,598186,1170,3079486.16,3070500,"2014-05-30",23,3070500,3070500,3213800,TRUE,"Міське комунальне підприємство ""Виробниче управління водопровідно-каналізаційного господарства міста Херсона"""

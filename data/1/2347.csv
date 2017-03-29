@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449086,517450,18984,8800000,8116680,"2013-08-22",26,8116680,8116680,8132160,TRUE,"Чернівецьке міське комунальне підрядне шляхово-експлуатаційне підприємство"

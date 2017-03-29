@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+552656,636460,1252,1092000,994000,"2015-01-06",22,994000,994035.5,1092039,TRUE,"Харківський національний університет внутрішніх справ"

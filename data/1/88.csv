@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+224093,250223,67,NA,799830,"2011-11-25",19,799830,799830,814400,TRUE,"ВП ""Рівненська АЕС"" ДП ""НАЕК ""Енергоатом"""

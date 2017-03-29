@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+407670,471754,4795,6300000,6249325.8,"2013-02-28",1,6249325.8,6249325.8,7367150,TRUE,"Управління освіти Печерської районної в місті Києві державної адміністрації"

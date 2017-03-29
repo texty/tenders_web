@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225277,248724,470,NA,799446.08,"2011-11-21",14,799446.08,799446.08,800659.2,TRUE,"ДЗ ""Луганський державний медичний університет"""

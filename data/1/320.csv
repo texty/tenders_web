@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225079,250265,109678,NA,18495000,"2011-11-25",6,18495000,18495000,18498000,TRUE,"КП ""Агентство регіонального розвитку ""Регіон-Лідер"" Дніпропетровської облради"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+227072,256265,5156,NA,4189758,"2011-12-09",5,4189758,4189758,4610748,TRUE,"Луцький національний технічний університет Міністерства освіти і науки України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+399323,455830,67589,2.3e+07,20511600,"2013-02-01",7,20511600,20511600,22671000,TRUE,"ПАТ по газопостачанню та газифікації ""Донецькоблгаз"""

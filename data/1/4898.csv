@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+561932,660131,105673,1380000,1145819.88,"2015-02-19",4,1145819.88,1145819.88,1853942.98,TRUE,"КП ""Жмеринкакомунсервіс""  Жмеринської міськради Вінницької області"

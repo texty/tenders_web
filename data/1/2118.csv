@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+442764,508478,195590,799998.8,785332.5,"2013-06-25",18,785332.5,785332.5,860157.5,TRUE,"Головне управління Державної служби України з надзвичайних ситуацій у Полтавській області"

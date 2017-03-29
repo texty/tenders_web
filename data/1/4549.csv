@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+548852,637636,258,610600,599380,"2015-01-12",26,599380,599459.9,666072.95,TRUE,"Виконавчий комітет Чернівецької міської ради"

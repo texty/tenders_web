@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+467862,542802,3931,873000,817844,"2014-01-03",23,817844,817844,841180,TRUE,"Херсонське вище училище фізичної культури Херсонської обласної ради "

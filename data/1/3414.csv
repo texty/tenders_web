@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+467520,543402,9427,853275,852500,"2014-01-08",22,852500,825500,868000,TRUE,"Управління освіти Адміністрації Орджонікідзевського району Харківської міськради"

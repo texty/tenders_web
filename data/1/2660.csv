@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+459619,523451,235688,1612813,1024140,"2013-10-02",3,1024140,1024140,1516500,TRUE,"КП ""Общепит"""

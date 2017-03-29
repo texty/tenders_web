@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+445595,513509,666,605000,605000,"2013-07-19",1,605000,605000,674000.04,TRUE,"Міністерство оборони України"

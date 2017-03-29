@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+414361,477948,11028,7e+05,708500,"2013-03-12",7,708500,708500,754750,TRUE,"Комунальна лікувально-профілактична установа Селидівська центральна міська лікарня Донецької області"

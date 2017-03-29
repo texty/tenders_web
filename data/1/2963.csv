@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+462075,534688,9635,4800000,4760400,"2013-12-06",1,4760400,4760400,4844640,TRUE,"Виконавча дирекція Фонду соцстрахування з тимчасової втрати працездатності"

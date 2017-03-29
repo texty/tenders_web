@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+400518,455564,2878,603500,562750,"2013-02-01",4,562750,562750,607200,TRUE,"Хмільницька центральна районна лікарня Вінницької області "

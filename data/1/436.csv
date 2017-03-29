@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+229652,292901,294,NA,195560007.11,"2012-02-13",12,195560007.11,195560007.11,199331258.76,TRUE,"ПАТ ""УКРГІДРОЕНЕРГО"""

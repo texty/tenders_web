@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+470112,565126,3758,7e+05,660000,"2014-02-12",5,660000,660000,850000,TRUE,"КЗ ""Луцька міська клінічна лікарня"" Волинської області"

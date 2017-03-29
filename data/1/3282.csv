@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+470390,542831,2485,550000,549835.92,"2014-01-15",1,549835.92,549835.92,558306,TRUE,"Пенсійний фонд України"

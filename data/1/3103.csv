@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+463753,539239,243054,1800000,1744083.2,"2013-12-25",6,1744083.2,1744083.2,1751408.8,TRUE,"КП ""Фонд комунального майна територіальної громади м.Марганця"""

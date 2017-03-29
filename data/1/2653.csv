@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+450863,518671,2908,6722800,6720200,"2013-08-28",1,6720200,6720200,6805800,TRUE,"Департамент охорони здоров’я Київської облдержадміністрації"

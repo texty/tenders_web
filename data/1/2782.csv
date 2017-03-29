@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+458588,526255,243058,506000,505278,"2013-10-21",6,505278,1010556,1116000,TRUE,"Комунальне підприємство ""Ритуал Сервіс Плюс"""

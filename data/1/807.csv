@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+362358,405645,1563,5e+06,3240300,"2012-09-20",23,3240300,3240300,3595879,TRUE,"Комунальна установа з капітального будівництва та експлуатації Херсонської облради"

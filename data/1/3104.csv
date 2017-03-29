@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+465229,543438,218579,864000,864000,"2014-01-08",12,864000,864000,872000,TRUE,"Комунальне підприємство Броварської міськради Київської області ""Бровари-Благоустрій"""

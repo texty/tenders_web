@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+231220,253294,112450,NA,7153894.8,"2011-12-06",14,7153894.8,7153894.8,7172680,TRUE,"Молодогвардійське комунальне виробниче підприємство водопроводно-каналізаційного господарства"

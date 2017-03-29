@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+465032,535947,125,725000,715000,"2013-12-13",23,715000,715000,724983.6,TRUE,"Управління транспортної, дорожньої інфраструктури і зв’язку  Херсонської міської ради"

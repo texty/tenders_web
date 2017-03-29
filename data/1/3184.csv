@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+468778,541707,4661,1500000,1448735,"2014-01-03",17,1448735,992.49,1063.7,TRUE,"База ресурсного забезпечення та аварійно-рятувальних робіт ДСНС України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+435693,496644,167836,658000,649986,"2013-05-07",25,649986,649986,656898,TRUE,"Управління містобудування та архітектури Уманської міськради Черкаської області"

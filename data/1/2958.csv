@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+460305,528716,1359,1013348,1012998,"2013-11-05",2,1012998,1013239.19,1030245.24,TRUE,"Севастопольське міське відділення Фонду соцстрахування з тимчасової втрати працездатності"

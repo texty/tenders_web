@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+248329,291956,90279,NA,2096640,"2012-02-09",10,2096640,2096640,2309760,TRUE,"Державне підприємство ""Запорізький державний авіаційний ремонтний завод ""МІГремонт"""

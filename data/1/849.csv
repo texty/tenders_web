@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+370885,413828,8413,4700000,3788857.96,"2012-10-22",24,3788857.96,3788857.96,3996915.83,TRUE,"Головне управління Держземагентства у Хмельницькій області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+494832,580982,15471,548000,534400,"2014-03-21",11,534400,534400,544000,TRUE,"Управління освіти Коломийської міськради Івано-Франківської області"

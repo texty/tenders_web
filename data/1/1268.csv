@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+396680,464152,75388,1483100,1246300,"2013-02-15",22,1246300,1246300,1302950,TRUE,"Відділ освіти Близнюківської райдержадміністрації Харківської області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+545846,634895,272989,4750000,4750000,"2014-12-29",7,4750000,29599.2,35523.42,TRUE,"Маріупольська філія державного підприємства ""Адміністрація морських портів України"" (Адміністрація Маріупольського морського порту)"

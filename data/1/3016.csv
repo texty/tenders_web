@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+464846,531089,5422,77400,51840,"2013-11-19",20,51840,51840,57400,TRUE,"Відділ освіти Охтирської міської ради"
+562402,657597,5422,511500,582645,"2015-02-20",20,582645,582645,590550,TRUE,"Відділ освіти Охтирської міської ради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+554269,658739,96,18852000,18852000,"2015-02-23",22,18852000,18852000,19200046.31,TRUE,"ПАТ ""Харківська ТЕЦ-5"""

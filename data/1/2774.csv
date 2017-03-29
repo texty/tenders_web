@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+452834,517932,2320,1550000,1406434,"2013-08-23",1,1406434,1406434,1453351,TRUE,"Департамент суспільних комунікацій виконавчого органу Київської міськради (Київської міськдержадміністрації)"

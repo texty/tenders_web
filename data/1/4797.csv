@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+570443,662436,16046,8e+05,705600,"2015-02-27",6,705600,705600,776160,TRUE,"Державний воєнізований гірничорятувальний (аварійно-рятувальний) загін Державної служби України з надзвичайних ситуацій"

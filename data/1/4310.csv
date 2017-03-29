@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+538458,620975,50438,3309764,2496220,"2014-11-03",26,2496220,2496220,2677161,TRUE,"Путильська селищна рада"

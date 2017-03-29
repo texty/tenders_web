@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+373975,415040,41802,9990000,9616808.4,"2012-10-30",3,9616808.4,9616808.4,9868786.8,TRUE,"ДП ""Санаторій ""Південний"" Державного управління справами"

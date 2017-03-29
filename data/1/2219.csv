@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+444706,511623,21161,590000,511000,"2013-07-11",3,511000,511000,520000,TRUE,"Управління культури Керченської міськради АР Крим"

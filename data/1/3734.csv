@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+505703,594025,1112,14665,14287922.88,"2014-05-05",12,14287922.88,14287922.88,15903142.18,TRUE,"Відділ капітального будівництва Броварської міської ради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+369053,411976,74055,26458500,25659189.6,"2012-10-10",22,25659189.6,25659189.6,25773304,TRUE,"КП ""Комунальник"" Зміївського району Харківської області"

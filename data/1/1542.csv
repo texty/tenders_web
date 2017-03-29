@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+415892,472599,4860,1008259,1006400,"2013-03-01",14,1006400,1006400,1047200,TRUE,"Відділ освіти Брянківської міськради Луганської області"

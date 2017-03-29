@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+550259,660165,58898,4173120,3780000,"2015-02-19",20,3780000,4536000,4838400,TRUE,"КП ""Шосткинський казенний завод ""Імпульс"" Сумської області"

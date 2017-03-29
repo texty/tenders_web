@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+551941,648067,407,577000,544181.78,"2015-02-03",1,544181.78,544181.06,568382.88,TRUE,"Національний технічний університет України ""Київський політехнічний інститут"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+440398,502089,10298,950000,915455,"2013-05-28",27,915455,915455,1087674,TRUE,"КЛПЗ ""ЧЕРНІГІВСЬКА ОБЛАСНА СТОМАТОЛОГІЧНА ПОЛІКЛІНІКА"""

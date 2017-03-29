@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+445805,513917,466,2990000,2990000,"2013-07-30",1,2990000,2990000,3050000,TRUE,"Фонд соцстрахування від нещасних випадків на виробництві та професійних захворювань України"

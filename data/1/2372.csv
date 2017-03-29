@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+438932,492525,1723,850251,850263.12,"2013-04-18",17,850263.12,850275,858755,TRUE,"Департамент охорони здоров’я Одеської міськради"

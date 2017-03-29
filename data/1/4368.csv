@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+538134,620321,833,10236376,9502129.88,"2014-10-28",21,9502129.88,9502129.88,10884588,TRUE,"Служба автомобільних доріг у Тернопільській області Держагентства автомобільних доріг України"

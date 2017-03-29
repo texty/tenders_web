@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+507804,593190,111617,1e+06,1145198.4,"2014-04-30",22,1145198.4,1145198.4,1386870,TRUE,"КП ""Харківська дирекція будівництва метрополітену"""

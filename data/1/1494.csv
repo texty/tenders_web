@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+397976,481981,580,3510000,3469469.19,"2013-03-19",12,3469469.19,3469469.19,3483435.35,TRUE,"Державне підприємство обслуговування повітряного руху України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+507055,582047,7711,1525000,1600000,"2014-03-24",21,1600000,1600000,1700000,TRUE,"Управління освіти і науки Тернопільської міської ради"

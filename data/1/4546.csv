@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+542330,624702,6105,550000,549930,"2014-11-24",15,549930,549930,549990.75,TRUE,"Територіальне управління Державної судової адміністрації України в Львівській області"

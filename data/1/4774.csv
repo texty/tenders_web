@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+551625,634513,551,8399724,5399925.6,"2014-12-30",1,5399925.6,5399925.6,6099912,TRUE,"Управління освіти Оболонської районної в місті Києві державної адміністрації"

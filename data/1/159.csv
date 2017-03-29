@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+223214,247346,2971,NA,354000,"2011-11-14",6,354000,354000,357000.86,TRUE,"Відділ освіти і науки Нікопольської міської ради"
+223225,247344,2971,NA,339000,"2011-11-14",6,339000,339000,342942,TRUE,"Відділ освіти і науки Нікопольської міської ради"

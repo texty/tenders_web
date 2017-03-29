@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+460707,527314,297,2298740,2297066.47,"2013-10-28",7,2297066.47,2297066.47,2372883.41,TRUE,"КП ""Компанія ""Вода Донбасу"""

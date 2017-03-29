@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+532088,613407,4797,648000,648000,"2014-09-09",22,648000,648000,715500,TRUE,"КО ""Харківський зоологічний парк"""

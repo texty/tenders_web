@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+448360,514644,121,24809125,24584551.87,"2013-08-05",17,24584551.87,24584551.87,24686040.88,TRUE,"Управління капітального будівництва Одеської міськради"

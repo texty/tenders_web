@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226211,250901,1145,NA,1974922.8,"2011-11-29",3,1974922.8,3620691.6,3667516.6,TRUE,"ПАТ по газопостачанню та газифікації ""Кримгаз"""

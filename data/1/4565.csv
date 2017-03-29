@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+539649,641263,75740,7e+05,1326313,"2015-01-16",22,1326313,1326313,1367822,TRUE,"Управління Державної служби охорони при ГУ МВС України в Харківській області"

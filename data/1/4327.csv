@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+540604,622723,1027,9e+05,9e+05,"2014-11-12",15,9e+05,119410,275840,TRUE,"Львівський національний університет імені Івана Франка Міністерства освіти і науки, молоді та спорту України"

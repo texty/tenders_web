@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+438984,502637,5176,889200,887166,"2013-05-29",8,887166,887166,9e+05,TRUE,"КНЗ ""Бердичівська спеціальна загальноосвітня  школа-інтернат""  Житомирської облради"

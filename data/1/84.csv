@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+219950,242476,2834,NA,1847759.69,"2011-10-27",7,1847759.69,1847759.69,1848264.89,TRUE,"Департамент житлово-комунального господарства Донецької облдержадміністрації"

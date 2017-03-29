@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+399118,459005,3800,778441,775881,"2013-02-08",22,775881,775881,779124,TRUE,"Харківська дирекція УДППЗ ""Укрпошта"""

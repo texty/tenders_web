@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+552807,647439,1406,3060000,3317040,"2015-02-02",12,3317040,3463920,3672000,TRUE,"ПАТ ""УКРТРАНСГАЗ"" Філія ""Виробниче ремонтно-технічне підприємство ""УКРГАЗЕНЕРГОСЕРВІС"""

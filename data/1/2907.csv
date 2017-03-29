@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454414,520349,1590,1200000,1199940,"2013-09-10",1,1199940,1199940,1260000,TRUE,"Державний науково-дослідний експертно-криміналістичний центр МВС України"

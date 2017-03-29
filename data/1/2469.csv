@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+442035,503173,48221,2561186,2556220.46,"2013-05-31",23,2556220.46,2556220,2559390,TRUE,"Бериславське міжрайонне управління водного господарства"

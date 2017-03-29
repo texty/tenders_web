@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+491225,562206,121631,1109772,1109772,"2014-02-12",7,1109772,1109772,1757139,TRUE,"КЗ ""Центр первинної медико-санітарної допомоги №1 м.Горлівка"" Донецької області"

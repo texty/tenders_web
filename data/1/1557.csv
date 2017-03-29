@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+412135,476291,2911,2e+06,2e+06,"2013-03-11",3,2e+06,2e+06,2158222,TRUE,"Департамент регіонального розвитку і комунального господарства Красноперекопської міськради"

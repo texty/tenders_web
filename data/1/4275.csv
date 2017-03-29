@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+539505,622107,70,8257883,7934532.6,"2014-11-10",7,7934532.6,7934532.6,9496600.8,TRUE,"ПАТ ""ДТЕК ДОНЕЦЬКОБЛЕНЕРГО"""

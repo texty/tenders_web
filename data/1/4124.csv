@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+532248,614238,4133,6e+05,584997.6,"2014-09-12",15,584997.6,584997.6,625000,TRUE,"Управління природних ресурсів та регулювання земельних відносин департаменту містобудування Львівської міськради"

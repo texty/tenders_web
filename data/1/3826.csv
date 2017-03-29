@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+523541,601136,7612,640300,638066,"2014-06-17",19,638066,638066,660052,TRUE,"КЗ ""Обласний центр профілактики та боротьби зі СНІДом"" Рівненської облради"

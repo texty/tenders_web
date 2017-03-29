@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+450514,514994,11106,1800000,1484116.06,"2013-08-06",6,1484116.06,1484116.06,1743261.04,TRUE,"КЗ ""Верхівцевський психоневрологічний інтернат"" Дніпропетровської облради"""

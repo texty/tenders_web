@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+515310,598183,1989,520000,690526,"2014-05-30",15,690526,690526,694060,TRUE,"Управління охорони здоров’я департаменту гуманітарної політики Львівської міськради"

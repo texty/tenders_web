@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+453431,520580,122709,3892100,3413761.79,"2013-09-10",1,3413761.79,3502372.25,3548505.02,TRUE,"Державна служба статистики України"

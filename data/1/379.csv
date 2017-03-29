@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+224404,252207,4472,0,1786863.225404,"2011-12-01",15,1786863.225404,166676,187171,TRUE,"Державне підприємство ""Боринське лісове господарство"""

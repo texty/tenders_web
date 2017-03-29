@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+443742,509343,25688,585400,585375,"2013-07-01",27,585375,585375,918750,TRUE,"Відділ освіти Новгород-Сіверської райдержадміністрації Чернігівської області"

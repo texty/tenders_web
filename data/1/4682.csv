@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+552123,643609,57259,1466225,1510222,"2015-01-22",7,1510222,1510222,1528520,TRUE,"Комунальне підприємство ""Добропільський міський транспорт"""

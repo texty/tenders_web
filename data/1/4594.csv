@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+550840,632027,4952,1300000,1172999.27,"2014-12-22",15,1172999.27,1172999.27,1289999.49,TRUE,"Військово-медичний клінічний центр Західного регіону МО України"

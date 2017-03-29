@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+444840,512194,146079,24500000,23216042.16,"2013-07-10",7,23216042.16,23216238.16,24240952.36,TRUE,"Шахтарський міськвиконком Донецької області"

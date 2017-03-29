@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+471328,563707,2369,1960000,1875315.42,"2014-02-13",27,1875315.42,1875315.42,1918580.08,TRUE,"Управління житлово-комунального господарства та будівництва Ніжинської міської ради"

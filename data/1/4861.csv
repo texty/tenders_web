@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+555611,651775,4487,3100000,3167100,"2015-02-11",11,3167100,6388531.85,6423294.6,TRUE,"ДП ""Гринявське лісове господарство"""

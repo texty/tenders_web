@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+387237,460516,495,1.7e+07,16985020.44,"2013-02-08",1,16985020.44,31139204.14,32269846.91,TRUE,"Публічне акціонерне товариство ""Державне акціонерне товариство ""Чорноморнафтогаз"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+569965,668530,11086,1200000,1434217.7,"2015-03-10",8,1434217.7,1434217.7,1437854,TRUE,"Відділ освіти Малинської райдержадміністрації Житомирської області"

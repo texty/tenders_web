@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+548016,639149,12458,697500,696415,"2015-01-12",22,696415,696415,852500,TRUE,"Управління освіти адміністрації Комінтернівського району Харківської міськради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+553738,650841,159646,1121184,1120700.35,"2015-02-09",8,1120700.35,1120700.35,1209449.76,TRUE,"Баранівський професійний ліцей"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+331538,372697,113632,8e+05,715677.6,"2012-06-11",10,715677.6,65061.6,71898,TRUE,"Комунальне підприємство ""Титан"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+536798,623346,67,1990800,1814183.3115,"2014-11-14",19,1814183.3115,94500,2310000,TRUE,"ВП ""Рівненська АЕС"" ДП ""НАЕК ""Енергоатом"""

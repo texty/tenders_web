@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+405473,469258,2386,3910000,3892009.44,"2013-02-21",4,3892009.44,3892053,3901102.92,TRUE,"Південно-Західна електроенергетична система ДП ""НЕК ""Укренерго"" "

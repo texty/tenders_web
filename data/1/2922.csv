@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+455070,520150,47735,2e+06,1988070,"2013-09-03",1,1988070,1988070,1998300,TRUE,"Київський міський консультативно-діагностичний центр"

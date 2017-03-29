@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+348598,393421,3868,654711,611490,"2012-08-06",14,611490,611490,626750,TRUE,"Управління охорони здоров’я Свердловської міськради Луганської області"

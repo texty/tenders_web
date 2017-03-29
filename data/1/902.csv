@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+375376,421355,111884,6204000,5834890,"2012-11-26",15,5834890,5834890,6060000,TRUE,"Військова частина А3913"

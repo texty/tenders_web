@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+538561,620607,20814,577365,577365,"2014-10-27",12,577365,15,15.9,TRUE,"Київський центр соціальної адаптації престарілих, інвалідів та інших осіб, що не мають постійного місця проживання"

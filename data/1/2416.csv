@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449542,513722,2479,825884.6,820000.8,"2013-07-26",24,820000.8,820000.8,837872.4,TRUE,"Хмельницький обласний центр фізичного виховання учнівської молоді "

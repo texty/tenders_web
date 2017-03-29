@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+428752,492291,103,704000,7e+05,"2013-04-19",20,7e+05,7e+05,983510,TRUE,"Сумська облрада"

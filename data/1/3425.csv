@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+467893,550431,25551,1749700,1711270,"2014-01-17",7,1711270,1711270,2095632.2,TRUE,"Департамент житлово-комунального господарства Горлівської міськради Донецької області"

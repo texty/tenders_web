@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+549114,631987,3079,6e+05,597007.05,"2014-12-21",25,597007.05,636063.59,639167.1,TRUE,"Комунальний заклад ""Черкаський обласний онкологічний диспансер"" Черкаської обласної ради"

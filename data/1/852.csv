@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+370026,416034,719,2400000,2393364.18,"2012-10-31",1,2393364.18,2393364.18,2485341.72,TRUE,"Публічне акціонерне товариство ""Державний ощадний банк України"""

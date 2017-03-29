@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+539098,621042,253,1049620,1023980,"2014-11-03",12,1023980,1023980,1025440,TRUE,"Дніпровське басейнове управління водних ресурсів"

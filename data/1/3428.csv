@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+469646,539908,6639,3540000,3539844,"2013-12-26",1,3539844,3539844,3750000,TRUE,"Центральний госпіталь МВС України"

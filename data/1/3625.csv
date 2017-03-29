@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+501882,587362,47477,6501012,6493126,"2014-04-04",4,6493126,6493126,6859914,TRUE,"КП ""Вінницьке шляхове управління"""

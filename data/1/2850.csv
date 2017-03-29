@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454624,519517,6202,8842000,8671977.6,"2013-09-03",3,8671977.6,8671977.6,8702770.8,TRUE,"Батальйон патрульної служби Сімферопольського міського управління ГУ МВС України в АР Крим"

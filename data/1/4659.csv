@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+555825,651537,4027,975700,975539.2,"2015-02-10",22,975539.2,975539,975699,TRUE,"Харківська середня спеціалізована музична школа-інтернат"

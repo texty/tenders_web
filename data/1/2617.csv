@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+456089,523775,73696,551350,547200,"2013-10-04",25,547200,547200,576000,TRUE,"ДНЗ ""Канівське вище професійне училище"" Черкаської області"

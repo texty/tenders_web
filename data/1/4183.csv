@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+527816,612495,38657,1e+08,41987949.61,"2014-09-02",17,41987949.61,41988010,42097962,TRUE,"ПАТ ""ЕК Одесаобленерго"""

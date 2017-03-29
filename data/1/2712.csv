@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+457467,525345,243376,15713714,14142302,"2013-10-15",15,14142302,14142302,14927424,TRUE,"Миколаївське комунальне підприємство ""Житлово-комунальне управління"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+453823,524957,1803,425300,1360501.62,"2013-10-14",7,1360501.62,1360501.62,1725308.14,TRUE,"ДП ""Шахтарськантрацит"""

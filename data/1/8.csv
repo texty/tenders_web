@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+223585,244839,108930,NA,2679267.6,"2011-11-07",22,2679267.6,2679267.6,2808945.6,TRUE,"Сахновщинська селищна рада Харківської області"

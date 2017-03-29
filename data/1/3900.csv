@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+517808,599343,85238,840266,956957.1,"2014-06-05",18,956957.1,956957,975097,TRUE,"Прокуратура Полтавської області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+466853,539076,1246,2457824,2456713.67,"2013-12-24",6,2456713.67,2456713.67,2601171,TRUE,"Департамент житлово-комунального господарства та будівництва Дніпродзержинської міськради Дніпропетровської області"

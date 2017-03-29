@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+540618,625217,10160,6e+05,674854.96,"2014-11-26",19,674854.96,674854.96,705421.2,TRUE,"КЗ ""Обласний центр екстреної медичної допомоги та медицини катастроф""  Рівненської облради"

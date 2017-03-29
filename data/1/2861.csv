@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+456392,522496,145,250000,199000,"2013-09-24",3,199000,199000,236985,TRUE,"Міністерство курортів і туризму АР Крим"
+481258,563580,145,450000,390000,"2014-02-13",3,390000,390000,465000,TRUE,"Міністерство курортів і туризму АР Крим"

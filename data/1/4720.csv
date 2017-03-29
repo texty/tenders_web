@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+552237,636149,71097,631200,631179,"2015-01-05",1,631179,631179,684480,TRUE,"ПАТ ""Укртрансгаз"" в особі філії ""Агрогаз"" "

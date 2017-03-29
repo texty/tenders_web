@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+385897,430815,6519,1400000,1638300,"2012-12-21",17,1638300,1638300,1651200,TRUE,"Виробниче управління житлово-комунального господарства Затоківської селищної ради"

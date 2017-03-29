@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+332552,376417,164077,290000,579804,"2012-06-19",26,579804,579804,598836,TRUE,"Національний природний парк ""Хотинський"""

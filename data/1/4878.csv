@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+567979,665040,250,527040,527040,"2015-03-02",15,527040,527040,553392,TRUE,"Львівський інститут банківської справи Університету банківської справи Національного банку України (м.Київ)"

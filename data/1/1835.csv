@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+425325,496830,1325,1351000,1160303.96,"2013-05-07",17,1160303.96,1160303.96,1183139.56,TRUE,"ДП ""Ізмаїльський морський торговельний порт"""

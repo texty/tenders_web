@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+391301,447541,4424,3440000,3200000,"2013-01-22",1,3200000,3200041,3440044,TRUE,"ДП ""Національний центр Олександра Довженка"""

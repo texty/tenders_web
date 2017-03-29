@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+456296,520934,680,8104324,7985051,"2013-09-13",1,7985051,7985051,8100032.4,TRUE,"Комунальне підприємство з питань будівництва житлових будинків ""Житлоінвестбуд-УКБ"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+229552,252086,40030,NA,649664,"2011-12-02",1,649664,649664,665000,TRUE,"Київський апеляційний господарський суд"

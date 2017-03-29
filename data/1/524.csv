@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+330911,376355,2921,482990,588984,"2012-06-20",22,588984,588984,737200,TRUE,"КП ""Харківводоканал"""

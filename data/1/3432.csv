@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+479841,561006,48,7e+05,698283.02,"2014-02-10",3,698283.02,698283.02,787864.89,TRUE,"Управління житлово-комунального господарства  Сімферопольської  міськради АР Крим"

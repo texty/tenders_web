@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+462125,535921,37,3400000,3376498.67,"2013-12-06",6,3376498.67,3376498.67,3399344.4,TRUE,"КП ""Гідроспоруди"" Дніпропетровської міськради"

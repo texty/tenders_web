@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225525,258919,61837,NA,701816.4,"2011-12-20",1,701816.4,701816.4,724024.8,TRUE,"ДП ""Головний навчальний та сертифікаційний центр цивільної авіації України"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+428274,493271,453,831100,828000,"2013-04-22",6,828000,828000,908916,TRUE,"Служба автомобільних доріг у Дніпропетровській області Держагентства автомобільних доріг України"

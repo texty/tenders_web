@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+413034,466657,2808,17537678.36,17526524.12,"2013-02-20",16,17526524.12,17526524.12,17710235.48,TRUE,"Миколаївська обласна лікарня - заклад комунальної власності області"

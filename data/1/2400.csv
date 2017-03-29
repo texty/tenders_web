@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449374,511615,35810,699998.4,699499.94,"2013-07-12",7,699499.94,699499,705635,TRUE,"Комунальне комерційне підприємство Донецької міськради ""Донецькміськсвітло"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+555996,648039,16186,817622.24,816876.52,"2015-02-02",8,816876.52,816876.52,817617.13,TRUE,"КУ ""Обласна база спеціального медичного постачання"" Житомирської облради"

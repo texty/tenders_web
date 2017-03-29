@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+443362,505626,221986,698996,654251.25,"2013-06-12",3,654251.25,654251.25,670952.5,TRUE,"Бахчисарайське територіальне медичне об’єднання АР Крим"

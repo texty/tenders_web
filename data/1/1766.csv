@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+439008,501515,184300,525000,525000,"2013-05-24",7,525000,525000,6e+05,TRUE,"Головне управління ДСНС України у Донецькій області"

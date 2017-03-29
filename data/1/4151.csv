@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+522562,605854,2928,2486310,2372623,"2014-07-16",23,2372623,2372623,2455344,TRUE,"Міське комунальне підприємство ""Херсонтеплоенерго"""

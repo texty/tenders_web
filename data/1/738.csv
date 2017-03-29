@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+378617,423545,3130,3098475.6,3090655.2,"2012-12-07",10,3090655.2,3090655.2,3096774,TRUE,"Відділ капітального будівництва Мелітопольської міськради Запорізької області"

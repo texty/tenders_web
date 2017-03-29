@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+566195,664858,2500,2641800,2635510,"2015-03-02",8,2635510,2635510,2729356.8,TRUE,"Відділ освіти Чуднівської районної державної адміністрації"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+523690,604609,5300,613000,605300,"2014-07-08",6,605300,605300,610100,TRUE,"КП ""Дніпродорсервіс"" Дніпропетровської міськради "

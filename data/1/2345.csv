@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+435425,505363,352,6389575,6382151,"2013-06-11",6,6382151,6382151,6388842,TRUE,"Управління житлово-комунального господарства Нікопольської міськради Дніпропетровської області"

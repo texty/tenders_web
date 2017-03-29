@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+442610,505085,4610,1e+06,998800,"2013-06-10",6,998800,998800,1103243,TRUE,"Дніпропетровське обласне управління водних ресурсів Держводагентства України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+483736,561853,6557,596656,570484,"2014-02-11",6,570484,570595.3,629597.3,TRUE,"Відділ освіти Покровської райдержадміністрації Дніпропетровської області"

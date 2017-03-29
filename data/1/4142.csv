@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+529278,613951,22514,922767,832920,"2014-09-09",19,832920,836706,925437.5,TRUE,"Комунальне автотранспортне підприємство 1728 Рівненського міськвиконкому"

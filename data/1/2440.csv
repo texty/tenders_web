@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+437987,506322,1370,2e+06,1875000,"2013-06-14",22,1875000,1875000,1950000,TRUE,"Департамент  науки і освіти  Харківської облдержадміністрації"

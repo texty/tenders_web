@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+535762,621597,277106,650000,648000,"2014-11-05",8,648000,648000,708000,TRUE,"Науково-дослідний експертно-криміналістичний центр при УМВС України в Житомирській області"

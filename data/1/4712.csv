@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+552197,648427,127732,6e+05,6e+05,"2015-02-03",13,6e+05,6e+05,630000,TRUE,"Гайворонський професійний аграрний ліцей "

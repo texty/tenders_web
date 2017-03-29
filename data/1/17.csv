@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225981,243971,1681,NA,7600000,"2011-11-03",1,7600000,7600000,7988882,TRUE,"Державний центр зайнятості Міністерства соціальної політики України"

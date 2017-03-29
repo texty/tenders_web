@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+443148,512452,1003,4407791,4391918.4,"2013-07-17",22,4391918.4,4391918.4,4405682.4,TRUE,"Департамент капітального будівництва Харківської обласної державної адміністрації"

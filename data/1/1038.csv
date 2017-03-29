@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+386578,442911,521,2112360,2350000,"2013-01-15",1,2350000,2350000,2500000,TRUE,"Центральний спортивний клуб Збройних Сил України"

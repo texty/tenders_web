@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+520784,607944,10441,1706550,1532175,"2014-07-29",18,1532175,1532175,1785600,TRUE,"Полтавське комунальне автотранспортне підприємство 1628"

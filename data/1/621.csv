@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+370739,413904,6108,705180,523344.3,"2012-10-23",7,523344.3,523344.3,626099.1,TRUE,"Відділ освіти Артемівської райдержадміністрації Донецької області"

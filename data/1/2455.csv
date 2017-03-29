@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+451048,513673,95000,1959400,1956150,"2013-07-26",22,1956150,1956150,2381400,TRUE,"Харківське обласне відділення  Фонду соцстрахування з тимчасової втрати працездатності"

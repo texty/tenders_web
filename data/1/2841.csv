@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+450511,516110,1194,2400000,2398478,"2013-08-14",7,2398478,2398478.86,2405021.68,TRUE,"Головне управління благоустрою та комунального обслуговування Донецької міськради"

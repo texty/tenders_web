@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+451039,518438,34088,2900000,2877480,"2013-08-28",12,2877480,360038.063287748,3600000,TRUE,"ДП ""Науково-дослідний інститут нафтогазової промисловості"" ПАТ ""НАК ""Нафтогаз України"""

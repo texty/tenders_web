@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+442552,515049,215,60228000,55896703.2,"2013-08-06",26,55896703.2,55896703.2,56900698.8,TRUE,"Управління капітального будівництва Чернівецької облдержадміністрації"

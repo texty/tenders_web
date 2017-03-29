@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+223790,247866,1577,NA,540000,"2011-11-17",14,540000,540000,553835,TRUE,"Щастинський міськвиконком Луганської області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+477274,569039,4645,2090000,1729956,"2014-02-24",3,1729956,1729956,2030806,TRUE,"Управління житлово-комунального господарства Керченської міськради АР Крим"

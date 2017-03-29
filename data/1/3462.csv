@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+464087,576610,243471,750000,699420,"2014-03-11",25,699420,699420,741150,TRUE,"ПАТ ""Укртрансгаз"" Філія ""Дирекція з будівництва та реконструкції газотранспортної системи"""

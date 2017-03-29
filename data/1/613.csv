@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+374602,420214,180,120000,120000,"2012-11-20",15,120000,120000,144000,TRUE,"ВП ""Західна електроенергетична система"" ДП ""НЕК ""Укренерго"""
+531970,615750,2266,9e+05,9e+05,"2014-09-25",1,9e+05,9e+05,1140000,TRUE,"ДП ""НЕК ""Укренерго"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+343413,388910,3913,1500000,2546536.5,"2012-07-23",17,2546536.5,2970959.25,3063925.9,TRUE,"ДП ""Білгород-Дністровський морський торговельний порт"""

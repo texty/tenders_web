@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+527729,606866,3295,2050000,2004000,"2014-07-22",17,2004000,2004000,2005200,TRUE,"Військово-медичний клінічний центр Південного регіону МО України"

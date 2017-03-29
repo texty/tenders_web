@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+367341,415407,28896,2854385,2362179.6,"2012-10-30",17,2362179.6,2362179.6,2752482,TRUE,"Дальницька сільрада Овідіопольського району Одеської області"

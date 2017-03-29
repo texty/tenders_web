@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+266376,330781,1254,NA,9e+06,"2012-03-28",26,9e+06,15903.61,16623.04,TRUE,"ДП ""Берегометське лісомисливське господарство"""

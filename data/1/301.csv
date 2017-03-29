@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+228815,249748,77828,NA,1298548,"2011-11-23",8,1298548,1514973,1525092,TRUE,"Городницька селищна рада"

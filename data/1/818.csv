@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+359556,409729,1291,1350000,1078264.8,"2012-10-05",23,1078264.8,1078264.8,1117200,TRUE,"ДП ""Херсонський морський торговельний порт"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+384258,429292,2799,4437000,4415904,"2012-12-19",2,4415904,4415904,4419360,TRUE,"Кримське територіальне квартирно-експлуатаційне управління МО України"

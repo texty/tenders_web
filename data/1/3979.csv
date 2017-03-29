@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+527795,613096,5,48030000,46189220.4,"2014-09-02",10,46189220.4,46189220.4,50866447.2,TRUE,"ПАТ ""ДТЕК ДНІПРОЕНЕРГО"""

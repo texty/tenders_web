@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+392570,464002,22419,3538538,3026050.73,"2013-02-15",3,3026050.73,3026050,3454985,TRUE,"Управління капітального будівництва Керченської міськради АР Крим"

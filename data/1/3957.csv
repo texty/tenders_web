@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+527209,606832,3765,526200,519600,"2014-07-22",7,519600,519600,525120,TRUE,"Донецький обласний ліцей-інтернат з посиленою військово-фізичною підготовкою імені Г.Т. Берегового  Донецької облради"

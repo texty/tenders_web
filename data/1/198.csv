@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225983,247320,6416,NA,900643,"2011-11-15",3,900643,900663,947500.8,TRUE,"ДП ""Куйбишевське лісове господарство"""

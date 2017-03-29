@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+546381,630789,40726,1660000,1656115.2,"2014-12-15",13,1656115.2,1656115.2,1740000,TRUE,"ПАТ ""Кіровоградобленерго"""

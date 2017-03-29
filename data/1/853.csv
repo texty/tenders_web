@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+376347,427109,3083,2997627.61,2890600,"2012-12-13",3,2890600,2890600,2996400,TRUE,"ДП ""Херсонський облавтодор"" ВАТ ""ДАК ""Автомобільні дороги України"""

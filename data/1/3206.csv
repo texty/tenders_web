@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+460245,529542,107724,1290000,1290000,"2013-11-08",1,1290000,1290000,1350000,TRUE,"Міністерство регіонального розвитку, будівництва та житлово-комунального господарства України"

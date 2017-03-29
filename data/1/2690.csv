@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+458325,525051,415,3902484,3829921.2,"2013-10-15",18,3829921.2,3829921.2,3886326,TRUE,"Управління капітального будівництва Полтавської облдержадміністрації"

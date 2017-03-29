@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+416777,484935,244,939675,939675,"2013-03-27",14,939675,939675,939750,TRUE,"Виконавчий апарат Луганської облради"
+504767,593323,244,937200,937050,"2014-04-29",14,937050,937050,937275,TRUE,"Виконавчий апарат Луганської облради"

@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+444873,511428,860,129600,129600,"2013-07-05",3,129600,129600,132000,TRUE,"ПАТ ""ДТЕК КРИМЕНЕРГО"""
+543506,633344,416,4e+05,399840,"2014-12-23",6,399840,399840,399996,TRUE,"ДП ""Придніпровська залізниця"""

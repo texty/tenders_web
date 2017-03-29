@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+411407,480173,72089,518750,511250,"2013-03-15",6,511250,511250,524550,TRUE,"КП ""Дніпродзержинський спецкомбінат"" Дніпропетровської області"

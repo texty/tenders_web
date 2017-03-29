@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+525176,609092,588,2259796,2136579.6,"2014-08-07",22,2136579.6,2136579.6,2247385.2,TRUE,"Управління з будівництва, ремонту та реконструкції Департаменту будівництва та шляхового господарства Харківської міської ради"

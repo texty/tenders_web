@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225838,248104,1708,NA,719940,"2011-11-18",12,719940,719940,725250,TRUE,"Національний університет Державної податкової служби України"

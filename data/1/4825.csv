@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+557621,664490,5429,3822000,7490000,"2015-03-03",4,7490000,7495350,7565400,TRUE,"Комунальне підприємство ""Вінницяоблводоканал"""

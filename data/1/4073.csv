@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+528773,609672,162502,3025400,3010660,"2014-08-11",12,3010660,3010660,3021850,TRUE,"КП ""Комбінат комунальних підприємств м.Василькова"" Київської області"

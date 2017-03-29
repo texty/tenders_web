@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+386606,433679,3117,3997866,3453487.2,"2012-12-28",4,3453487.2,3453487.2,3665653.2,TRUE,"Комунальна установа ""Барська центральна районна лікарня"""

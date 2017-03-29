@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+398117,442213,1348,640575,594150.7,"2013-01-15",7,594150.7,594150.7,595351.5,TRUE,"Відділ освіти Красноармійської міськради Донецької області"

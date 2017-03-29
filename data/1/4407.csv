@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+541206,619961,666,299000,294150,"2014-10-24",1,294150,294150,299450,TRUE,"Міністерство оборони України"
+541475,633008,677,5202950,5217821.86,"2014-12-24",1,5217821.86,5217821.86,5582868.95,TRUE,"Національний банк України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+537849,618836,4714,1015000,1014480,"2014-10-20",7,1014480,1014480,1260000,TRUE,"КВП ""Краматорський водоканал"" Донецької області"

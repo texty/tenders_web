@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+555153,669118,5792,1300000,1044805.88,"2015-03-10",10,1044805.88,1044805.88,1174146.77,TRUE,"Управління житлово-комунального господарства Мелітопольської міської ради Запорізької області"

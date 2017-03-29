@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+466963,544394,6118,592000,579900,"2014-01-08",6,579900,579900,602000,TRUE,"Відділ освіти виконкому Інгулецької районної у місті ради (м.Кривий Ріг Дніпропетровської області)"

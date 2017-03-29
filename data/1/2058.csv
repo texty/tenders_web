@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+430192,486744,708,1258573.99,1258415.27,"2013-04-02",6,1258415.27,1258415.27,1259831.76,TRUE,"Департамент комунального господарства та капітального будівництва Дніпропетровської міськради "

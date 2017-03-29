@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449758,515349,1677,1823749.6,1804980,"2013-08-08",15,1804980,1804.98,1882.494,TRUE,"Госпрозрахунковий відділ капітального будівництва при Стрийському міськвиконкомі Львівської області"

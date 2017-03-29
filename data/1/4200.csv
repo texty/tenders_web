@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+539056,620401,209052,965000,1094010.78,"2014-10-29",24,1094010.78,1094010.78,1157675.03,TRUE,"Хмельницький обласний центр екстреної медичної допомоги та медицини катастроф Хмельницької облради "

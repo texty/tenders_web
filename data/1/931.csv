@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+389001,438726,8397,2.1e+07,20800042.8,"2013-01-09",22,20800042.8,20800042.8,21796521.92,TRUE,"Комунальне підприємство ""Центральний парк культури та відпочинку імені М. Горького"""

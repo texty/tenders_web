@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+459954,529648,244609,8e+05,799820.86,"2013-11-08",18,799820.86,799820.86,881105.94,TRUE,"ПАТ ""Полтаваплемсервіс"""

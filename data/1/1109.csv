@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+385909,428755,159627,2024797,1906492.8,"2012-12-18",21,1906492.8,1906492.8,2022687.6,TRUE,"Відділ культури і туризму Козівської райдержадміністрації Тернопільської області"

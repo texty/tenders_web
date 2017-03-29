@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+370686,410991,69147,3e+06,3089600,"2012-10-09",13,3089600,3604533.34,3803333.4,TRUE,"Об’єднане автогосподарство медичних закладів"

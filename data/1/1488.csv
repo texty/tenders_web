@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+399299,463603,3138,1046000,1027495.44,"2013-02-15",7,1027495.44,1027495.44,1055646,TRUE,"Відділ освіти Мар'їнської райдержадміністрації Донецької області"

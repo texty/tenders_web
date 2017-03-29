@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+530680,608071,641,934000,505000,"2014-07-28",12,505000,505000,521900,TRUE,"ДУ ""Національний інститут хірургії та трансплантології ім. О.О. Шалімова"" НАМН України"

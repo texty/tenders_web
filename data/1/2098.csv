@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+445391,506854,78444,7e+05,689743,"2013-06-18",23,689743,689743,695543,TRUE,"Херсонська централізована бібліотечна система"

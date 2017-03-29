@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+566396,664140,10514,640000,624327,"2015-03-02",15,624327,624327,637935,TRUE,"Середня загальноосвітня школа №98 м.Львова"

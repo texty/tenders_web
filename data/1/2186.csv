@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+444922,509591,1092,4840800,4832988.77,"2013-07-02",10,4832988.77,4832988.77,5322390.53,TRUE,"МКП ""Основаніє"" м.Запоріжжя"

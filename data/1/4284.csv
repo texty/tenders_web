@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+535368,616039,9675,6e+05,598500,"2014-09-29",21,598500,598500,687999.3,TRUE,"Тернопільська міська комунальна лікарня швидкої допомоги"

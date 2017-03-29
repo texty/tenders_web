@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+387605,428299,1605,195000,19366800,"2012-12-17",12,19366800,193668,197061,TRUE,"Бориспільська центральна районна лікарня  Київської області"

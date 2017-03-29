@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+526386,608424,135274,2848891,2720610,"2014-07-31",19,2720610,2720610,2823072,TRUE,"КЗ ""Рівненський міський палац культури"" Рівненської міськради"

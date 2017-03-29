@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+338550,384858,124817,1200000,1145274,"2012-07-09",4,1145274,1145274,1180000,TRUE,"ДП ""Хмільницький лісгосп"" Вінницького обласного управління лісового та мисливського господарства"

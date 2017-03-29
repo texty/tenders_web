@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+365976,417173,187612,7200000,7773167,"2012-11-06",15,7773167,7773167,8577542,TRUE,"Доброгостівська сільрада Дрогобицького району Львівської області"

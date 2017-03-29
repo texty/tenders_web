@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+522352,604621,5506,3042400,2936973.7,"2014-07-08",17,2936973.7,2936973.7,3038746,TRUE,"Золочівська міськрада Львівської області"

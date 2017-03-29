@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+419249,472474,1552,542400,528614,"2013-03-01",1,528614,528614,542400,TRUE,"КЗ ""Криворізький протитуберкульозний диспансер №2"" Дніпропетровської облради"""

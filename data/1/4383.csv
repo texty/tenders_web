@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+538320,626336,477,5e+05,520000,"2014-11-09",8,520000,520000,526000,TRUE,"Відділ освіти Коростенської райдержадміністрації Житомирської області"

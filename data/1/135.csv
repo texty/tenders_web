@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+227533,247177,757,NA,2095090,"2011-11-16",7,2095090,2095090,2103250,TRUE,"ПАТ ""Донбасшахтобуд"" "

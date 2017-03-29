@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+434042,497864,402,762000,761460,"2013-05-08",2,761460,761460,782040,TRUE,"Відділ у справах сім'ї, молоді та спорту Севастопольської міськдержадміністрації"

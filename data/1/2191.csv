@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+447491,513780,4146,5268362,4721394,"2013-07-26",13,4721394,4721394,5127361,TRUE,"Управління житлово-комунального господарства Світловодського міськвиконкому Кіровоградської області"

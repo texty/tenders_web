@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+538948,624270,278392,2502000,2502000,"2014-11-20",22,2502000,2502000,2550000,TRUE,"Харківське учбово-виробниче підприємство №1 Українського товариства глухих"

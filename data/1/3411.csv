@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+480686,572238,780,6e+06,5604247.54,"2014-03-03",5,5604247.54,5604247.54,6128554.14,TRUE,"Департамент житлово-комунального господарства Луцької міськради Волинської області"

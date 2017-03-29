@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+433016,499028,151098,634903,634810.22,"2013-05-13",1,634810.22,634832,710642.38,TRUE,"Національна комісія, що здійснює державне регулювання у сфері комунальних послуг"

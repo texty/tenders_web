@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+427384,492968,149940,650000,564438.5,"2013-04-19",1,564438.5,564438.5,619791.3,TRUE,"Апарат виконавчого органу Київської міської ради (Київської міської державної адміністрації)"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+560249,652645,1889,5e+05,503545,"2015-02-11",12,503545,503545,503795,TRUE,"Комунальний заклад Київської облради ""Київська обласна дитяча лікарня"""

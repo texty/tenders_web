@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+432912,494192,1965,6e+05,599250,"2013-04-23",1,599250,599250,599820,TRUE,"Державний комітет телебачення і радіомовлення України"

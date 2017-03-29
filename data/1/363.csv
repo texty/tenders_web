@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+227699,251868,627,NA,751710.18,"2011-12-01",1,751710.18,751710.18,814412.9,TRUE,"Міністерство фінансів України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+448252,511609,130439,580000,579589.51,"2013-07-12",17,579589.51,579589.51,590292,TRUE,"КО ""Котовськ-благоустрій"" Одеської області"

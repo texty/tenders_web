@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+535151,616553,460,654000,618000,"2014-10-02",17,618000,618000,635000,TRUE,"ДП ""Морський торговельний порт ""Южний"""

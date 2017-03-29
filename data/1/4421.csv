@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+534826,619054,111191,1376812.4,1375834.8,"2014-10-21",24,1375834.8,1375834.8,1433208,TRUE,"Гуменецька сільська рада"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+393551,456871,559,6e+05,599997,"2013-02-05",22,599997,600364.99,652104.2,TRUE,"Відділ освіти Великобурлуцької райдержадміністрації Харківської області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+455107,523171,813,614800,614540,"2013-09-27",18,614540,614540,622170,TRUE,"ТРЕТЯ МІСЬКА ЛІКАРНЯ м.КРЕМЕНЧУКА ПОЛТАВСЬКОЇ ОБЛАСТІ"

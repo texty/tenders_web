@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+474123,545756,4523,8434990,8312720,"2014-01-10",26,8312720,8312720,9315640,TRUE,"Відділ освіти Заставнівської районної державної адміністрації"

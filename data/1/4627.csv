@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+551768,631843,2954,738000,737500,"2014-12-19",1,737500,737500,842000,TRUE,"Головне Управління МВС України в м.Києві"

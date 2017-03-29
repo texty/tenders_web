@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+556293,652666,1395,8292000,8232831,"2015-02-09",7,8232831,8232831,8410518,TRUE,"Відділ освіти Слов’янської міськради Донецької області"

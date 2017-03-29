@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+458699,525993,678,549482,540100,"2013-10-18",22,540100,540100,563964,TRUE,"Департамент містобудування, архітектури та генерального плану Харківської міської ради"

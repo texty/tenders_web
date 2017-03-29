@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+222562,247046,1366,NA,85348324.8,"2011-11-15",10,85348324.8,85348324.8,85647072,TRUE,"Служба автомобільних доріг у Запорізькій області Держагентства автомобільних доріг України"

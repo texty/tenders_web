@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+549278,637771,75667,985545,985545,"2015-01-12",8,985545,895.95,1232.4,TRUE,"Вищий комунальний навчальний заклад ""Коростишівський педагогічний коледж імені І.Я. Франка"" Житомирської обласної ради"

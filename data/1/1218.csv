@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+384984,423831,10431,1308000,1117440,"2012-12-05",5,1117440,93.12,98.1,TRUE,"Управління освіти і науки Новоград-Волинської міськради Житомирської області"

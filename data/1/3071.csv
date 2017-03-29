@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+458709,536098,633,1650000,1640000,"2013-12-13",9,1640000,1640000,1644300,TRUE,"Управління охорони здоров’я Закарпатської облдержадміністрації"

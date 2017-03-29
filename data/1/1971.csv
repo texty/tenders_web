@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+434585,495835,966,1282661.46,1568723.4,"2013-04-29",1,1568723.4,1568723.4,1690757.7,TRUE,"ПАТ ""Центренерго"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+451943,519556,73217,2442000,2589420,"2013-09-03",1,2589420,2589420,2592600,TRUE,"Управління державної служби охорони при ГУ МВС України в м.Києві"

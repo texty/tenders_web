@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+394267,451017,5314,1170000,1168500,"2013-01-28",27,1168500,1168500,1850231.04,TRUE,"Управління житлово-комунального господарства Прилуцької міськради Чернігівської області"

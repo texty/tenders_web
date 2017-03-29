@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+524390,605539,3239,1304000,1289121.6,"2014-07-14",17,1289121.6,1289121.6,1419124.8,TRUE,"КП ""Обласний інформаційно-аналітичний центр"" м.Одеси"

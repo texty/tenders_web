@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+455539,522653,408,10124649,9189343.2,"2013-09-20",27,9189343.2,9189.3432,10050.4372,TRUE,"Управління капітального будівництва Чернігівської міськради"

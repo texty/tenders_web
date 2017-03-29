@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+446980,507219,3237,635744.35,584250.49,"2013-06-19",27,584250.49,570916.99,589680.6,TRUE,"КЛПЗ ""Чернігівська обласна психоневрологічна лікарня"""

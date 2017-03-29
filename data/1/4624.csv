@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+542296,624639,4486,920000,920000,"2014-11-24",19,920000,920000,935182,TRUE,"Миколаївська державна обласна універсальна наукова бібліотека ім.О. Гмирьова"

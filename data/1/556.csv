@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+354665,401150,26624,930000,908000,"2012-08-30",15,908000,908000,953400,TRUE,"ДП ""Дослідне господарство Львівської дослідної станції Інституту рибного господарства НААН України"""

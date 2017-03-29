@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+231368,258031,588,NA,12909760.8,"2011-12-19",22,12909760.8,12909760.8,13634019.6,TRUE,"Управління з будівництва, ремонту та реконструкції Департаменту будівництва та шляхового господарства Харківської міської ради"

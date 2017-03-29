@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+517698,593531,112396,652900,648982.6,"2014-05-05",7,648982.6,648982.6,658123.2,TRUE,"Комунальний заклад охорони здоров'я ""Перинатальний центр м.Макіївка"""

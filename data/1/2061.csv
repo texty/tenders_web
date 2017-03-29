@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+436663,495511,522,4690000,4353500,"2013-04-25",1,4353500,4353500,4605800,TRUE,"ПАТ ""НАК ""Нафтогаз України"""

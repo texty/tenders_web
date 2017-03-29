@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449506,512454,636,34788400,34788392.4,"2013-07-18",17,34788392.4,34788392.4,34960611.6,TRUE,"Департамент капітального будівництва Одеської облдержадміністрації"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+507482,583649,10829,435300,544160,"2014-03-26",7,544160,1088320,1094764,TRUE,"Макіївський психоневрологічний інтернат Головного управління праці та соцзахисту населення Донецької облдержадміністрації"

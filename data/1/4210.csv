@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+537509,622101,9893,2540000,2500000,"2014-11-10",20,2500000,2500001,2540001,TRUE,"КУ ""Сумська міська клінічна лікарня №1"""

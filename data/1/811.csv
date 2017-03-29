@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+370921,415526,1922,2920000,2891460,"2012-10-29",1,2891460,2891460,2899500,TRUE,"ПАТ ""Укртрансгаз"" Філія ""Науково-виробничий центр технічної діагностики ""Техдіагаз"" "

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+547139,645001,10827,3300000,3463500,"2015-01-26",17,3463500,3472876,3948190,TRUE,"Відділ освіти Савранської районної державної адміністрації Одеської області"

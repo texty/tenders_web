@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+455286,523095,1548,3691800,3580987.02,"2013-09-27",15,3580987.02,3580987.02,3672618.78,TRUE,"Управління капітального будівництва Львівської облдержадміністрації"

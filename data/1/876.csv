@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+371495,415043,801,1920000,1920000,"2012-10-29",22,1920000,1920061,1960055,TRUE,"ДЕПАРТАМЕНТ ТРАНСПОРТУ ХАРКІВСЬКОЇ МІСЬКРАДИ"

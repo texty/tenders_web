@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+549068,648916,74546,4867200,4566480,"2015-02-02",6,4566480,4566480,4861068,TRUE,"КП ""Нікопольське виробниче управління водопровідно-каналізаційного господарства"" Дніпропетровської області"

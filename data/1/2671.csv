@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+456796,523688,117396,1979330,1909556.64,"2013-10-04",7,1909556.64,1909556.64,2088584,TRUE,"Старобешівська селищна рада Донецької області"

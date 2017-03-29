@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+368539,418502,3764,1864309,2665836.34,"2012-11-13",6,2665836.34,2665836.34,2751688.74,TRUE,"Першотравенське міське житлово-комунальне підприємство Дніпропетровської області"

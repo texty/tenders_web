@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+462990,531571,826,7345834.66,6994417,"2013-11-21",6,6994417,6994417,13800000,TRUE,"Комунальне підприємство ""Управління по ремонту та експлуатації автошляхів"" Дніпропетровської міської ради"

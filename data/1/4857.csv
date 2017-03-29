@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+557960,650834,6798,2263190,1805284.25,"2015-02-09",18,1805284.25,1806222.06,3759225.12,TRUE,"2-га міська лікарня м.Кременчука"

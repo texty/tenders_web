@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+466053,540529,7639,4403786,4375044,"2013-12-27",1,4375044,4375044,4389940,TRUE,"КП ""Дирекція реставраційно-відновлювальних робіт"" Виконавчого органу Київської міськради (Київської міськдержадміністрації)"

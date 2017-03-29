@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+551875,668825,1686,33871278,32797836.36,"2015-03-10",15,32797836.36,32797836.36,32905493.92,TRUE,"Комунальний заклад Городоцької райради ""Городоцька центральна районна лікарня"" Львівської області"

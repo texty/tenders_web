@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+370352,413158,1386,5e+05,843152.52,"2012-10-18",1,843152.52,843204,892105,TRUE,"Київське комунальне об’єднання зеленого будівництва та експлуатації зелених насаджень міста ""Київзеленбуд"""

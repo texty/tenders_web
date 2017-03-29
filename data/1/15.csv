@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+229435,247626,2276,NA,1498689.1,"2011-11-15",1,1498689.1,1498689.1,1764424.78,TRUE,"Національний авіаційний університет Міносвіти і науки України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+543226,626714,16046,1500000,1306795.68,"2014-12-03",6,1306795.68,1306795.68,1372121.59,TRUE,"Державний воєнізований гірничорятувальний (аварійно-рятувальний) загін Державної служби України з надзвичайних ситуацій"

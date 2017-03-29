@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+489967,571866,55,960000,510879.6,"2014-02-28",6,510879.6,510879.6,815704.8,TRUE,"Департамент ЖИТЛОВО-КОМУНАЛЬНОГО ГОСПОДАРСТВА та будівництва ДНІПРОПЕТРОВСЬКОЇ ОБЛДЕРЖАДМІНІСТРАЦІЇ"

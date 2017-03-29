@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+436377,495329,189148,10168000,5158239.22,"2013-04-26",1,5158239.22,5158239.22,5489723.2,TRUE,"ДП ""Олімпійський навчально-спортивний центр ""Конча-Заспа"""

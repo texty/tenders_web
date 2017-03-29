@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226353,247386,100485,NA,505665.34,"2011-11-11",1,505665.34,505665.34,525309.77,TRUE,"Регіональне відділення Фонду державного майна України по Київській області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+465498,546861,405,8700000,8699276.27,"2014-01-14",18,8699276.27,8699276,9583564,TRUE,"Управління житлово-комунального господарства Кременчуцького міськвиконкому Полтавської області"

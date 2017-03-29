@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449467,514023,1264,11540075,11479850.4,"2013-07-30",15,11479850.4,11479850.4,11813408,TRUE,"Управління житлово-комунального господарства і будівництва Трускавецької міськради Львівської області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+542482,633177,21594,9.4e+07,93877516.93,"2014-12-25",20,93877516.93,93877609,101080783.04,TRUE,"ПАТ ""Сумихімпром"""

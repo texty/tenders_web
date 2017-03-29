@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226368,249360,1105,NA,727267.2,"2011-11-22",3,727267.2,727269,739378,TRUE,"Міністерство регіонального розвитку і житлово-комунального господарства АР Крим"

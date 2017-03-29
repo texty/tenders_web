@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+237959,273194,5942,NA,1410000,"2012-01-19",22,1410000,1410000,1580000,TRUE,"Комунальне підрядне спеціалізоване підприємство по ремонту і будівництву автошляхів м.Харкова ""ШЛЯХРЕМБУД"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+523677,604118,46495,7e+05,681233.21,"2014-07-04",5,681233.21,681233.21,706460.6,TRUE,"Волинський обласний центр по профілактиці і боротьбі зі СНІДом"

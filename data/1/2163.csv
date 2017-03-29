@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+441040,511961,59963,757946.6,751338.4,"2013-07-12",25,751338.4,751338.4,788476.8,TRUE,"Державний навчальний заклад ""Звенигородський центр підготовки та перепідготовки робітничих кадрів"""

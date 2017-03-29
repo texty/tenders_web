@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+356628,401267,93347,6e+05,585000,"2012-08-31",1,585000,585,660,TRUE,"Всеукраїнське товариство ""Просвіта"" ім.Тараса Шевченка"

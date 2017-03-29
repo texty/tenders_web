@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+370504,429434,51785,1600000,1482672.38,"2012-12-18",15,1482672.38,1482710,1497019,TRUE,"Комунальне підприємство Львівської обласної ради ""Управління капітального будівництва"""

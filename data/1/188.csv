@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+233957,246894,105791,NA,1190000,"2011-11-14",1,1190000,504520,657216,TRUE,"Державна авіаційна служба України"

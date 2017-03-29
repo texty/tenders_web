@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454190,525839,9929,810780,809178,"2013-10-17",6,809178,809676,825397,TRUE,"КЗ ""База спеціального медичного постачання"" Дніпропетровської облради"

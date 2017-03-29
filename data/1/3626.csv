@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+504600,592192,9747,420000,551310,"2014-04-24",15,551310,551310,552640,TRUE,"Центр медичної реабілітації та санаторного лікування ""Трускавецький"" МО України"

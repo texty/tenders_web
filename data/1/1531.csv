@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+402833,483649,58,550000,520365,"2013-03-22",17,520365,442872,534000,TRUE,"ДП ""Український дитячий центр ""Молода гвардія"""

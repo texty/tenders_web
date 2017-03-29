@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+382601,427547,26,5029400,5014222.8,"2012-12-14",5,5014222.8,5014462.8,5028472.8,TRUE,"Департамент житлово-комунального господарства та будівництва Волинської облдержадміністрації"

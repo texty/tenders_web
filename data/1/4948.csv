@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+572675,668982,4933,513700,611100,"2015-03-10",12,611100,1222333.8,1296685.7,TRUE,"Відділ освіти Миронівської райдержадміністрації Київської області"

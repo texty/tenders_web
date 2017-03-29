@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+450141,514415,378,3e+06,2999960,"2013-08-02",6,2999960,2999960,3024050,TRUE,"КЗ ""Дніпропетровська обласна клінічна лікарня ім.І.І. Мечникова"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226300,254748,2951,NA,2913311,"2011-12-12",23,2913311,2913311,3709128,TRUE,"Херсонський обласний центр зайнятості Державного центру зайнятості Мінпраці та соцполітики України"

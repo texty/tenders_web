@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+495108,581510,5760,860000,850000,"2014-03-21",22,850000,850000,1001300,TRUE,"Харківська обласна рада"

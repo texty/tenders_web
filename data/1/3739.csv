@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+505895,592711,711,5e+06,5223648.83,"2014-04-30",17,5223648.83,5223648.83,5527905.82,TRUE,"ДП ""Іллічівський морський торговельний порт"""

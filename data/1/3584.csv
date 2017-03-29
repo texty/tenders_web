@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+492481,574841,1459,5152831.6,4600778,"2014-02-28",1,4600778,4600778,4942292,TRUE,"Українське державне підприємство ""Укрхімтрансаміак"""

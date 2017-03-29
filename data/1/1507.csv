@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+410879,477413,39072,2155720.09,2541536.9,"2013-03-11",23,2541536.9,2541536.9,2922698.54,TRUE,"ПАТ ""ЕК ""Херсонобленерго"""

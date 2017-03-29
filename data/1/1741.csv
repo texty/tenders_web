@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+419245,484983,2136,900707,900450,"2013-03-27",27,900450,900450,900706.5,TRUE,"КЛПЗ ""Чернігівська обласна лікарня"""

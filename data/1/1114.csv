@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+383376,430841,6530,550000,503750,"2012-12-21",14,503750,503750,516250,TRUE,"КУ ""Станція швидкої медичної допомоги"" Управління охорони здоров’я Краснолуцької міськради Луганської області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+395643,461939,76369,646600,591720,"2013-02-12",25,591720,591720,647280,TRUE,"Тальнівська центральна районна лікарня"

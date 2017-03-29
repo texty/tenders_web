@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+536508,617101,66,608065,608049.94,"2014-10-07",1,608049.94,608049.94,656710.2,TRUE,"Державне управління матеріально-технічного забезпечення НАН України"

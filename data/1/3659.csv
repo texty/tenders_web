@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+499682,584190,4420,585486.9,581877.92,"2014-03-28",14,581877.92,581877.92,582921.9,TRUE,"Відділ освіти Лисичанської міської ради Луганської області"

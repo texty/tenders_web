@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+489103,570363,5217,734194,734183.52,"2014-02-26",6,734183.52,734183.52,734352.96,TRUE,"Відділ комунального господарства Амур-Нижньодніпровської районної у місті Дніпропетровську ради"

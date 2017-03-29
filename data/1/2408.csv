@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+451279,515561,2365,4917,6829389.6,"2013-08-09",1,6829389.6,6829389.2,7652113.2,TRUE,"Концерн радіомовлення, радіозв’язку та телебачення"

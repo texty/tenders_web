@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454709,524926,175383,1913182,1837305.6,"2013-10-08",10,1837305.6,2143523.2,2163532,TRUE,"Костянтинівська сільрада Мелітопольського району Запорізької області"

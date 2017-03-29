@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+451107,514826,4918,1835000,1717552,"2013-08-06",18,1717552,1717552,1723097,TRUE,"Відділ житлово-комунального господарства та капітального будівництва виконавчого комітету Лубенської міської ради"

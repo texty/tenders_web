@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+457110,524683,2702,2027800,1997000,"2013-10-11",14,1997000,1997000,2e+06,TRUE,"Луганська обласна клінічна лікарня"

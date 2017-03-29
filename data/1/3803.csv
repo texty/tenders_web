@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+514349,597384,86522,457500,502590,"2014-05-21",17,502590,502590,504470,TRUE,"ДП ""Ширяївське лісове господарство"""

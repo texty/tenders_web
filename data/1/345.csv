@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+229666,250625,4524,NA,2060923,"2011-11-28",7,2060923,2060923,2113793.61,TRUE,"Аварійно-рятувальний загін спеціального призначення Головного управління Державної служби України з надзвичайних ситуацій у Донецькій області"

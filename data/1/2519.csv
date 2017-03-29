@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+443785,511997,166841,969200,969233,"2013-07-12",23,969233,969200,1050000,TRUE,"ДП ""ДГ ""Великі Клини"" Південної державної сільськогосподарської дослідної станції Інституту водних проблем і меліорації НААН України"

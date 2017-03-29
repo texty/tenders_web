@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+525968,606563,1660,630300,626620.45,"2014-07-21",1,626620.45,626620.45,630146.4,TRUE,"Управління адміністративними будинками Управління справами Апарату Верховної Ради України"

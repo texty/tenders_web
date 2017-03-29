@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+452721,522878,788,7e+05,698474.22,"2013-09-27",1,698474.22,698474.22,699555.42,TRUE,"Державне управління справами"

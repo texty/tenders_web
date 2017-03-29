@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+348246,403129,139559,11259978,10123888.55,"2012-09-07",17,10123888.55,10123943,10506362,TRUE,"Тарутинський навчально-виховний комплекс ""Загальноосвітня школа I-III ступенів - ліцей-дошкільний заклад"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+520069,604381,412,1261260,1258966.8,"2014-07-07",6,1258966.8,1258966.8,1490580,TRUE,"Управління благоустрою та житлової політики Криворізького міськвиконкому Дніпропетровської області"

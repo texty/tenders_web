@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+441778,504972,912,570000,569921.04,"2013-06-03",1,569921.04,569921.04,604073.76,TRUE,"Міністерство екології та природних ресурсів України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+452401,519647,237889,8388800,8386000,"2013-09-04",19,8386000,8386000,8738375,TRUE,"Головне управління Держземагентства у Рівненській області Держземагентства України"

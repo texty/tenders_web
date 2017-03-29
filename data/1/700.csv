@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+383141,425957,205988,1539647,1343117.48,"2012-12-11",7,1343117.48,1343117.48,1430170.85,TRUE,"Дитячо-юнацька спортивна школа Дружківської міськради Донецької області"

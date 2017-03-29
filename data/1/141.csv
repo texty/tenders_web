@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+227196,256485,440,NA,8703570,"2011-12-14",15,8703570,8703570,8778220.8,TRUE,"СЛУЖБА АВТОМОБІЛЬНИХ ДОРІГ У ЛЬВІВСЬКІЙ ОБЛАСТІ ДЕРЖАГЕНТСТВА АВТОМОБІЛЬНИХ ДОРІГ УКРАЇНИ"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449247,510070,112167,7527600,7527600,"2013-07-03",3,7527600,7527600,8122491,TRUE,"Кримська республіканська установа ""Клінічне територіальне медичне об’єднання ""Університетська клініка"""

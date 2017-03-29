@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+528852,615578,1544,4.1e+07,40951610.66,"2014-09-24",1,40951610.66,40951610.66,40996952,TRUE,"ПАТ ""Укртрансгаз"""

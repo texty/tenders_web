@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+407425,467680,1487,1264379,1260252,"2013-02-22",4,1260252,1260252,1353604,TRUE,"Відділ освіти Шаргородської райдержадміністрації Вінницької області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+451920,516931,239252,4525630,4920000,"2013-08-19",4,4920000,4920000,5100000,TRUE,"Котюжанівська спеціальна загальноосвітня школа-інтернат Мурованокуриловецького району Вінницької області"

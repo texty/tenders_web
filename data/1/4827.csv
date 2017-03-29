@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+563166,660442,1623,418000,523640,"2015-02-25",16,523640,523640,532000,TRUE,"Миколаївська обласна дитяча лікарня - Заклад комунальної власності області"

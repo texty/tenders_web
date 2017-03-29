@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+467422,589441,5979,3076769,2950000,"2014-02-07",17,2950000,2950,3002.616,TRUE,"Південно-Східне територіальне квартирно-експлуатаційне управління"

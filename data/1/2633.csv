@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+458755,524466,4233,19976100,19789459.2,"2013-10-09",1,19789459.2,19789479,21500241,TRUE,"Національний Києво-Печерський історико-культурний заповідник"

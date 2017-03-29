@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+387206,429326,161979,2e+07,17999906,"2012-12-19",1,17999906,20616557,21861130,TRUE,"ДП ""Інженерно-технічний центр МОЗ України"""

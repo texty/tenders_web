@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+447508,512502,4859,4e+05,1328333.75,"2013-07-19",18,1328333.75,1329529.75,1705720,TRUE,"Управління державтоінспекції УМВС України в Полтавській області "

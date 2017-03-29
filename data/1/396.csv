@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+227960,253482,955,NA,1425200.2,"2011-12-07",2,1425200.2,1425200.2,1773806.4,TRUE,"Управління капітального будівництва Севастопольської міськдержадміністрації"

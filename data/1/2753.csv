@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+452806,517540,5473,1266400,1251860,"2013-08-23",8,1251860,1251860,1287250,TRUE,"Новоград-Волинське міськрайонне територіальне медичне об’єднання Управління охорони здоров’я Житомирської облдержадміністрації"

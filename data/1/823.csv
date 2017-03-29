@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+370059,409199,1095,3931500,3856193,"2012-10-02",1,3856193,3856193,4136472,TRUE,"Департамент капітального будівництва Київської облдержадміністрації"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+430992,493684,4410,705580,690724.95,"2013-04-23",12,690724.95,690724.95,720433.55,TRUE,"Управління освіти і науки Білоцерківської міськради Київської області"

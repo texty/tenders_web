@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+375944,418772,1809,11229673,9286075,"2012-11-14",11,9286075,9286075,9521855,TRUE,"Головне управління регіонального розвитку та будівництва Івано-Франківської облдержадміністрації"

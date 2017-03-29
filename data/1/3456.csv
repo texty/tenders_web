@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+474824,561780,30923,1200000,1200000,"2014-02-11",27,1200000,1200000,1250000,TRUE,"Відділ освіти Носівської райдержадміністрації Чернігівської області"

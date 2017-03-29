@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+507459,593379,658,539360,539349.03,"2014-05-05",22,539349.03,539349.03,561306,TRUE,"Департамент житлового господарства Харківської міської ради"

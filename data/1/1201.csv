@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+386920,462444,119494,720000,658403.5,"2013-02-14",1,658403.5,658403.5,672516,TRUE,"ДП ""Науково-дослідний інститут ""Квант"" "

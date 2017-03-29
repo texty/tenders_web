@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+407010,469527,3911,369000,284000,"2013-02-25",22,284000,284000,340000,TRUE,"Харківська міська рада"
+488291,575248,3911,353200,353000,"2014-03-07",22,353000,353000,369000,TRUE,"Харківська міська рада"

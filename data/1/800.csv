@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+372648,416310,54836,739480,735660,"2012-11-02",10,735660,739238,780721.33,TRUE,"КЗ ""Запорізька загальноосвітня санаторна школа-інтернат №7 I-II ступенів"" Запорізької облради"

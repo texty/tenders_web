@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+552073,643565,2236,7075104,6499990.33,"2015-01-20",6,6499990.33,6499990.33,6736783.88,TRUE,"ДПП ""Кривбаспромводопостачання"""

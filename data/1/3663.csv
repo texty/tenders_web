@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+507226,587567,242058,5e+06,4948000,"2014-04-08",1,4948000,5772666.67,7483000,TRUE,"НАК ""Укрсвітлолізинг"""

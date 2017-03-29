@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+473580,565735,1345,26363976,26264782.93,"2014-02-17",17,26264782.93,26264782.93,26343770.46,TRUE,"Управління освіти Біляївської райдержадміністрації Одеської області"

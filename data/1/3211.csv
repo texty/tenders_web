@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+461755,531651,1228,2202368,2055848,"2013-11-22",22,2055848,2055848,2116291.2,TRUE,"Територіальне управління ДСА України у Харківській області"

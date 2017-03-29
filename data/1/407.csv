@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226568,251869,3246,NA,984630,"2011-12-01",9,984630,984630,994973,TRUE,"Мукачівська районна державна адміністрація"

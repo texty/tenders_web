@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+456144,523368,999,5712811.6,5738006.4,"2013-10-02",10,5738006.4,5738006.4,5742886.64,TRUE,"КП ""Підприємство комунальної власності"" Енергодарської міськради Запорізької області"

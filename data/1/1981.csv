@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+425297,490224,91,1343100,1322100,"2013-04-12",4,1322100,1322100,1353600,TRUE,"ПАТ ""Вінницяобленерго"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+462934,539986,247229,1640576958,1629885953.89,"2013-12-26",17,1629885953.89,1629885953.89,1640202523.87,TRUE,"Державне підприємство "" ДИРЕКЦІЯ З БУДІВНИЦТВА МІЖНАРОДНОГО АЕРОПОРТУ ""ОДЕСА"""

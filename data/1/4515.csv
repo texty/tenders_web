@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+549956,634713,594,1392390,1373824.8,"2014-12-30",7,1373824.8,1373824.8,1448085.6,TRUE,"ПАТ ""Центренерго"" в особі Вуглегірської ТЕС "

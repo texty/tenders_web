@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+377797,428754,200392,3305783,3562861,"2012-12-18",17,3562861,3563041,3605251,TRUE,"Надеждівська сільрада Арцизького району Одеської області"

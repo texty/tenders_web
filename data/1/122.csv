@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225665,249224,945,NA,7530000,"2011-11-21",15,7530000,7530000,8400000,TRUE,"Відокремлений підрозділ ""Держенергонагляд  у Західному регіоні"" Державного підприємства ""Національна енергетична компанія  ""Укренерго"""

@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+444225,510192,72,492000,492000,"2013-07-03",17,492000,492000,498000,TRUE,"ДП ""Одеська залізниця"""
+444250,510197,72,492000,492000,"2013-07-03",17,492000,492000,498000,TRUE,"ДП ""Одеська залізниця"""

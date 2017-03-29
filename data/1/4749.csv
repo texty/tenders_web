@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+553096,639901,16569,699999.96,698647.92,"2015-01-12",1,698647.92,698671.69,699175.05,TRUE,"Управління освіти виконавчого комітету Фастівської міської ради"

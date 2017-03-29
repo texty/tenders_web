@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+492975,583949,1796,1300000,1249368.57,"2014-03-28",15,1249368.57,1249368.57,1249375.27,TRUE,"Головне управління юстиції у Львівській області Мін'юсту України"

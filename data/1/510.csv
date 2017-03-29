@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+329466,368017,588,6068000,6144340.8,"2012-06-01",22,6144340.8,6144340.8,6254640,TRUE,"Управління з будівництва, ремонту та реконструкції Департаменту будівництва та шляхового господарства Харківської міської ради"

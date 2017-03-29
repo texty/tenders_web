@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449385,514998,484,880000,869926.8,"2013-08-07",12,869926.8,870006,946220,TRUE,"Відділ охорони здоров'я Києво-Святошинської районної державної адміністрації Київської області"

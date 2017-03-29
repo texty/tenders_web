@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+389488,451409,55059,1001900,986500,"2013-01-28",19,986500,986500,994600,TRUE,"КП ""Березнекомунсервіс"" Рівненської області"

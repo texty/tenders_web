@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+501100,578654,6313,1500000,1495000,"2014-03-14",1,1495000,1495000,1540000,TRUE,"Український центр з фізичної культури і спорту інвалідів ""Інваспорт"" Держкомітету молодіжної політики, спорту і туризму України"

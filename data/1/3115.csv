@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+465726,538862,43,3750000,3743623,"2013-12-24",18,3743623,3743623,3762073,TRUE,"УПРАВЛІННЯ КАПІТАЛЬНОГО БУДІВНИЦТВА ПОЛТАВСЬКОГО МІСЬКВИКОНКОМУ"

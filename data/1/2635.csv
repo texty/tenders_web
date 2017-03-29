@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+456808,527118,3671,1530320,1500240,"2013-10-25",1,1500240,1500240,1511520,TRUE,"ПАТ ""Укртрансгаз"" в особі філії ""Управління ""Укргазтехзв’язок"""

@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+401588,466488,10346,3e+06,2820000,"2013-02-15",10,2820000,2820000,3e+06,TRUE,"Запорізька облрада"
+483715,574135,10346,3e+06,2694750,"2014-03-05",10,2694750,2694750,3000050,TRUE,"Запорізька облрада"

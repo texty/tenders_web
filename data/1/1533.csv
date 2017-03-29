@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+418822,471656,6204,1132018,1075483.5,"2013-02-28",9,1075483.5,1075483.5,1114050,TRUE,"Управління освіти Мукачівського міськвиконкому Закарпатської області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+571528,669110,5271,782135,1036158,"2015-03-10",6,1036158,1036158,1051640,TRUE,"Державна установа Інститут сільського господарства степової зони НААН України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+370114,408591,838,4267400,4098457.18,"2012-10-02",17,4098457.18,4098475,4118496,TRUE,"Управління дорожнього господарства Одеської міськради"

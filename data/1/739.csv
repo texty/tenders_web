@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+367524,415525,1622,9e+05,699000,"2012-10-30",1,699000,699000,714000,TRUE,"Департамент  житлово-комунального господарства і паливно-енергетичного комплексу Київської облдержадміністрації"

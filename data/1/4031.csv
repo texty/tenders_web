@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+524664,608741,2481,975765.15,974660.13,"2014-08-05",6,974660.13,974660.13,1127943.15,TRUE,"Комунальний заклад ""Дніпропетровська шоста міська клінічна лікарня"" Дніпропетровської обласної ради"

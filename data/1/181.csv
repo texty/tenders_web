@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+224181,246503,1690,NA,1805348.4,"2011-11-11",1,1805348.4,2106239.8,2163670.6,TRUE,"Державна установа ""Національний інститут серцево-судинної хірургії ім.М.М. Амосова Національної академії медичних наук України"""

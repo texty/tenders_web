@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+549964,643760,4735,736200,736200,"2015-01-22",8,736200,900,928,TRUE,"КЗ ""Радомишльська загальноосвітня санаторна школа-інтернат І-ІІІ ступенів"" Житомирської обласної ради"

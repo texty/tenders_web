@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+563842,654539,186,460773.7,517280.53,"2015-02-16",6,517280.53,603493.95,632837.59,TRUE,"Відділ освіти Павлоградської міської ради"

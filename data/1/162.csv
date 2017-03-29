@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225995,255326,763,NA,4666755.95,"2011-12-12",7,4666755.95,4666755.95,5032855.82,TRUE,"ДП ""Донецька вугільна енергетична компанія"""

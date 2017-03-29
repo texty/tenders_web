@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+517300,597709,1099,1295000,1295000,"2014-05-27",12,1295000,1287725.5,1997490,TRUE,"Бучанська міськрада Київської області"

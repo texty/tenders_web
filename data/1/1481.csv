@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+402478,461681,105496,2400000,2389080.02,"2013-02-13",10,2389080.02,2389080.02,2397750.1,TRUE,"Кирилівська селищна рада  Якимівського району Запорізької  області"

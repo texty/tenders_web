@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+445725,512032,8914,1315000,1072000,"2013-07-15",17,1072000,1072000,1239070,TRUE,"КУ ""Кодимська центральна районна лікарня"" Одеської області"

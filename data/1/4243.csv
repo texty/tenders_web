@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+537310,618103,2835,1600000,1599650,"2014-10-13",1,1599650,1599650,2106974,TRUE,"Державна наукова установа ""Науково-практичний центр профілактичної та клінічної медицини""  Державного управління справами"

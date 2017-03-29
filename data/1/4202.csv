@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+534108,614873,361,1191000,1159922.1,"2014-09-19",7,1159922.1,1159922.1,1304912.38,TRUE,"СО СТАРОБЕШІВСЬКА ТЕС ПАТ ""ДОНБАСЕНЕРГО"""

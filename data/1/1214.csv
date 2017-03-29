@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+384343,425550,56,35092400,37097782.8,"2012-12-10",7,37097782.8,37097782.8,39205000,TRUE,"УПРАВЛІННЯ КАПІТАЛЬНОГО БУДІВНИЦТВА ДОНЕЦЬКОЇ МІСЬКРАДИ"

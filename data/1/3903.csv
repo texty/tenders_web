@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+515404,595717,21007,936000,906100,"2014-05-15",22,906100,906010,907920,TRUE,"Національна академія національної гвардії України"

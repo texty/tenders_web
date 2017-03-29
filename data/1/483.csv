@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+302307,343785,1245,NA,3285000,"2012-04-13",3,3285000,3285000,3520800,TRUE,"ПрАТ ""КРИМСЬКИЙ ТИТАН"""

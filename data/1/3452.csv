@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+492208,578574,27336,664300,1194345,"2014-03-14",22,1194345,1393402.5,1406507.9,TRUE,"КП ""Комплекс з вивозу побутових відходів"" м.Харкова"

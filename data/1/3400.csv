@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+475866,561265,4201,915129.78,896630.74,"2014-02-10",22,896630.74,896630.74,906655.48,TRUE,"Відділ освіти Шевченківської районної державної адміністрації"

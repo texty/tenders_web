@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+562381,666580,10996,1064200.8,1064200.8,"2015-03-05",15,1064200.8,1064280,1318047,TRUE,"КЗ ""Львівська обласна клінічна психіатрична лікарня"""

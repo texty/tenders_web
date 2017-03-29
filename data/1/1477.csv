@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+391307,457420,3094,952000,952000,"2013-02-05",12,952000,952000,966000,TRUE,"ДО ""Лісове господарство ""Білоозерське"""

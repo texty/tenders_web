@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+223208,246750,108328,NA,3526530,"2011-11-14",19,3526530,3526530,3745620,TRUE,"Тутовицька сільрада Сарненського району Рівненської області"

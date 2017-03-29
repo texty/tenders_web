@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+443593,503200,704,551530,551530,"2013-05-31",1,551530,551530,820000,TRUE,"ДУ ""Управління збірних команд та забезпечення спортивних заходів ""Укрспортзабезпечення"""

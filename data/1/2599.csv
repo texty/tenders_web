@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454328,520804,120,3200000,3001316.19,"2013-09-13",15,3001316.19,3001316.91,3079147.5,TRUE,"Національний університет  ""Львівська політехніка"" Міносвіти і науки України"

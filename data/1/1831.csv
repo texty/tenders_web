@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+435910,494998,115,1134101.7,817779.42,"2013-04-26",7,817779.42,817779.42,880900.98,TRUE,"СО Слов’янська ТЕС ПАТ ""Донбасенерго"""

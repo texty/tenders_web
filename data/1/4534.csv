@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+546272,641224,1475,7700400,7494348,"2015-01-15",1,7494348,7494348,8633685.45,TRUE,"Державне підприємство зовнішньоекономічної діяльності ""Укрінтеренерго"""

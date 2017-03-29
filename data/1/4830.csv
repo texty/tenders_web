@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+566998,655632,77728,2318400,2318400,"2015-02-17",1,2318400,2318400,2394000,TRUE,"Комунальний заклад Таращанської райради ""Таращанська центральна районна лікарня"" Київської області"

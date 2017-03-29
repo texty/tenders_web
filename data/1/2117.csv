@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+443376,510359,163,1273700,516649.54,"2013-07-04",24,516649.54,516649.54,545172,TRUE,"ВП ""Хмельницька АЕС"" ДП ""НАЕК ""Енергоатом"""

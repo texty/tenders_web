@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+301738,326524,3820,NA,702000,"2012-03-22",27,702000,702000,720000,TRUE,"Спеціальний авіаційний загін оперативно-рятувальної служби цивільного захисту Державної служби України з надзвичайних ситуацій"

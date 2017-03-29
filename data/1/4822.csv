@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+564292,665339,5572,436800,518960,"2015-02-27",9,518960,518960,540800,TRUE,"Управління освіти Ужгородської міськради Закарпатської області"

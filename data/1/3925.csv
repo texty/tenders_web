@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+517681,602479,648,341000,1033358.66,"2014-06-23",14,1033358.66,1033358.66,1214074.3,TRUE,"ДП ""Сєверодонецька ТЕЦ"""

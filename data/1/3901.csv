@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+514200,595248,4901,472900,798400.4,"2014-05-12",22,798400.4,798400.4,817990,TRUE,"Комунальний заклад охорони здоров’я Харківський обласний Центр служби крові"

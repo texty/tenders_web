@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+573285,657220,10816,1137150,1077300,"2015-02-18",7,1077300,1077300,1083883.5,TRUE,"Слов’янський психоневрологічний інтернат Департаменту соцзахисту населення Донецької облдержадміністрації"

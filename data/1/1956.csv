@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+435864,501318,536,94095214,94095214,"2013-05-23",7,94095214,152400944.8,161739920.8,TRUE,"ДП ""Селидіввугілля"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+232633,245209,50606,NA,3896520,"2011-11-08",14,3896520,3896520,3956740.8,TRUE,"Луганська державна академія культури і мистецтв"

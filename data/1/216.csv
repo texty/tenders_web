@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+222350,256037,367,NA,641323.2,"2011-12-14",16,641323.2,641323.2,668732.4,TRUE,"ПАТ ""Миколаївобленерго"""

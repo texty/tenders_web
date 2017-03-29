@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454716,520929,240669,859140,859140,"2013-09-12",21,859140,859140,894937.5,TRUE,"Головне управління Держземагентства у Тернопільській області"

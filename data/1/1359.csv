@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+409793,456410,3184,1733434,1141662.2,"2013-02-04",17,1141662.2,1141662.2,1162402.1,TRUE,"Департамент освіти та науки Одеської міськради"

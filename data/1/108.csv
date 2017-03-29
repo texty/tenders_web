@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+162029,209782,1948,NA,2997050,"2011-07-20",3,2997050,2997050,3826886,TRUE,"КРУ ""Клінічна лікарня ім.М.О. Семашка"" МОЗ АР Крим"

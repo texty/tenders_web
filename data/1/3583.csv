@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+486984,568275,83235,6e+05,6e+05,"2014-02-21",4,6e+05,6e+05,660000,TRUE,"Іллінецька міськрада Вінницької області"
+551868,640249,83235,6e+05,585000,"2015-01-12",4,585000,585000,675000,TRUE,"Іллінецька міськрада Вінницької області"

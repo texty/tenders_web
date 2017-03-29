@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449475,515137,234378,1700000,1693200,"2013-08-07",24,1693200,1693200,1716000,TRUE,"Департамент житлово-комунального господарства та будівництва облдержадміністрації"

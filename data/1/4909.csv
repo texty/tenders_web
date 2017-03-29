@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+575960,663361,11576,38344230.96,56747652,"2015-03-02",11,56747652,56747652,59305153.2,TRUE,"Департамент охорони здоров’я Івано-Франківської облдержадміністрації"

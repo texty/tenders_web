@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+493585,575018,10259,1210000,1208475,"2014-03-03",21,1208475,1208527,1217919,TRUE,"ВІДДІЛ ОСВІТИ 
+ЧОРТКІВСЬКОЇ РАЙДЕРЖАДМІНІСТРАЦІЇ ТЕРНОПІЛЬСЬКОЇ ОБЛАСТІ"

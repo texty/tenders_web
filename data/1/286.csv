@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226533,250756,1206,NA,5535000,"2011-11-29",7,5535000,5535000,5576200,TRUE,"КП ""Шляхове ремонтно-будівельне управління"" м.Донецька"

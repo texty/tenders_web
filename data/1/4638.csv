@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+543127,626005,52368,920000,918800,"2014-11-28",7,918800,918800,919650,TRUE,"КП ""Обласний дитячо-молодіжний санаторно-оздоровчий комплекс ""Перлина Донеччини"" м.Святогірськ Донецької області"

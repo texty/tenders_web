@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+457330,524018,52053,85519212,77528405,"2013-10-07",6,77528405,77528405,81799560,TRUE,"Управління капітального будівництва Дніпропетровської облдержадміністрації"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+548021,642318,1935,1267680,1375200,"2015-01-19",22,1375200,1375200,1398000,TRUE,"Управління освіти Адміністрації Дзержинського району Харківської міськради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+371938,413284,2486,2394679,2299013.8,"2012-10-18",7,2299013.8,2299093,5085546,TRUE,"Управління капітального будівництва Краматорського міськвиконкому Донецької області"

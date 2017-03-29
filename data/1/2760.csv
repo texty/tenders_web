@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+456531,525704,4242,621237.63,619290,"2013-10-11",15,619290,619290,621000,TRUE,"Санаторій ""Трускавець"" СБ України"

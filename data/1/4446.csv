@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+540211,631584,1712,2051000,2058000,"2014-12-18",15,2058000,2058000,2086000,TRUE,"ВП ""Служба матеріально-технічного постачання""  ДТГО ""Львівська залізниця"""

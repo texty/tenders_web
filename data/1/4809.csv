@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+571795,663053,5329,9e+05,625000,"2015-02-26",10,625000,625000,8e+05,TRUE,"Управління освіти Мелітопольської міськради Запорізької області"

@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+552119,652684,38657,7e+06,6009840,"2015-02-12",17,6009840,6009840,6074640,TRUE,"ПАТ ""ЕК Одесаобленерго"""
+554303,652742,40726,4100000,3917040,"2015-02-06",13,3917040,3917040,3957840,TRUE,"ПАТ ""Кіровоградобленерго"""

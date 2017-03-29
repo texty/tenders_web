@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+513454,596528,1950,1100000,1090000,"2014-05-20",7,1090000,1090000,1144500,TRUE,"ДП ""Дзержинськвугілля"""
+513440,596536,1950,1700000,1050000,"2014-05-20",7,1050000,1050000,1102500,TRUE,"ДП ""Дзержинськвугілля"""

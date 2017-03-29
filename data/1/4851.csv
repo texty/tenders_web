@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+558346,659589,1030,4e+05,399906,"2015-02-24",1,399906,0,419700,TRUE,"Верховний Суд України"
+558356,659592,1030,4e+05,399672,"2015-02-24",1,399672,0,412797.81,TRUE,"Верховний Суд України"

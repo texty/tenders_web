@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+553838,637210,36974,1200000,1198368,"2015-01-12",22,1198368,1198368,1702944,TRUE,"Українська інженерно-педагогічна академія"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+384123,433561,10894,1046537,911600,"2012-12-27",6,911600,911600,1062050,TRUE,"Відділ освіти виконкому Тернівської районної у місті ради (м.Кривий Ріг Дніпропетровської області)"

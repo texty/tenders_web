@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+432374,492727,7597,1530000,1487859.08,"2013-04-19",6,1487859.08,1487867,1736538.13,TRUE,"Управління комунального господарства Дніпродзержинської міськради Дніпропетровської області"

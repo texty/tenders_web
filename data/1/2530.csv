@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+442786,504933,2759,620000,614956,"2013-06-10",6,614956,614956,618831,TRUE,"КЗК ""Дніпропетровська обласна універсальна наукова бібліотека"""

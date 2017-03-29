@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+500237,596082,974,12095107,14196007,"2014-05-19",15,14196007,14196007,14285207,TRUE,"СОКІЛЬНИЦЬКА СІЛЬРАДА ПУСТОМИТІВСЬКОГО РАЙОНУ ЛЬВІВСЬКОЇ ОБЛАСТІ"

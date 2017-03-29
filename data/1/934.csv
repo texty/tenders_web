@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+385874,427588,1426,4536729.07,4299956.6,"2012-12-14",1,4299956.6,4299956.6,4648253.2,TRUE,"Комунальне підприємство електромереж зовнішнього освітлення м.Києва ""Київміськсвітло"""

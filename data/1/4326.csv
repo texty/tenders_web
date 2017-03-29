@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+540306,622495,761,7e+05,697105,"2014-11-11",22,697105,697105,1520215.5,TRUE,"КЗОЗ ""Харківська міська клінічна лікарня швидкої та невідкладної медичної допомоги ім.проф.О.І. Мещанінова"""

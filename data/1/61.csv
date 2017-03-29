@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+223954,246187,910,NA,1451753.16,"2011-11-11",25,1451753.16,1451753.16,1497738,TRUE,"Публічне акціонерне товариство ""Черкасиобленерго"""

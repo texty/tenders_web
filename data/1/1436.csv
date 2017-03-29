@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+405419,456683,4469,1464200,1416900,"2013-02-04",1,1416900,1416900,1449450,TRUE,"Управління освіти Дарницької районної в місті Києві державної адміністрації"

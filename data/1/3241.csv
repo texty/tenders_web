@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+465080,533426,27049,12415502,12264771.96,"2013-12-03",9,12264771.96,12264771.96,13070050,TRUE,"Департамент міського господарства Ужгородської міськради Закарпатської області"

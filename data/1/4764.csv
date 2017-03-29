@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+554437,639374,7208,9829705.15,9691445,"2015-01-14",22,9691445,9691445,12346305,TRUE,"КП ""Харківські теплові мережі"""
+566685,664423,2921,4899841,3691902,"2015-03-02",22,3691902,3691902,4534737,TRUE,"КП ""Харківводоканал"""

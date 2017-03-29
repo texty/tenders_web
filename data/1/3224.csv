@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+460170,530106,245463,610000,613000,"2013-11-01",15,613000,613000,615000,TRUE,"Військова частина А4623"

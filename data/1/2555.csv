@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454596,519382,572,10595951.18,10595349.89,"2013-09-03",23,10595349.89,10595438,11076436.63,TRUE,"Служба автомобільних доріг у Херсонській області Держагентства автомобільних доріг України"

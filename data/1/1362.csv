@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+399573,478441,1698,872200,788910,"2013-03-12",24,788910,788910,795300,TRUE,"Управління освіти, молоді та спорту Шепетівської районної державної адміністрації"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+384195,432100,4558,133811372,132280360,"2012-12-26",1,132280360,132280360,134520800,TRUE,"Комунальне підприємство з утримання та експлуатації житлового фонду спеціального призначення ""Спецжитлофонд"""

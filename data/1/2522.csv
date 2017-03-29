@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+447084,512682,209434,2215000,2232529,"2013-07-19",9,2232529,2232529,2261257,TRUE,"Баранинська сільрада Ужгородського району Закарпатської області"

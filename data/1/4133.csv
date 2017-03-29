@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+523452,605260,794,622600,694980,"2014-07-11",24,694980,695031.48,729054,TRUE,"Національна академія Державної прикордонної служби України ім.Богдана Хмельницького"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+450330,515185,106588,946890,885726,"2013-08-08",23,885726,885726,996264,TRUE,"Військова частина А1604"

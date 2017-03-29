@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+548720,634608,2068,554856,548376,"2014-12-30",18,548376,548376,554858.4,TRUE,"Виконавчий комітет Полтавської міської ради"

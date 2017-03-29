@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+456896,523487,242835,41149891.2,41148691.2,"2013-10-02",15,41148691.2,41148691.2,42196192,TRUE,"Львівське міське управління Головного управління Міністерства внутрішніх справ України у Львівській області "

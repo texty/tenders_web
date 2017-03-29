@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+448462,514534,1876,3976000,3975807,"2013-08-02",1,3975807,3975807,3984220.56,TRUE,"Державне підприємство ""Управління промислових підприємств Державної адміністрації залізничного транспорту України"""

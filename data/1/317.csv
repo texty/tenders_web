@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+224688,251236,83,NA,799509,"2011-11-30",2,799509,799509,891040.48,TRUE,"Севастопольський Національний Університет Ядерної Енергії та Промисловості"

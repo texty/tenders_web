@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+453715,521516,3724,2222000,2045596,"2013-09-18",27,2045596,2045596,2104690,TRUE,"Бахмацька міськрада Чернігівської області"

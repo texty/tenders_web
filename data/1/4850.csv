@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+554417,653417,6114,571785,553725,"2015-02-13",5,553725,553725,571688.16,TRUE,"Ковельське міське районне територіальне медичне об'єднання Волинської області"

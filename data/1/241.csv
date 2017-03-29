@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226479,254021,106194,NA,385668,"2011-12-08",15,385668,385668,579338,TRUE,"Військова частина А2595 МО України"
+456402,526217,1822,750000,192000,"2013-10-18",13,192000,192000,540000,TRUE,"військова частина 2269"

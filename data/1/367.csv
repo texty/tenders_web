@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+229597,252055,5428,NA,4e+05,"2011-12-01",15,4e+05,4e+05,410040,TRUE,"Головне Управління МВС України у Львівській області"
+229592,252054,5428,NA,5e+05,"2011-12-01",15,5e+05,5e+05,510000,TRUE,"Головне Управління МВС України у Львівській області"

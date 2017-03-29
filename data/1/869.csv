@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+382299,430578,6077,1740800,1740600,"2012-12-19",1,1740600,1740600,2206760,TRUE,"Державний науково-дослідний інститут з лабораторної діагностики та ветеринарно-санітарної експертизи"

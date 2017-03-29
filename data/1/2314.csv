@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+439530,503760,10273,588900.85,587443.95,"2013-06-04",1,587443.95,587443.95,611185,TRUE,"Державний професійно-технічний навчальний заклад ""Київське вище професійне училище технологій та дизайну виробів із шкіри"""

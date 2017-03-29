@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+464814,533288,2890,590000,574500,"2013-12-03",12,574500,574500,610000,TRUE,"Державне авіаційне підприємство ""Україна"" Державного управління справами"

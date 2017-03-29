@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+397688,460957,131366,638184,621387,"2013-02-11",7,621387,621387,626109,TRUE,"КУОЗ ""Волноваський районний центр первинної медико-санітарної допомоги"" Донецької області"

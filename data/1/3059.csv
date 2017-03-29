@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+457401,532048,236858,1788700,1785068.4,"2013-11-25",24,1785068.4,1785068.4,1789953.6,TRUE,"Комунальне підприємство архітектурно-будівельного проектування Хмельницької облради"

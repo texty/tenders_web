@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+523363,603627,33057,1e+06,999840,"2014-07-01",18,999840,999840,1051200,TRUE,"Військова частина А0312"

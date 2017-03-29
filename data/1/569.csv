@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+361529,405611,182907,878232.99,850782.72,"2012-09-19",14,850782.72,850782.72,851492.04,TRUE,"КЗ ""Алчевська міська станція швидкої медичної допомоги"" Луганської області"

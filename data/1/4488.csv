@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+542758,625461,2708,7e+05,565500,"2014-11-28",1,565500,565500,568500,TRUE,"ДУ ""Інститут отоларингології ім.проф.О.С. Коломійченка НАМН України"""

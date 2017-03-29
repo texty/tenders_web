@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+499856,591451,842,3e+06,3e+06,"2014-04-17",20,3e+06,187717.2,195316.8,TRUE,"Управління житлово-комунального господарства Конотопської міськради Сумської області"

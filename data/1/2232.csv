@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449023,513740,43972,6e+05,584100,"2013-07-29",7,584100,584100,594000,TRUE,"КПС ""Стимул"" м.Харцизька Донецької області"

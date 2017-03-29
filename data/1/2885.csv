@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+453880,517387,1839,764446,699733,"2013-08-22",5,699733,699733,749456,TRUE,"Служба автомобільних доріг у Волинській області Держагентства автомобільних доріг України"

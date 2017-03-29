@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+546112,630762,287224,676000,675000,"2014-12-15",18,675000,675000,984000,TRUE,"КУ ""Кременчуцька рятувально-водолазна станція"""

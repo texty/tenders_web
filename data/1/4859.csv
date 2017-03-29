@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+562435,648057,15562,3950374.39,3694335.33,"2015-01-31",20,3694335.33,3694335.33,3830340.8,TRUE,"Управління охорони здоров’я Сумської облдержадміністрації"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+462791,528585,1795,4192643,4144677,"2013-11-04",7,4144677,4144677,4180972,TRUE,"Департамент охорони здоров'я Донецької обласної державної адміністрації"

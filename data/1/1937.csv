@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+421897,487447,47110,732600,676720,"2013-04-02",17,676720,789636.87,796870.4,TRUE,"ДП ""Котовське Лісове господарство"""

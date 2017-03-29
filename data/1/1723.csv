@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+418467,486359,3347,556039,556038.45,"2013-04-01",3,556038.45,556083,576107,TRUE,"Управління міського господарства Євпаторійської міськради АР Крим"

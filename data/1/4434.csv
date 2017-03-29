@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+544646,628505,1284,5702390,5696478,"2014-12-08",24,5696478,5696478,5701230,TRUE,"Служба автомобільних доріг у Хмельницькій області Держагентства автомобільних доріг України"

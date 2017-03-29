@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+530489,613297,505,1750000,2147140,"2014-09-08",1,2147140,2147140,2259138,TRUE,"Державне підприємство водних шляхів ""Укрводшлях"""

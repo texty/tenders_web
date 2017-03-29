@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+450466,515911,215824,2235955.8,2213355,"2013-08-13",1,2213355,2213355,2234885,TRUE,"ДП ""Управління капітального будівництва НАМН України"""

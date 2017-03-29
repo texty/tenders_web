@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+398359,465250,155,580000,512050,"2013-02-19",1,512050,512050,518790,TRUE,"Клінічна лікарня ""Феофанія"" Державного управління справами"

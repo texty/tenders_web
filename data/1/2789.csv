@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+458429,528808,142699,9e+05,9e+05,"2013-11-05",10,9e+05,9e+05,905000,TRUE,"КЗ ""Дитячо-юнацька спортивна школа №3"" Мелітопольської міськради Запорізької області"

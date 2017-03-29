@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+543435,626609,128539,650000,649999.32,"2014-12-02",5,649999.32,654588.32,700089,TRUE,"Волинська обласна станція переливання крові Управління охорони здоров’я Волинської облдержадміністрації"

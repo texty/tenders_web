@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+227765,248940,906,NA,4589184,"2011-11-22",14,4589184,4589184,4599904.8,TRUE,"Департамент житлово-комунального господарства та будівництва Луганської облдержадміністрації"

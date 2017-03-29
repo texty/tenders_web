@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+382504,422675,2053,8e+05,780450,"2012-11-29",1,780450,780450,846564,TRUE,"Генеральна прокуратура України"
+448041,510060,2053,1e+06,838680,"2013-07-03",1,838680,838680,938400,TRUE,"Генеральна прокуратура України"

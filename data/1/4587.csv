@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+545884,632081,286959,2500000,2499840,"2014-12-22",11,2499840,2499840,2510400,TRUE,"3 Державна пожежно-рятувальна частина Управління державної служби України з надзвичайних ситуацій в Івано-Франківській області"

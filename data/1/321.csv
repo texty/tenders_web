@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+224407,247705,184,NA,8800312,"2011-11-17",17,8800312,7333593.33,8037630,TRUE,"Служба будівельно-монтажних робіт і цивільних споруд СТГО ""Південна залізниця"""

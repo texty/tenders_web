@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+435532,490910,73471,4490000,4314486.51,"2013-04-12",2,4314486.51,4316633.51,4522963.77,TRUE,"КЗ ""Міська лікарня №2"" Севастопольської міськдержадміністрації"

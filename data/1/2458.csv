@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+446853,513784,5952,860000,859961.4,"2013-07-29",1,859961.4,859961.4,900791.88,TRUE,"Інститут теоретичної фізики ім.М.М. Боголюбова НАН України"

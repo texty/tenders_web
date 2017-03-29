@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+516695,595307,8254,917600,914600,"2014-05-14",7,914600,914600,928200,TRUE,"Донецький національний медичний університет ім.М. Горького"

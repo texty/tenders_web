@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+567248,663654,2014,2759000,2499924.06,"2015-03-02",17,2499924.06,2499924.06,2525187.13,TRUE,"Відділ комунального господарства та благоустрою Іллічівської міськради Одеської області"

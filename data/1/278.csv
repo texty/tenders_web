@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225892,249456,3908,NA,1741379,"2011-11-23",8,1741379,1741428,1745429,TRUE,"Управління житлово-комунального господарства, енергозбереження  та комунальної власності Новоград-Волинської міськради Житомирської області"

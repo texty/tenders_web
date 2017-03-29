@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+434482,495519,1417,1591634.8,1590094.75,"2013-04-26",12,1590094.75,1590094.75,2275314,TRUE,"Головне управління житлово-комунального господарства виконавчого комітету Бориспільської міської ради"

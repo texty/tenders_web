@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+399340,455574,165781,2400000,2355438.78,"2013-02-01",17,2355438.78,2355438,2437562,TRUE,"КП ""Морська пошуково-рятувальна служба"" м.Одеса"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+553472,656404,79574,795600,511200,"2015-02-18",4,511200,512052,563738,TRUE,"Шаргородська центральна районна лікарня"

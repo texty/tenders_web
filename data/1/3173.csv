@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+461505,530465,60032,960000,921000,"2013-11-14",3,921000,921000,1223550,TRUE,"Головне управління МВС України в АР Крим"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+399852,464924,3247,601125.06,552069,"2013-02-18",16,552069,552195,578490,TRUE,"Відділ освіти, молоді та спорту Баштанської райдержадміністрації Миколаївської області"

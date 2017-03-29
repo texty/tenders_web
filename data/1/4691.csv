@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+550488,641458,1018,4500000,4500000,"2015-01-19",27,4500000,4500000,4862755.7,TRUE,"Управління житлово-комунального господарства Чернігівської міськради"

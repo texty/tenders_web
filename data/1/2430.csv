@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449183,513518,3185,1e+06,995000,"2013-07-26",2,995000,995000,998000,TRUE,"Управління МВС України в м.Севастополі"

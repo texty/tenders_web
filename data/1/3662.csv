@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+508149,590863,118296,566500,566389,"2014-04-22",6,566389,653743,1439779,TRUE,"КЗ ""Центр первинної медико-санітарної допомоги Новомосковського району"" Дніпропетровської області"

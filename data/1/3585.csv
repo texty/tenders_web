@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+492799,562199,6031,657448,645120.85,"2014-02-12",8,645120.85,645120.85,649229.9,TRUE,"Управління освіти Житомирської міськради"

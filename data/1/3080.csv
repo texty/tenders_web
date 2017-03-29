@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+459839,529512,2847,5319169,5315306,"2013-11-08",18,5315306,5315306,5318234,TRUE,"Управління освіти Лубенського міськвиконкому Полтавської області"

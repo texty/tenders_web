@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+445465,509536,76,1e+06,975602.5,"2013-07-01",9,975602.5,975602.5,996141.5,TRUE,"Департамент освіти і науки, молоді та спорту Закарпатської облдержадміністрації"

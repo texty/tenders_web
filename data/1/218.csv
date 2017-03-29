@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226589,259802,582,NA,585372,"2011-12-21",10,585372,585372,630000,TRUE,"ДП ""Запорізький титано-магнієвий комбінат"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+451221,521448,89097,510000,510000,"2013-09-18",15,510000,510000,535000,TRUE,"Департамент з питань цивільного захисту Львівської облдержадміністрації"

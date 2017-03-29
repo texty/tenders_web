@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+535978,616366,1431,716564,714542.4,"2014-09-30",6,714542.4,714542.4,716333.7,TRUE,"Комунальний заклад ""Дніпропетровське клінічне об’єднання швидкої медичної допомоги"" Дніпропетровської обласної ради"""

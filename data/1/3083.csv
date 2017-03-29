@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+462981,532392,493,1327400,1327393.6,"2013-11-26",1,1327393.6,1327453,1422914,TRUE,"Комунальна корпорація ""Київавтодор"""

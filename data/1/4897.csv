@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+567170,664640,5310,760000,1161332.8,"2015-03-02",14,1161332.8,1161332.8,1194641.9,TRUE,"Управління охорони здоров’я Сєверодонецької міськради Луганської області"

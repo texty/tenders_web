@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+221672,245159,107810,NA,4905320,"2011-11-07",15,4905320,4905320,5406936,TRUE,"Пасіки-Зубрицька сільрада Пустомитівського району Львівської області"

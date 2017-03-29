@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449265,513011,96208,1657218,1580514.36,"2013-07-23",3,1580514.36,1580514.36,1614892.87,TRUE,"Республіканський комітет АР Крим з будівництва та архітектури"

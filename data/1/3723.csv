@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+503551,589784,2783,850979,849953,"2014-04-16",7,849953,849953,859894,TRUE,"Комсомольська міськрада Донецької області"

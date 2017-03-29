@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+536389,619968,1835,2374206,2257420.8,"2014-10-22",9,2257420.8,2257502.8,2341789.2,TRUE,"Тячівська райдержадміністрація Закарпатської області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+529623,610371,8,1008924,993924,"2014-08-19",6,993924,993924,1140729.6,TRUE,"ПрАТ ""Дніпропетровський тепловозоремонтний завод"""

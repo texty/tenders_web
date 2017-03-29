@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+495429,584138,497,1500000,1473040,"2014-03-28",11,1473040,1473040,1495220,TRUE,"Відділ управління комунальним майном Коломийської міськради Івано-Франківської області"

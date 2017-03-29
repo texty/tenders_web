@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+437247,505885,107,6100000,5534737.62,"2013-06-13",10,5534737.62,5534737.62,5752972.04,TRUE,"КП ""Управління Капітального будівництва"" м.Запоріжжя"

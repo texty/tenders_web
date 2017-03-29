@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+223786,247341,1950,NA,465613,"2011-11-14",7,465613,465613,475765,TRUE,"ДП ""Дзержинськвугілля"""
+223779,247343,1950,NA,260549,"2011-11-14",7,260549,260549,266646,TRUE,"ДП ""Дзержинськвугілля"""

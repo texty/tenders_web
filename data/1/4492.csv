@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+542571,626186,164985,2500000,2420000,"2014-12-01",22,2420000,2420000,2500000,TRUE,"КП ""Харківське ремонтно-будівельне підприємство"""

@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+457060,532116,1261,795000,650000,"2013-11-26",7,650000,650000,7e+05,TRUE,"ПАТ ""Укртрансгаз"" Філія ""УМГ ""Донбастрансгаз"""
+528819,612832,22,315000,308700,"2014-09-04",22,308700,308700,315000,TRUE,"ДП ""ПІВДЕННА ЗАЛІЗНИЦЯ"""

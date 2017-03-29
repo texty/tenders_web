@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+537828,624059,1300,3e+07,29416280.4,"2014-11-20",7,29416280.4,29416280.4,31033160.4,TRUE,"Служба автомобільних доріг у Донецькій області Держагентства автомобільних доріг України"

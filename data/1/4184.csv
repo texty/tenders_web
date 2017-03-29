@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+531028,608140,11001,569692.67,524918.05,"2014-07-31",15,524918.05,524918.05,621358.65,TRUE,"Львівський обласний державний клінічний лікувально-діагностичний кардіологічний центр Львівської облдержадміністрації"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+517071,597205,50159,575000,569658,"2014-05-23",1,569658,569658,575000,TRUE,"Національний центр ""Мала академія наук України"""

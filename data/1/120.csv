@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225890,246831,324,NA,24082110.81,"2011-11-14",27,24082110.81,24082110.81,24392464.8,TRUE,"Служба автомобільних доріг у Чернігівській області"

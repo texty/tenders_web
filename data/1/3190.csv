@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+469481,537479,461,674900,668880,"2013-12-18",1,668880,668880,670500,TRUE,"Адміністрація державної спеціальної служби транспорту"

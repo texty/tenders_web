@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+469902,552687,517,3894414,3607022,"2014-01-23",22,3607022,3607022,3828874,TRUE,"КСП ""Харківгорліфт"""
+469987,552699,517,3090078,2820494,"2014-01-23",22,2820494,2820494,3059992,TRUE,"КСП ""Харківгорліфт"""

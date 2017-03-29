@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+544153,633643,271212,835200,833550,"2014-12-25",17,833550,833550,834600,TRUE,"Одеська філія Державного підприємства ""Адміністрація морських портів України"" (адміністрація Одеського морського порту)"

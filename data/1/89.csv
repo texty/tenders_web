@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225454,247669,5390,NA,1252500,"2011-11-17",19,1252500,1252500,1465200,TRUE,"ПАТ по газопостачанню та газифікації ""Рівнегаз"""

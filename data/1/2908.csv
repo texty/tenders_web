@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+456860,522634,286,12147701.57,12144802.19,"2013-09-26",14,12144802.19,12144802.19,12292865,TRUE,"Служба автомобільних доріг у Луганській області"

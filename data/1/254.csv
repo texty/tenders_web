@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226583,253254,2757,NA,2719763,"2011-12-06",5,2719763,2719763,2891060.52,TRUE,"Східноєвропейський національний університет імені Лесі Українки"

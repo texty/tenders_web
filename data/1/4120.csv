@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+531187,614383,155418,4071613,3731430,"2014-09-11",12,3731430,3731430,3904059.6,TRUE,"Дошкільний навчальний заклад (ясла-садок) ""Золотий колосок"""

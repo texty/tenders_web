@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+584610,668984,132006,929800,884881.2,"2015-03-11",12,884881.2,884930.69,1155112.6,TRUE,"Відділ освіти Бориспільської районної державної адміністрації"

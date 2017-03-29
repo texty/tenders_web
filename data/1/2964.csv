@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+464169,530975,3452,12883090,12870000,"2013-11-18",1,12870000,12870000,13560000,TRUE,"Національна телекомпанія України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+549289,640543,766,3372000,3252000,"2015-01-16",27,3252000,3252000,3295400,TRUE,"Державне підприємство ""Добрянське лісове господарство"""

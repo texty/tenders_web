@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+457676,524999,3974,9e+06,8754576,"2013-10-14",1,8754576,8754576,9948779,TRUE,"Територіальне управління ДСА України в м.Києві"

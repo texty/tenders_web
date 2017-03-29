@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+540918,622276,573,8146147.2,8141547.6,"2014-11-10",23,8141547.6,8141547.6,8317608,TRUE,"Управління капітального будівництва Херсонської міської ради"

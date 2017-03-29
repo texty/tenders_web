@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225208,250604,100209,NA,681663.86,"2011-11-28",17,681663.86,681663.86,712702.9,TRUE,"Комунальний заклад ""Іванівська центральна районна лікарня"" Іванівської районної ради"

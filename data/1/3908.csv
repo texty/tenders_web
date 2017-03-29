@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+510442,593454,1647,1590000,1589465,"2014-05-05",24,1589465,1589465,1603974,TRUE,"Управління житлово-комунального господарства Хмельницької міськради"

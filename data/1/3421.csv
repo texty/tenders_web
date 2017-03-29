@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+471636,558167,142,602880,570886.4,"2014-02-04",11,570886.4,570886.4,586872,TRUE,"Управління освіти і науки Івано-Франківського міськвиконкому"

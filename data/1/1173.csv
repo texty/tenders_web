@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+382314,441789,1593,2e+07,19393387,"2013-01-09",7,19393387,19393387,19993387,TRUE,"Комунальне комерційне підприємство Донецької міськради ""Донецькміськтепломережа"""

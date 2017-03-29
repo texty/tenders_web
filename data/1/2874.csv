@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+450873,518303,1822,2015000,1846000,"2013-08-27",13,1846000,1860200,1886400,TRUE,"військова частина 2269"

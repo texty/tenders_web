@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+456691,525563,86,1200000,1198120,"2013-10-16",7,1198120,1198121,1260001,TRUE,"ДП ""Орджонікідзевугілля"""

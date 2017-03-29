@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+450652,515016,926,45878634,43841850,"2013-08-07",3,43841850,43841850,44142892,TRUE,"Державне підприємство України ""Міжнародний дитячий центр ""Артек"""

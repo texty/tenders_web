@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+548870,633773,2150,16595000,16970300,"2014-12-29",7,16970300,16970300,17022500,TRUE,"ОКП ""Донецьктеплокомуненерго"""

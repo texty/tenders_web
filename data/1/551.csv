@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+347340,397801,171468,15500000,12500000,"2012-08-16",6,12500000,679,763,TRUE,"КП ""Регіональний стабілізаційний фонд"" Дніпропетровської облради"

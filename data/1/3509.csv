@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+476635,570270,10583,2e+06,1255353.74,"2014-02-26",1,1255353.74,1255353.74,1513589.01,TRUE,"Дочірнє підприємство ""СТО Алекс"""

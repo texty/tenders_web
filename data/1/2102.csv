@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+446117,511241,51791,6296192.4,6105928.8,"2013-07-09",7,6105928.8,6106008,6279858,TRUE,"ДП ""Донецька обласна дирекція з ліквідації збиткових вугледобувних та вуглепереробних підприємств"""

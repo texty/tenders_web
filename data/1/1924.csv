@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+426661,495388,1707,1750000,1622321.04,"2013-04-26",1,1622321.04,1622321.04,1784553.14,TRUE,"ПрАТ ""Київський електровагоноремонтний завод ім.Січневого повстання 1918 року"""

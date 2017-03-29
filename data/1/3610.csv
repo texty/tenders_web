@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+507315,586230,261240,3802137.3,3801753.4,"2014-04-02",18,3801753.4,3801753.4,4466925.6,TRUE,"ДП ""Дослідне господарство ""Нектар"" Національного наукового центру ""Інститут бджільництва імені П.І.Прокоповича"""

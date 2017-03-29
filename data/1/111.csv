@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+223104,252206,1426,NA,1862430,"2011-12-01",1,1862430,1862430,2188900,TRUE,"Комунальне підприємство електромереж зовнішнього освітлення м.Києва ""Київміськсвітло"""

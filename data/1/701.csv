@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+383628,423918,1533,650000,629500,"2012-12-06",1,629500,629500,631500,TRUE,"Державний заклад ""Поліклініка №2""  Державного управління справами України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+443035,503896,10108,905735.81,761265,"2013-06-04",1,761265,761265,798416.4,TRUE,"Комунальне підприємство виконавчого органу Київради (Київської міськдержадміністрації) ""Київреклама"""

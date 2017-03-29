@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+380634,445648,394,54600000,48187393.9,"2013-01-18",12,48187393.9,48187393.9,50293358.24,TRUE,"Трипільська ТЕС ПАТ ""Центренерго"""

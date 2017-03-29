@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+441926,505760,7552,6e+05,570000,"2013-06-11",15,570000,570000,595000,TRUE,"Відділ освіти Старосамбірської районної державної адміністрації"

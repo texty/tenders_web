@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+465907,537981,677,2213000,2163778.56,"2013-12-20",1,2163778.56,2163834,2173655.93,TRUE,"Національний банк України"

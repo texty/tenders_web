@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+227279,248142,58689,NA,3305684,"2011-11-18",22,3305684,3305684,3644738,TRUE,"Комунальне підприємство теплових мереж Харківської райдержадміністрації"

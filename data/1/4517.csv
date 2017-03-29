@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+546100,636283,3993,1635466,1657000,"2015-01-05",15,1657000,1657000,1872000,TRUE,"Жовківська міська рада Жовківського району Львівської області"

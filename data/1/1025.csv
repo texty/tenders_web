@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+387420,435808,446,738830.2,652700,"2013-01-03",6,652700,652700,764549,TRUE,"Відділ освіти виконкому Дзержинської районної у місті Кривому Розі ради Дніпропетровської області"

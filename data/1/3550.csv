@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+483816,563955,10192,1324600,1190900,"2014-02-14",10,1190900,1190900,1198620,TRUE,"КП ""Чистота"" Мелітопольської міськради Запорізької області"

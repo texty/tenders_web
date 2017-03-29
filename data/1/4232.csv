@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+537686,620174,38975,1161216,1155200,"2014-10-28",8,1155200,1155200,1157000,TRUE,"ПАТ ""ЕК ""Житомиробленерго"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+465915,535692,74047,2477398,2364212.4,"2013-12-10",25,2364212.4,2364212.4,2370897,TRUE,"Відділ культури і туризму Уманської міськради Черкаської області"

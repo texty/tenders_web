@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+228880,255458,90279,NA,720000,"2011-12-13",10,720000,720000,756000,TRUE,"Державне підприємство ""Запорізький державний авіаційний ремонтний завод ""МІГремонт"""

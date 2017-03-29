@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+547597,634152,4,3744750,3744750,"2014-12-29",15,3744750,3744750,3846433.2,TRUE,"ДТГО ""Львівська залізниця"""

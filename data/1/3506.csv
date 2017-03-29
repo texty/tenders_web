@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+484175,561714,3245,811088.67,541277.54,"2014-02-11",6,541277.54,541277.54,544588.11,TRUE,"КЗ ""Дніпропетровська клінічна психіатрична лікарня"" Дніпропетровської облради"""

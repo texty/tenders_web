@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+488273,567660,649,1233272.35,1079826,"2014-02-21",3,1079826,2160285.84,2163879.6,TRUE,"Департамент охорони в АР Крим Управління державної охорони України"

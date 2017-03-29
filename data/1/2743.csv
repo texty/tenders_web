@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454276,519445,257,1e+07,1e+07,"2013-09-03",26,1e+07,10000,10300.16,TRUE,"Служба автомобільних доріг у Чернівецькій області"
+455054,521787,257,1e+07,1e+07,"2013-09-20",26,1e+07,10000,10353.181,TRUE,"Служба автомобільних доріг у Чернівецькій області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+385022,430942,462,1303150,1299260,"2012-12-24",7,1299260,1299260,1361500,TRUE,"ДП ""Донбасантрацит"""

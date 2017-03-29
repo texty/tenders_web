@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+441182,504430,1353,1110000,1109030,"2013-06-07",15,1109030,1109030,1167100,TRUE,"КП ""Трускавецька міська лікарня"" Львівської області"

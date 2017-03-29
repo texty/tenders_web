@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+365637,411839,64055,1200000,1046400,"2012-10-12",10,1046400,1046400,1048320,TRUE,"ТОВ ""Рибальське підприємство ""БРИЗ"""

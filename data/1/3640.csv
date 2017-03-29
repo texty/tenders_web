@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+504773,589509,227690,552000,547866.35,"2014-04-14",14,547866.35,547866.35,646482.29,TRUE,"ДУ ""Луганський обласний лабораторний центр Держсанепідслужби України"""

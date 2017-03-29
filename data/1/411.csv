@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+231234,253555,796,NA,849718,"2011-12-06",13,849718,849718,870678,TRUE,"Управління капітального будівництва Кіровоградської облдержадміністрації"

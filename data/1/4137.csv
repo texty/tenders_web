@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+534166,611083,1377,784000,770000,"2014-08-26",1,770000,770000,866600,TRUE,"Національна академія внутрішніх справ"

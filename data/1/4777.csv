@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+564118,659144,158005,1700645,1700645,"2015-02-23",8,1700645,1701576.86,1701590,TRUE,"Державний навчальний заклад ""Житомирське вище професійне технологічне училище"""

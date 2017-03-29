@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+223720,250755,230,NA,1290571.07,"2011-11-29",3,1290571.07,1290571.07,1330527.6,TRUE,"Служба автомобільних доріг в АР Крим держагентства автомобільних доріг України"

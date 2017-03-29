@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+464799,539975,337,3640076,3523954.41,"2013-12-26",8,3523954.41,3523954.41,3587850.99,TRUE,"Служба автомобільних доріг у Житомирській області Держагентства автомобільних доріг України"

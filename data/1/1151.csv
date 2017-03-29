@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+386087,441072,2762,850000,798736.75,"2013-01-11",7,798736.75,798736.75,1177016.4,TRUE,"Донецька облрада"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+536286,617780,3305,541100,541098.72,"2014-10-08",16,541098.72,541098.72,564685.49,TRUE,"Адміністрація Заводського району Миколаївської міськради"

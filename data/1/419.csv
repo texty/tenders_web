@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226704,262530,45682,NA,11984668.67,"2011-12-30",19,11984668.67,11984668.67,11989465.87,TRUE,"ВП ""Складське господарство"" ДП ""НАЕК ""Енергоатом"""

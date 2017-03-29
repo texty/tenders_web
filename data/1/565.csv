@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+358890,409041,613,1.5e+07,14581677.6,"2012-09-27",15,14581677.6,14581677.6,14676214,TRUE,"Управління капітального будівництва Львівської міськради"

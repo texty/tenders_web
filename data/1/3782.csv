@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+521758,603294,200,1926480,1926572,"2014-06-26",7,1926572,1926572,1982867,TRUE,"Територіальне управління ДСА України в Донецькій області"

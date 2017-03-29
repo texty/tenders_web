@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+331103,376127,36992,6e+05,589954,"2012-06-19",11,589954,589954,595134,TRUE,"ВФ ""Калуська ТЕЦ"" Державного підприємства зовнішньоекономічної діяльності ""Укрінтеренерго"""

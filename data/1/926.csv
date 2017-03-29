@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+387089,430659,2920,1.7e+07,16603500,"2012-12-21",1,16603500,16603500,1.7e+07,TRUE,"Комунальний заклад Київської обласної ради ""Київський обласний онкологічний диспансер"""

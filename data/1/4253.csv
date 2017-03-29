@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+539278,622007,2938,915000,1090100,"2014-11-05",16,1090100,1090100,1152000,TRUE,"Снігурівська центральна районна лікарня Миколаївської області"

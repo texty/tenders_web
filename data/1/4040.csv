@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+524196,604851,16937,1851155.5,1652972.1,"2014-07-07",6,1652972.1,1652972.1,1661540.95,TRUE,"Криворізьке міське управління ГУ МВС України в Дніпропетровській області"

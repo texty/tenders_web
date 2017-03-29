@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+499637,586451,1249,2386400,2386292.4,"2014-04-04",22,2386292.4,2386292.4,2467764,TRUE,"Департамент будівництва та шляхового господарства Харківської міськради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+374892,414487,104921,611700,535680,"2012-10-25",10,535680,535680,538920,TRUE,"КЗ ""Запорізька спеціальна загальноосвітня школа-інтернат №2"" Запорізької облради"

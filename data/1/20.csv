@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+219358,248811,719,NA,1018800,"2011-11-18",1,1018800,1018800,1026800,TRUE,"Публічне акціонерне товариство ""Державний ощадний банк України"""

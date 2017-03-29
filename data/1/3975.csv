@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+527231,608815,1203,1500000,1500000,"2014-08-05",15,1500000,206466,234642,TRUE,"Галицька райадміністрація Львівської міськради"

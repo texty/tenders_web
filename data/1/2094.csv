@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+448489,514056,123489,8300000,7919124,"2013-07-31",18,7919124,7919124,8110744.8,TRUE,"КВП ""Кременчуцьке міське управління капітального будівництва"" Полтавської області"

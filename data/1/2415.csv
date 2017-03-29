@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449509,510916,2739,1234535,1334894,"2013-07-08",1,1334894,1334894,1337885.75,TRUE,"Головний військово-медичний клінічний ордена Червоної Зірки центр ""Головний військовий клінічний госпіталь"" МО України"

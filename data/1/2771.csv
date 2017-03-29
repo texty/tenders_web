@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+447832,515322,2686,44820455,34208884.65,"2013-08-09",14,34208884.65,34208884.65,35853933.19,TRUE,"Департамент забезпечення життєдіяльності міста Луганської міськради"

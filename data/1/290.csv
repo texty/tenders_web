@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226316,251202,3044,NA,1968653.94,"2011-11-28",24,1968653.94,1968653.94,2134872.07,TRUE,"Публічне акціонерне товариство з газопостачання та газифікації ""Хмельницькгаз"""

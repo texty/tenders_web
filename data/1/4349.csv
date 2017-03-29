@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+539828,621950,90,13050240,11827620,"2014-11-07",17,11827620,10756800,10789200,TRUE,"ДП ""Одеський морський торговельний порт"""

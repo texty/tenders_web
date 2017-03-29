@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+512640,599889,1514,1200000,1119607.69,"2014-06-10",16,1119607.69,1119607.69,1271441.94,TRUE,"Служба автомобільних доріг у Миколаївській області"

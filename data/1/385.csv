@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+227940,255188,63032,NA,6462665,"2011-12-12",6,6462665,6462665,6509087,TRUE,"КЗ ""Криворізький перинатальний центр зі стаціонаром"" Дніпропетровської облради"""

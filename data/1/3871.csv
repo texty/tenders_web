@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+520515,597514,28720,644400,678648,"2014-05-26",20,678648,678648,693408,TRUE,"Відділ освіти Сумської районної державної адміністрації"

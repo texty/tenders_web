@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+451386,520079,3400,1200000,1069900,"2013-09-06",6,1069900,1069900,1327500,TRUE,"Зеленодольська міськрада Апостолівського району Дніпропетровської області"

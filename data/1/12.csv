@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+222744,248151,2651,NA,950000,"2011-11-18",18,950000,950000,1125000,TRUE,"Полтавське обласне комунальне виробниче підприємство теплового господарства ""Полтаватеплоенерго"""

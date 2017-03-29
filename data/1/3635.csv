@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+505124,589123,1745,1800027,2016982.33,"2014-04-11",16,2016982.33,2016982.33,2226651.49,TRUE,"Адміністрація Центрального району  Миколаївської міської ради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+383703,429253,7628,9400000,8655612,"2012-12-19",1,8655612,8655612,8903892,TRUE,"Управління водних ресурсів у м.Києві та Київській області"

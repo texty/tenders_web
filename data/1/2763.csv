@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+453562,522455,238897,1071750,1071750,"2013-10-04",7,1071750,2146033,2256143,TRUE,"ДП ""Шахта №4-21"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+462329,533036,1317,6e+05,597000,"2013-11-29",1,597000,597000,6e+05,TRUE,"Київський міський клінічний онкологічний центр"

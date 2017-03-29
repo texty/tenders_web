@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+455303,521702,29924,8141000,7747817,"2013-09-20",19,7747817,7747817,7961457,TRUE,"Департамент з питань будівництва та архітектури Рівненської облдержадміністрації"

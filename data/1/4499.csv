@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+548328,634487,12905,734500,723500,"2014-12-30",8,723500,723500,729940,TRUE,"Обласний госпіталь для ветеранів війни Житомирської облради"

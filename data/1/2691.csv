@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+453556,520902,75020,1200000,1499640,"2013-09-13",15,1499640,1499640,1500210,TRUE,"Управління Державної служби охорони при ГУ МВС України у Львівській області"

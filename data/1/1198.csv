@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+383442,429291,141918,302835,7890500,"2012-12-17",12,7890500,7890500,7899427.2,TRUE,"Ставищенська селищна рада Київської області"

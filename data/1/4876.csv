@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+564806,668922,3819,622855,597312,"2015-03-10",10,597312,597312,629151.12,TRUE,"КП ""Експлуатаційне лінійне управління автомобільних шляхів"" Управління комунального господарства Запорізького міськвиконкому"

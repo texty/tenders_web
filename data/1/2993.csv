@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+465008,530044,4479,578624.72,565783.5,"2013-11-13",11,565783.5,565783.5,583964.9,TRUE,"Центральна районна лікарня Надвірнянського району Івано-Франківської області"

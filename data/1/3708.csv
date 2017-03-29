@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+494378,589976,1256,16513584,16503779.91,"2014-04-17",10,16503779.91,14773054.4616504,6031287937.75,TRUE,"Дніпровська електроенергетична система ДП ""НЕК ""Укренерго"""

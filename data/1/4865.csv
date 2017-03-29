@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+559861,662935,9769,1095300,905760,"2015-02-27",5,905760,905760,1877912,TRUE,"Волинський обласний ліцей з посиленою військово-фізичною підготовкою"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+444299,506401,1130,24640000,24588000,"2013-06-14",1,24588000,24588000,24628800,TRUE,"Державне агентство резерву України"

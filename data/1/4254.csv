@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+539596,621588,259,1273800,1270808,"2014-11-04",6,1270808,1270808,1273580,TRUE,"КЗ ""Обласний центр екстреної медичної допомоги та медицини катастроф"" Дніпропетровської облради"""

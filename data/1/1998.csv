@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+440424,498623,5115,1132000,1132000,"2013-05-14",27,1132000,44.3,46.5,TRUE,"Чернігівська облрада"
+456888,523427,9537,182000,181951,"2013-10-02",27,181951,181951,192276,TRUE,"Чернігівська облдержадміністрація"

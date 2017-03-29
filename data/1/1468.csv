@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+391075,450467,2171,645600,607326.72,"2013-01-25",19,607326.72,34.76,44.83,TRUE,"Управління освіти Рівненського міськвиконкому"

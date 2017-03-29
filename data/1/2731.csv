@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+455263,520763,68937,680000,669000,"2013-09-12",6,669000,780500,875000,TRUE,"Державне спеціалізоване підприємство ""Дніпропетровський Державний міжобласний спеціальний комбінат"""

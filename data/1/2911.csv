@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449820,520697,55769,1459898,1339316.4,"2013-09-11",6,1339316.4,1339316.4,1347757.2,TRUE,"МКЗ ""Палац культури імені Артема"" м.Кривого Рогу Дніпропетровської області"

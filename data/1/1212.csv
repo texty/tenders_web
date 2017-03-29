@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+383952,442202,9621,3210000,2698669.7,"2013-01-15",15,2698669.7,2698739,2793129,TRUE,"Львівське міське комунальне підприємство ""Львівтеплоенерго"""

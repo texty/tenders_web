@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+425188,492124,5165,760000,740250,"2013-04-18",15,740250,740250,759900,TRUE,"Жовківське управління водного господарства Держкомводгоспу України"

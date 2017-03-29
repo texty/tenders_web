@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+441259,503081,11004,750000,1181972,"2013-05-31",6,1181972,1181972,4835115,TRUE,"Управління зовнішньоекономічної діяльності Дніпропетровської облдержадміністрації"

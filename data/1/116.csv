@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+227181,250583,110538,NA,985575.52,"2011-11-25",9,985575.52,985575.52,1024999,TRUE,"КП ""Уж-енергія"" Закарпатської області"

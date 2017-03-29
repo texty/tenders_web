@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+450323,514515,95345,1965141,747195.21,"2013-08-02",10,747195.21,747195.21,1284196.74,TRUE,"Департамент освіти і науки, молоді та спорту Запорізької міськради"

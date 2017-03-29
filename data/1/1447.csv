@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+396648,453173,4810,591696,562828,"2013-01-30",24,562828,562828,564420.6,TRUE,"Полонська центральна районна лікарня ім.Н.С. Говорун Хмельницької області"

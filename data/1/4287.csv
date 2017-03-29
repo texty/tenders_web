@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+551109,643156,91,980978.34,1000875,"2015-01-21",4,1000875,1000875,1140997.5,TRUE,"ПАТ ""Вінницяобленерго"""
+551077,643154,91,745157.91,602204.4,"2015-01-21",4,602204.4,602244,686513.02,TRUE,"ПАТ ""Вінницяобленерго"""

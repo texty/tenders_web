@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+529032,618293,123909,1822871.74,1495800,"2014-10-10",1,1495800,1495800,1749401.55,TRUE,"Державна міграційна служба України"

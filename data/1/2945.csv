@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+459559,530205,9690,514000,530406,"2013-11-11",12,530406,530406,538380,TRUE,"Регіональна державна лабораторія ветеринарної медицини в Київській області"

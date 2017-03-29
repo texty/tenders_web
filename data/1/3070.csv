@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+468288,539087,80,6505510,2752177.68,"2013-12-24",7,2752177.68,2752177.68,3027395.4,TRUE,"ДП ""ВК ""Краснолиманська"""

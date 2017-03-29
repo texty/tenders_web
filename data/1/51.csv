@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+224423,257273,1544,NA,1188000,"2011-12-15",1,1188000,1188000,1356000,TRUE,"ПАТ ""Укртрансгаз"""

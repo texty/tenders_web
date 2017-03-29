@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+410998,474238,10592,1829800,1829798,"2013-03-01",6,1829798,1829798,2516273,TRUE,"Комунальне підприємство Дніпропетровської облради “Редакція газети “Зоря”"

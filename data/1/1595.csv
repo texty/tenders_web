@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+412914,478944,2693,368278.47,319011,"2013-03-13",16,319011,319011,325330.5,TRUE,"Миколаївський міськвиконком"
+491560,572241,2693,349347,349338,"2014-03-03",16,349338,640449,664440,TRUE,"Миколаївський міськвиконком"

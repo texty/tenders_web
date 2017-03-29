@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+555629,647211,10069,1929832.98,1929832.96,"2015-01-31",22,1929832.96,1929832.96,2513758.39,TRUE,"КОМУНАЛЬНЕ ПІДПРИЄМСТВО ""ГАЗЕТА ""ХАРЬКОВСКИЕ ИЗВЕСТИЯ"" ХАРКІВСЬКОЇ МІСЬКОЇ РАДИ"""

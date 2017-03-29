@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+464623,539241,113765,873418,873080,"2013-12-25",16,873080,873080,912500,TRUE,"КЗ ""Центр соціально-психологічної реабілітації дітей Южноукраїнської міськради""  Миколаївської області"

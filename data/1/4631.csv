@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+543943,629671,63,288084580,288084580,"2014-12-10",1,288084580,2809881.6,2968833.6,TRUE,"Служба автомобільних доріг у Київській області Держагентства автомобільних доріг України"

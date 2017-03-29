@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+544996,625120,139,526000,534267.3,"2014-11-24",1,534267.3,534267.3,539684.8,TRUE,"Національний медичний університет імені О.О. Богомольця"

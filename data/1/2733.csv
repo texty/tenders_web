@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+456723,524384,208080,8915000,8742532.67,"2013-10-04",8,8742532.67,8742532,8827916,TRUE,"КП ""Агентство з управління майном"" Житомирської міськради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+465889,542666,1076,1024000,825600,"2014-01-06",13,825600,825606,879366,TRUE,"Управління освіти, молоді та спорту Олександрійської міської ради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+496529,581751,6078,719306,719270,"2014-03-21",15,719270,989,1412,TRUE,"Спеціалізований Трускавецький санаторій ""Батьківщина"" Львівської області"

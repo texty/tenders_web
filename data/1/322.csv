@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+224047,253649,115,NA,625085,"2011-12-07",7,625085,625085,630000,TRUE,"СО Слов’янська ТЕС ПАТ ""Донбасенерго"""
+517455,600783,966,466750,466750.8,"2014-06-13",1,466750.8,466750.8,492780,TRUE,"ПАТ ""Центренерго"""

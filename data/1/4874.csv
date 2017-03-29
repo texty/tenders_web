@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+561270,653121,3920,561570.78,551896,"2015-02-10",22,551896,551896,569595,TRUE,"Відділ освіти Балаклійської районної державної адміністрації Харківської області"

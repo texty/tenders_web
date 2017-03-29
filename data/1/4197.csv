@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+539099,618099,29359,3e+05,591835.44,"2014-10-13",17,591835.44,591835.44,631060.8,TRUE,"КУ ""Одеська обласна станція переливання крові"""

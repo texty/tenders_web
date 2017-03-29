@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+458126,529265,6934,1588000,1580000,"2013-11-07",4,1580000,1580000,1778562,TRUE,"Комунальне підприємство ""Ладижинський комбінат комунальних підприємств"" Ладижинської міської ради"

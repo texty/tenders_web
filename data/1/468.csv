@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+275873,342676,2056,NA,558575,"2012-04-10",12,558575,204.39,208.9,TRUE,"Відділ освіти Рокитнянської райдержадміністрації Київської області"

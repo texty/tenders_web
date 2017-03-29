@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+389515,466318,4536,7053000,7053000,"2013-02-19",3,7053000,7053000,10470000,TRUE,"Комунальне підприємство Ялтинської міськради ""Комбінат благоустрою"" АР Крим"

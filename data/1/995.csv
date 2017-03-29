@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+398271,440990,122879,679000,668000,"2013-01-08",11,668000,668000,679000,TRUE,"Відділ освіти Тлумацької райдержадміністрації Івано-Франківської області"

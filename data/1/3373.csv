@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+470205,550722,1579,12548172.14,12543316.8,"2014-01-20",12,12543316.8,12543316.8,12558589.27,TRUE,"Управління житлово-комунального господарства Білоцерківської міської ради"

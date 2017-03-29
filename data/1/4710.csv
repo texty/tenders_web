@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+551869,641939,11275,805000,765450,"2015-01-19",10,765450,765450,833000,TRUE,"Приазовська селищна рада Запорізької області"

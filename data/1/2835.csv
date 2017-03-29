@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454592,518761,56498,3204800,3163696.8,"2013-08-30",26,3163696.8,3163696.8,3230690.4,TRUE,"ДП ""Олімпійський навчально-спортивний центр ""Чернігів"""

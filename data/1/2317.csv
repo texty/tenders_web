@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+442143,506305,5083,7e+05,698100,"2013-06-14",27,698100,698213,699773,TRUE,"Дігтярівський професійний аграрний ліцей Управління освіти і науки Чернігівської облдержадміністрації"

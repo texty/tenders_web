@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+368790,410522,340,1.8e+08,179120570,"2012-10-08",7,179120570,179120570,179800625,TRUE,"ДП ""Макіїввугілля"" "
+506438,590424,340,130893000,110665336,"2014-04-18",7,110665336,110665336,120543620,TRUE,"ДП ""Макіїввугілля"" "

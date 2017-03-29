@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+465413,534107,88594,622000,596786.52,"2013-12-06",14,596786.52,596786.52,606653.39,TRUE,"Луганський окружний адміністративний суд"

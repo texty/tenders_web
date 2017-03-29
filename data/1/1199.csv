@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+387062,430333,583,20931006,19450815.6,"2012-12-21",15,19450815.6,19450815.6,19714384.8,TRUE,"Зубрянська сільрада Пустомитівського району Львівської області"

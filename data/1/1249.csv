@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+385786,428369,58857,489000,569532,"2012-12-17",25,569532,569532,580251,TRUE,"КП ""Міський водоканал"" м.Золотоноша Черкаської області"

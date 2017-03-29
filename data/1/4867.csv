@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+563363,651449,83261,790000,786250,"2015-02-09",4,786250,786250,850000,TRUE,"ДП ""Іллінецьке лісове господарство"""

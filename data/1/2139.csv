@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+444461,506332,60758,538700,500640,"2013-06-14",1,500640,500640,530802,TRUE,"Державна науково-педагогічна бібліотека України імені В.О. Сухомлинського"

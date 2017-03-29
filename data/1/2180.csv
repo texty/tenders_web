@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+442353,504775,86158,2128054,2029855,"2013-06-07",18,2029855,2029885,2130885,TRUE,"Лохвицька міськрада Полтавської області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+481553,577601,1528,4720000,3483545.44,"2014-03-12",3,3483545.44,3483665.44,3783078.84,TRUE,"Виконком Сімеїзької селищної ради АР Крим"

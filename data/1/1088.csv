@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+388654,456029,128360,702470,663648,"2013-02-01",7,663648,423648,494919,TRUE,"КУ ""Парк культури і відпочинку м.Донецька"""

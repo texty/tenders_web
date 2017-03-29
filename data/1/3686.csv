@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+507977,592598,627,2143000,2142570,"2014-04-25",1,2142570,2142570,2680540.02,TRUE,"Міністерство фінансів України"
+542217,630075,627,52000,71660.4,"2014-12-11",1,71660.4,71660.4,72542.16,TRUE,"Міністерство фінансів України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+447055,511953,102762,6e+05,594000,"2013-07-15",7,594000,594000,1010566.8,TRUE,"Ялтинська селищна рада Першотравневого району Донецької області"

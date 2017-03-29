@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+452236,515286,171,5048000,5034072.39,"2013-08-09",7,5034072.39,5034072.39,5695199.63,TRUE,"ДУ ""Інститут невідкладної і відновної хірургії імені В.К. Гусака НАМН України"""

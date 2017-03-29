@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+525499,606679,4938,615240,610500,"2014-07-22",22,610500,610500,614800,TRUE,"Відділ освіти Золочівської райдержадміністрації Харківської області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+470444,539832,3259,1558000,1016595,"2013-12-26",17,1016595,1016595,1086705,TRUE,"Відділ освіти Іллічівської міськради Одеської області"

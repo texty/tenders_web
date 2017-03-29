@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+563873,662138,14818,731500,726000,"2015-02-23",25,726000,726000,732600,TRUE,"Відділ освіти Маньківської районної державної адміністрації"

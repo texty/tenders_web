@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+456945,529683,1614,6762446.5,7472250,"2013-11-08",1,7472250,7472250,7564500,TRUE,"Фонд соціального захисту інвалідів Міністерства соціальної політики України"

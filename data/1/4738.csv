@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+551571,648011,6634,1846154,1846153.8,"2015-02-02",13,1846153.8,1846153.8,1955122,TRUE,"Управління освіти виконавчого комітету Світловодської міської ради"

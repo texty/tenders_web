@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+445824,514000,11408,2838884,2306000,"2013-07-30",8,2306000,2306000,2787536,TRUE,"Попільнянська центральна районна лікарня Попільнянської районної ради"

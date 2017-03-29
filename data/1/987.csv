@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+388305,452265,76432,6e+05,541218.5,"2013-01-29",24,541218.5,541218.5,555546,TRUE,"Городоцька центральна районна лікарня"

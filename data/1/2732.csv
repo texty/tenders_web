@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+452527,523010,101608,550000,539462.5,"2013-09-10",26,539462.5,539512,540125,TRUE,"Відділ Державної служби охорони при УМВС України в Чернівецькій області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+379452,438776,2322,1870000,1832986.3,"2013-01-09",16,1832986.3,1832986.3,2018361,TRUE,"Департамент житлово-комунального господарства Миколаївського міськвиконкому"

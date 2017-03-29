@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+526603,609551,4752,731232,690489.6,"2014-08-07",1,690489.6,690489.6,708980.4,TRUE,"Військово-медичне управління СБ України"

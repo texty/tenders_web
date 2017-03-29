@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+396080,490785,5095,2500000,2651952.91,"2013-04-03",15,2651952.91,2651952.91,2920045,TRUE,"Львівське комунальне підприємство ""Львівавтодор"""

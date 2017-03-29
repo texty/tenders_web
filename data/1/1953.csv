@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+421924,489591,159,780000,777500,"2013-04-10",7,777500,777500,1520000,TRUE,"ДП ""Укршахтгідрозахист"" "

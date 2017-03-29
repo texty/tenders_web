@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+528391,610493,5377,1e+06,1255210.76,"2014-08-20",17,1255210.76,1255210.76,2101379.29,TRUE,"Управління з майнових відносин Одеської облради"

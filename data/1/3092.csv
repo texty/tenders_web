@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+465764,539077,38621,977695,977695,"2013-12-24",22,977695,977695,993338.12,TRUE,"КП  ""Комбінат дитячого харчування"" м.Харкова"

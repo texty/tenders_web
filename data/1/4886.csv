@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+560119,651015,871,1900000,2252000,"2015-02-10",26,2252000,136,142,TRUE,"Управління освіти, сім'ї, молоді та спорту Сторожинецької райдержадміністрації Чернівецької області"

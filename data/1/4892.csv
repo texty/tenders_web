@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+557174,648677,811,1696600,1437418.64,"2015-02-03",6,1437418.64,1437418.64,1676963.89,TRUE,"КЗ ""Дніпропетровська обласна клінічна офтальмологічна лікарня"""

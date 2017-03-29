@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+434096,496529,4010,688924,667904.42,"2013-04-29",7,667904.42,667946,823115,TRUE,"Волноваська міськрада Донецької області"

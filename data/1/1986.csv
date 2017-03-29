@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+435257,497838,5265,524820,507750,"2013-05-07",25,507750,507750,541600,TRUE,"Комунальний заклад ""Канівська загальноосвітня санаторна школа-інтернат І-ІІІ ступенів Черкаської обласної ради"""

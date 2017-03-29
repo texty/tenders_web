@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+542188,631071,2983,2500000,2187280.44,"2014-12-15",6,2187280.44,2187280,2683067.22,TRUE,"Управління промисловості та екології Дніпродзержинської міськради Дніпропетровської області "

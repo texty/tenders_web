@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+434976,497073,47,1101000,1100000,"2013-05-07",1,1100000,1100000,1500000,TRUE,"Головне управління Міндоходів у м.Києві"

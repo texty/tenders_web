@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+467374,538034,758,581000,569845.82,"2013-12-20",7,569845.82,569845.82,613419.56,TRUE,"Головне управління Держземагентства у Донецькій області"

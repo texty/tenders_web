@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+231635,256657,76323,NA,3225258.05,"2011-12-15",14,3225258.05,3225258.05,3225854.17,TRUE,"Троїцьке територіальне медичне об'єднання"

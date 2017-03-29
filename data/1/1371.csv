@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+403342,452424,17736,1193870.5,1141741,"2013-01-23",3,1141741,1141741,1158250,TRUE,"Санаторій ""Чорномор’є"" СБ України"

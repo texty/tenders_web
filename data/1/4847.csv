@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+555743,654712,79447,3750000,4141432.06,"2015-02-12",8,4141432.06,4141432.06,6203685.95,TRUE,"ДП ""Словечанський лісгосп АПК"""

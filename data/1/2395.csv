@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449722,514604,2130,5796554.4,5578620,"2013-08-02",24,5578620,5578620,5754263,TRUE,"Хмельницька обласна психіатрична лікарня №1"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+368103,412356,1631,176853600,174753432,"2012-10-10",18,174753432,174753432,175173264,TRUE,"ПАТ по газопостачанню та газифікації ""Полтавагаз"""

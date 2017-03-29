@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+353996,416616,29092,4934051,2809582,"2012-11-02",25,2809582,2809582,3103921,TRUE,"ДП ""Черкаситорф"" ДП ""Київторф"""

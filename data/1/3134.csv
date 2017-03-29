@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+458192,527650,3963,979945.2,998817.73,"2013-10-29",23,998817.73,998817.73,1127427,TRUE,"Управління головного Каховського магістрального каналу Держагентства водних ресурсів України"

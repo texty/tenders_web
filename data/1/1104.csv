@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+386171,431145,5816,797550,725770.5,"2012-12-24",17,725770.5,725770.5,765648,TRUE,"Відділ освіти Ізмаїльської міської ради"

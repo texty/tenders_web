@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+511643,590538,3823,633000,619200,"2014-04-18",7,619200,619200,631200,TRUE,"Кіровський психоневрологічний інтернат"

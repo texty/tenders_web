@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+506640,580095,1419,510000,509718,"2014-03-17",1,509718,509718,531549,TRUE,"ДУ ""Інститут травматології та ортопедії АМН України"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+443259,509648,213,1990836,1679940,"2013-07-02",10,1679940,1679940,1797240,TRUE,"ПрАТ ""Запорізький електровозоремонтний завод"""

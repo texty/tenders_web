@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+462849,532309,63107,806000,970200,"2013-11-22",20,970200,970200,1016400,TRUE,"Виконавча Дирекція Сумського обласного відділення Фонду соцстрахування з тимчасової втрати працездатності"

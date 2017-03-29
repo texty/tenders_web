@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+525318,616557,9965,2250000,2098000,"2014-10-02",24,2098000,2098000,2120000,TRUE,"Хмельницька обласна лікарня"

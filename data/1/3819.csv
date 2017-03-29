@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+521797,604619,1897,730000,729976.68,"2014-07-07",1,729976.68,729976.68,771363,TRUE,"Управління справами Верховної Ради України"

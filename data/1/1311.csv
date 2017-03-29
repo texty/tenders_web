@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+400137,456395,13062,2496529,2581752,"2013-02-04",15,2581752,24.7,25.05,TRUE,"Відділ освіти Залізничного району Управління освіти департаменту гуманітарної політики Львівської міськради"

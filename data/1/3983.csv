@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+524913,609015,7208,1322000,1282594.12,"2014-08-05",22,1282594.12,1282594.12,1321947.53,TRUE,"КП ""Харківські теплові мережі"""

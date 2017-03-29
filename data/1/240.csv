@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+228037,254456,1824,NA,2586750.45,"2011-12-09",22,2586750.45,2586750.45,2946409.24,TRUE,"КП ""Харківський метрополітен"""

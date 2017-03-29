@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+538890,620247,146332,6530229,6525668.4,"2014-10-28",24,6525668.4,6525708,6542060.4,TRUE,"Дунаєвецька селищна рада"

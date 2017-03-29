@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+237669,259647,110955,NA,566950,"2011-12-23",4,566950,566950,673595,TRUE,"Департамент комунальних ресурсів Вінницької міськради"

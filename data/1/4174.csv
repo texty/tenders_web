@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+528704,608884,5286,864900,801360,"2014-08-05",4,801360,801360,810080,TRUE,"Комунальна установа ""Авторемонтна база закладів охорони здоров'я"""

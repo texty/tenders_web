@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+514750,590112,9654,632700,632339.4,"2014-04-16",1,632339.4,632379,1241649.2,TRUE,"Київська міська клінічна офтальмологічна лікарня ""Центр мікрохірургії ока"""

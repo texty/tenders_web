@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+450059,515138,474,550000,519230,"2013-08-07",1,519230,519230,548000,TRUE,"Департамент соціальної політики виконавчого органу Київської міської ради (Київської міської державної адміністрації)"

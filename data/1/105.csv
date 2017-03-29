@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225203,246354,197,NA,4582860,"2011-11-11",25,4582860,4582860,4605732,TRUE,"Департамент капітального будівництва Черкаської облдержадміністрації"

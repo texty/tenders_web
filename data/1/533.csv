@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+339553,384416,1339,1680000,1671000,"2012-07-10",17,1671000,1671000,1675300,TRUE,"Південне регіональне управління ДПС України"

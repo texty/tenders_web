@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+429487,498287,2718,1150000,532800,"2013-05-13",14,532800,532800,612000,TRUE,"Міське комунальне підприємство експлуатаційно-лінійне управління автошляхів м.Луганська"

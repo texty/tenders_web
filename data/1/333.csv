@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+228995,251076,64441,0,1363200,"2011-11-29",3,1363200,1363200,1440000,TRUE,"ВАТ ""Феодосійська суднобудівна компанія ""Море"""

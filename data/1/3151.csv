@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+460307,526922,2557,1200000,1200000,"2013-10-25",22,1200000,1200000,1209497,TRUE,"Прокуратура Харківської області"

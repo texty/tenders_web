@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+413267,487490,2012,810000,790000,"2013-04-03",2,790000,790000,861035,TRUE,"Відділ освіти Нахімовської райдержадміністрації м.Севастополя"

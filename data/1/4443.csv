@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+545944,630121,4675,1550000,1447599.6,"2014-12-12",7,1447599.6,1447599.6,1499966.76,TRUE,"Управління освіти Краматорської міськради Донецької області"

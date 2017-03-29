@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+548132,640683,9140,705379,703158,"2015-01-12",22,703158,703158,770901,TRUE,"Управління освіти адміністрації Московського району Харківської міськради"

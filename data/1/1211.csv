@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+392025,475959,9329,1300000,1284672.6,"2013-03-06",5,1284672.6,1284672.6,1348182,TRUE,"Відділ освіти Любомльської райдержадміністрації Волинської області"

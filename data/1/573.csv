@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+370627,413016,94810,780000,776700,"2012-10-17",1,776700,776700,778800,TRUE,"Фізкультурно-спортивне товариство ""Динамо"" України"

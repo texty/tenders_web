@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+451225,519006,3333,2324328,2328204,"2013-08-30",24,2328204,2328204,2934564,TRUE,"Дунаєвецька міськрада Хмельницької області"

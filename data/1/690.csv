@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+368283,411637,1453,6431000,5920000,"2012-10-11",1,5920000,5920000,6300000,TRUE,"Управління житлово-комунального господарства Дніпровської районної в м.Києві держадміністрації "

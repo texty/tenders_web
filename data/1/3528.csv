@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+491299,578035,6162,1856857,1848635,"2014-03-13",12,1848635,1848635,1899785.8,TRUE,"Відділ освіти Макарівської районної державної адміністрації"

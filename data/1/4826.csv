@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+563901,658794,4031,8e+05,1239621.6,"2015-02-23",11,1239621.6,1239621.6,1473096,TRUE,"ДЗ ""Прикарпатський центр репродукції людини"" МОЗ України"

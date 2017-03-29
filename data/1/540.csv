@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+339503,387132,1052,853300,853000,"2012-07-18",1,853000,853000,9e+05,TRUE,"Центр адаптації державної служби до стандартів Європейського Союзу Національного агентства України з питань державної служби"

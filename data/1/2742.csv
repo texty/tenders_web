@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+452790,520061,566,878000,873360,"2013-09-06",1,873360,873360,874000,TRUE,"Національний олімпійський комітет України"

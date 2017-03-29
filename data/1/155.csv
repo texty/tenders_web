@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226084,247485,2430,NA,1950770,"2011-11-17",7,1950770,1950770,2048265,TRUE,"ДП ""Шахта ім.Ю.О. Гагаріна"""

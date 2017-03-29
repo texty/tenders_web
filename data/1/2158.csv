@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+446643,512238,2051,1715900,1661907.38,"2013-07-17",12,1661907.38,1661967.38,1700573.22,TRUE,"Управління житлово-комунального господарства Броварської міської ради"

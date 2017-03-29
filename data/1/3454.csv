@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+488073,571485,2241,1100000,1100000,"2014-02-28",22,1100000,19689.6791,19854.20911,TRUE,"Управління житлово-комунального господарства та будівництва Лозівської міськради Харківської області"

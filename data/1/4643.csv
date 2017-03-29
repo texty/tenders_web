@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+537446,624957,102386,5040860,28005120,"2014-12-14",1,28005120,28005120,28027560,TRUE,"Державна пенітенціарна служба України"

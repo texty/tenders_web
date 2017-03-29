@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+512895,590058,2932,9583500,8375390.26,"2014-04-17",26,8375390.26,8375416,10924875.25,TRUE,"Управління освіти Глибоцької райдержадміністрації Чернівецької області"

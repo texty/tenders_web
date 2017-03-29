@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+545188,630381,258252,819766.4,884344.3,"2014-12-26",11,884344.3,884344.3,909145.2,TRUE,"Комунальний заклад ""Івано-Франківський обласний центр екстреної медичної допомоги та медицини катастроф"""

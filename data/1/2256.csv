@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+445012,506139,48873,1305600.6,1304254.62,"2013-06-14",1,1304254.62,1304254.62,1332520.2,TRUE,"ДП ""УКРАВТОГАЗ"" ПАТ ""НАК ""НАФТОГАЗ УКРАЇНИ"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+525291,605968,338,960000,959000,"2014-07-17",7,959000,959000,960000,TRUE,"Управління міського житлово-комунального господарства Макіївської міськради Донецької області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+488692,570320,18011,930798,930798,"2014-02-26",25,930798,930798,1046365.92,TRUE,"Відділ освіти Жашківської районної державної адміністрації"

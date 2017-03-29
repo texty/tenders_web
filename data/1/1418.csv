@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+395961,464648,10940,1360000,1275000,"2013-02-18",15,1275000,1275000,1326000,TRUE,"Відділ освіти Шевченківського району Управління освіти Департаменту гуманітарної політики Львівської міськради"

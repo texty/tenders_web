@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+536162,622527,10089,2210000,2988800,"2014-11-11",15,2988800,2988800,3148800,TRUE,"Відділ освіти Сокальської райдержадміністрації Львівської області"

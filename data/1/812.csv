@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+368258,413552,1699,4326803,4027860,"2012-10-19",24,4027860,4027860,4270840,TRUE,"Управління житлово-комунального господарства Хмельницької облдержадміністрації"

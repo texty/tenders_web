@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+463014,533407,4068,1510000,1562850,"2013-12-03",3,1562850,1562850,1570400,TRUE,"Національний центр управління та випробувань космічних засобів Державного космічного агентства України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+431109,497971,3043,3281500,3212499,"2013-04-26",14,3212499,3212499,3295269.6,TRUE,"Комунальне підприємство ""Алчевська шляхово-експлуатаційна дільниця"""

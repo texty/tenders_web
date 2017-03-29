@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+512912,594852,92489,1256990,1445171.5,"2014-05-07",8,1445171.5,1445171.5,1489411,TRUE,"Комунальне виробничо-господарське підприємство м.Коростень Житомирської області"

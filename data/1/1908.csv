@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+426931,488691,101256,538000,533064.37,"2013-04-08",8,533064.37,533064.37,555480.87,TRUE,"Прокуратура Житомирської області"

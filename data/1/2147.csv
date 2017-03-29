@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+442913,503562,230911,5e+05,549997.97,"2013-06-04",7,549997.97,549997.97,573640,TRUE,"ТОВ фірма ""Содєйствіє"" "

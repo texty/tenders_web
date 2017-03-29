@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+455638,524904,164957,597760,597760,"2013-10-10",23,597760,597760,607430,TRUE,"Національний природний парк ""Джарилгацький"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+455580,524149,176132,540720,535460.89,"2013-10-08",15,535460.89,535549,540391,TRUE,"Управління Держземагентства у Дрогобицькому районі Львівської області"

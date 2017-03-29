@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+468259,546329,15406,798000,794010,"2014-01-13",6,794010,794070.7,825195.04,TRUE,"Відділ освіти Індустріальної районної у місті ради м.Дніпропетровськ"

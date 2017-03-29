@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+444928,506954,16941,9e+05,887148,"2013-06-18",7,887148,887148,895447,TRUE,"Управління культури і туризму Донецької міськради"

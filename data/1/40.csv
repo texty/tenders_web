@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+219023,245175,176,NA,18599752.46,"2011-11-08",22,18599752.46,18599752.46,19874445.98,TRUE,"Служба автомобільних доріг у Харківській області Держагентства автомобільних доріг України"

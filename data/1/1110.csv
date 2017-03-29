@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+386589,429178,204,3e+06,2999970,"2012-12-19",1,2999970,2499975,3e+06,TRUE,"Міністерство внутрішніх справ України"

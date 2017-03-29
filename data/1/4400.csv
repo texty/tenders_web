@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+539979,622666,5351,795000,792866,"2014-11-11",4,792866,792866,794860,TRUE,"Вінницька обласна універсальна наукова бібліотека ім.К.А. Тімірязєва"

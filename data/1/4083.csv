@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+529248,611666,33,1e+06,998400,"2014-08-26",1,998400,998400,999576,TRUE,"Господарсько-фінансовий департамент Секретаріату Кабінету Міністрів України"

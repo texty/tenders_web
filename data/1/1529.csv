@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+415568,483271,2929,602441.88,601109.2,"2013-03-22",3,601109.2,601109.2,602090.2,TRUE,"Управління житлово-комунального господарства Феодосійської міськради АР Крим"

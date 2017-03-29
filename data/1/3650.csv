@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+498992,585090,208852,982500,1283171.95,"2014-04-01",7,1283171.95,1283171,1308582,TRUE,"1 державний пожежно-рятувальний загін Головного управління Державної служби України з надзвичайних ситуацій у Донецькій області"

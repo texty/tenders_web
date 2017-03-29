@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+503412,589945,4906,1360000,1360000,"2014-04-15",14,1360000,1360000,1400000,TRUE,"П’ятий воєнізований гірничорятувальний загін Державної воєнізованої гірничорятувальної служби у вугільній промисловості України"

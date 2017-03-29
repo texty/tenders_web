@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+460103,529338,239,1097640,1097000,"2013-11-07",17,1097000,1097000,1100000,TRUE,"ВП ""Південна електроенергетична система"" ДП ""НЕК ""Укренерго"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+452691,518279,94079,6484000,6471388.57,"2013-08-27",5,6471388.57,6471388.57,6480724.72,TRUE,"Прокуратура Волинської області"

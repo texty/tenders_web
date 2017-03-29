@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454533,524131,2924,1095000,1090000,"2013-10-07",9,1090000,1090000,1144500,TRUE,"Національний природний парк ""Синевир"" Міністерства охорони навколишнього природного  середовища України "

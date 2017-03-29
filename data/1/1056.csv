@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+384759,437438,37969,591760.12,585101.86,"2013-01-04",17,585101.86,31.39,31.95,TRUE,"Теплодарська загальноосвітня школа І-ІІІ ступенів Одеської області"

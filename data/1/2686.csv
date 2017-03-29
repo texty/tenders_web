@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+459518,526010,127915,1500000,1468142.51,"2013-10-17",14,1468142.51,1468142.51,1541717.36,TRUE,"Біловодська селищна рада Луганської області"

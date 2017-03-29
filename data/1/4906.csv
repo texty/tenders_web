@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+567049,666280,7976,4568630,3722430.88,"2015-03-04",6,3722430.88,3722430.88,3729612.74,TRUE,"КЗ ""Стародобровільський психоневрологічний інтернат"" Дніпропетровської облради"

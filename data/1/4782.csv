@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+563955,663223,79540,1500000,1386755.24,"2015-02-26",26,1386755.24,60.62,62.77,TRUE,"КП ""Міський торговельний комплекс ""Калинівський ринок"" м.Чернівці"

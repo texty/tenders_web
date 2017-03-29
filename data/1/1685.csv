@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+409630,488551,2204,29010000,29509080,"2013-04-05",24,29509080,29509080,36326220,TRUE,"ПАТ ""Хмельницькобленерго"""

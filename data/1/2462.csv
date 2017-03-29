@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+436485,515837,340,8600000,8240000,"2013-08-13",7,8240000,8240000,8652000,TRUE,"ДП ""Макіїввугілля"" "

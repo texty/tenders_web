@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+400187,485083,6305,1200000,1198020,"2013-03-23",22,1198020,1198020,1440000,TRUE,"ННЦ ""Інститут метрології"""

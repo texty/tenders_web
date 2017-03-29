@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+436305,500184,125895,1870000,1820000,"2013-05-14",24,1820000,501820000,10001863000,TRUE,"Комунальне підприємство по будівництву, ремонту та експлуатації доріг Хмельницького міськвиконкому"

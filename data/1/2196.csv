@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+443450,512817,133,850000,749450,"2013-07-22",7,749450,749450,786850,TRUE,"ДЗ ""Дорожня клінічна лікарня станції Донецьк"" ДП ""Донецька залізниця"""

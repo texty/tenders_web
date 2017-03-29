@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+469940,544869,8164,12023165,11476657.5,"2014-01-10",3,11476657.5,11476657.5,12023165,TRUE,"Відділ освіти Сімферопольської районної державної адміністрації в АР Крим"

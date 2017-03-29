@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+492841,555426,878,570000,511100,"2014-01-29",1,511100,511105.38,513955.41,TRUE,"Управління освіти Подільської районної в місті Києві державної адміністрації"

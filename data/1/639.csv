@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+329518,374767,676,985930,1010570.1,"2012-06-15",6,1010570.1,1011717.85,1062360.87,TRUE,"КП ""КРИВБАСВОДОКАНАЛ"" м.Кривий Ріг Дніпропетровської області"

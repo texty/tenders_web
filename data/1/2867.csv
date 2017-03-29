@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+455835,523748,29171,2503782,2435218.8,"2013-10-04",13,2435218.8,2435218.8,2500284,TRUE,"Новомиргородська міськрада Кіровоградської області"

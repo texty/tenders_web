@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+504817,587169,94,2500000,2498500,"2014-04-07",7,2498500,2498500,2704168.8,TRUE,"Управління житлово-комунального господарства Харцизької міськради Донецької області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+369467,412404,34795,2502400,2297836.93,"2012-10-12",7,2297836.93,2297836.93,2335062.96,TRUE,"КП ""Донецький регіональний центр поводження з відходами"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+450695,518920,1684,1970000,1970000,"2013-08-30",1,1970000,1970000,2050000,TRUE,"Інститут фізики напівпровідників ім.В.Є. Лашкарьова НАН України"

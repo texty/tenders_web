@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+541746,631437,168822,650000,649980,"2014-12-18",10,649980,649980,651000,TRUE,"Управління житлово-комунального господарства виконавчого комітету Бердянської міської ради"

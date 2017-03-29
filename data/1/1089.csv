@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+389876,447108,10239,615306.5,614116.15,"2013-01-18",6,614116.15,614116.15,639195,TRUE,"Відділ освіти Верхньодніпровської районної державної адміністрації"

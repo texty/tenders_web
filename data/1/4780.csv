@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+565773,659194,41458,779050,773565,"2015-02-23",15,773565,773565,777165.75,TRUE,"Середня загальноосвітня школа №54 Львівської міськради"

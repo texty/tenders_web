@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+445971,511385,114785,1200000,1149840,"2013-07-10",12,1149840,1149840,1188000,TRUE,"ПАТ НАК ""Нафтогаз України"" в особі філії Метрологічний центр НАК ""Нафтогаз України"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+564094,659781,70226,681600,612720,"2015-02-23",6,612720,612720,654120,TRUE,"КЗО ""Дніпропетровський обласний медичний ліцей-інтернат ""Дніпро"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+371252,418904,51596,19087058,18348215.4,"2012-11-14",15,18348215.4,18348215.4,18520805,TRUE,"Головне управління житлово-комунального господарства Львівської облдержадміністрації"

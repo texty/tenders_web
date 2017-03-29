@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+222660,247932,264,NA,2925727.79,"2011-11-16",4,2925727.79,2925727.79,3500000,TRUE,"Департамент капітального будівництва Вінницької міськради"

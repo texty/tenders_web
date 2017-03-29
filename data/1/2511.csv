@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+440599,505124,55298,7e+05,680400,"2013-06-07",25,680400,680400,699300,TRUE,"Департамент економіки та розвитку Черкаської міськради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+372973,417244,8249,1930000,1533704.58,"2012-11-07",3,1533704.58,1533704.58,1578253.26,TRUE,"Головне Управління санаторно-курортних закладів в АР Крим Державного Управління справами"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+324975,366438,2194,590000,585834,"2012-05-29",21,585834,585834,610006,TRUE,"Управління житлово-комунального господарства, благоустрою та екології Тернопільської міськради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+537357,621948,1402,1250000,1231763.2,"2014-11-07",16,1231763.2,1231763.2,2295462,TRUE,"Управління капітального будівництва  Миколаївської облдержадміністрації"

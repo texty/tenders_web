@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+437695,506924,93515,1378000,577000,"2013-06-18",10,577000,1402000,1410000,TRUE,"Управління з питань охорони здоров'я Запорізької міської ради"

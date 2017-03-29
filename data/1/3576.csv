@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+490835,569713,20688,750000,749839.8,"2014-02-24",12,749839.8,749839.8,794167.8,TRUE,"Відділ освіти Поліської райдержадміністрації Київської області"

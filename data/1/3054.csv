@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+468174,537656,938,1e+06,999914.85,"2013-12-20",3,999914.85,999914.85,1041977.5,TRUE,"Міністерство освіти і науки, молоді та спорту АР Крим"

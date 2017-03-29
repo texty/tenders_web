@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+374441,418143,1611,12527979,12525047.53,"2012-11-09",1,12525047.53,12525047.53,12550882.8,TRUE,"Управління житлово-комунального господарства Брянківської міськради Луганської області"

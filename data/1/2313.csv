@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+438582,503510,113365,1090000,627247,"2013-06-04",15,627247,627247,679833,TRUE,"Стрийський міський комбінат комунальних підприємств Львівської області"

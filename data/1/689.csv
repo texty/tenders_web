@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+365635,408849,946,6820000,6728000,"2012-10-02",14,6728000,6728000,6832000,TRUE,"ДП ""Лутугинський науково-виробничий валковий комбінат"""

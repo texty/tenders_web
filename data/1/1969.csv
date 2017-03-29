@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+439804,505410,106843,4500000,4471488,"2013-06-01",1,4471488,4471488,5816817.6,TRUE,"Державне агентство з інвестицій та управління національними проектами України"

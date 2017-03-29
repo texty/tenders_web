@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+528760,617980,237499,327360000,355469170.55,"2014-10-10",7,355469170.55,355469170.55,391312189,TRUE,"ТОВ ""ДТЕК Східенерго"""

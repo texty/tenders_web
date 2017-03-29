@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+531951,611324,257,2e+06,2e+06,"2014-08-26",26,2e+06,2035.93031,2036.8123,TRUE,"Служба автомобільних доріг у Чернівецькій області"

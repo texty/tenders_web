@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+540277,623341,6119,2712359.6,2647940.4,"2014-11-17",17,2647940.4,2647940.4,2745552,TRUE,"Шевченківська сільська рада Кілійського району Одеської області"

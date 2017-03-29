@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+368953,415431,1756,10195000,25208238,"2012-10-30",7,25208238,25208238,28878741.6,TRUE,"ДП ""Шахтоуправління ""Південнодонбаське №1"""

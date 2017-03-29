@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+443875,506160,2274,982100,979643,"2013-06-14",13,979643,979643,995563,TRUE,"Служба автомобільних доріг у Кіровоградській області Держагентства автомобільних доріг України"

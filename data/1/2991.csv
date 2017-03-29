@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+463931,534112,630,15972200.38,11890000,"2013-12-06",15,11890000,11890000,12462344,TRUE,"Департамент житлового господарства та інфраструктури Львівської міськради"

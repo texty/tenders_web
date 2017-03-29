@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+444072,509165,1399,237376,236714.88,"2013-06-27",1,236714.88,236714.88,248010.24,TRUE,"Центральна виборча комісія"
+467314,537148,2485,1009700,999782,"2013-12-28",1,999782,999782,1045200,TRUE,"Пенсійний фонд України"

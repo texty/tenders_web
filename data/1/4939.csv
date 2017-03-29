@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+573362,669671,743,1172460,1449200,"2015-03-11",18,1449200,1449220,1455600,TRUE,"КП ""Декоративні культури"" Полтавської міськради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+536055,616103,58901,550000,549600,"2014-09-26",25,549600,549600,6e+05,TRUE,"Уманське комунальне підприємство ""Уманьтеплокомуненерго"" Черкаської області"

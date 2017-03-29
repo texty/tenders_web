@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+399525,464167,7469,550000,545781.15,"2013-02-15",1,545781.15,545781.15,613861.96,TRUE,"Державне підприємство ""Автобаза Верховного Суду України"""

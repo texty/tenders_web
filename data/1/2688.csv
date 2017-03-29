@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+455956,525926,36286,1.6e+07,14464058,"2013-10-17",7,14464058,14464058,15925875.01,TRUE,"ПАТ ""ДТЕК ПЕМ - Енерговугілля"""

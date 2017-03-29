@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+401071,477046,346,1100000,798595,"2013-03-11",4,798595,798595,820000,TRUE,"Виконавчий комітет Козятинської міської ради"

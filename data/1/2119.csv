@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+443319,506787,1200,1e+06,970484.4,"2013-06-17",15,970484.4,970484.4,996636,TRUE,"Управління архітектури департаменту містобудування Львівської міськради"

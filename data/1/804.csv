@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+370434,414885,192474,1194093.54,1192159.2,"2012-10-26",15,1192159.2,1192159.2,1246371,TRUE,"Воютицька сільрада Самбірського району Львівської області"

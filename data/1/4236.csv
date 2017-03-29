@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+535255,619691,87,710000,683949.92,"2014-10-23",18,683949.92,683949.92,707749.32,TRUE,"ПАТ ""Укртранснафта"" в особі філії ""Придніпровські магістральні нафтопроводи"""

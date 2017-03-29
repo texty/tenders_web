@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+382310,430326,230,5724546,4667943.9,"2012-12-21",3,4667943.9,4667943.9,4847390.32,TRUE,"Служба автомобільних доріг в АР Крим держагентства автомобільних доріг України"

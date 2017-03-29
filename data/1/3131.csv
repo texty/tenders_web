@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+468071,539039,12818,4400000,3987765.04,"2013-12-23",7,3987765.04,3987765.04,4048462.24,TRUE,"Комунальна лікувально-профілактична установа ""Обласний центр екстреної медичної допомоги та медицини катастроф"""

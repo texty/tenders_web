@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+461939,530954,2465,6368994.47,6362857.36,"2013-11-19",3,6362857.36,6362857.36,7139352.43,TRUE,"Республіканський комітет по земельних ресурсах АР Крим"

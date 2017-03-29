@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+516732,604852,262689,6038200,5964000,"2014-07-09",14,5964000,5964000,6020000,TRUE,"Управління праці і соціального захисту населення Брянківської міської ради"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+550782,646819,9333,1441400,1420700,"2015-01-29",16,1420700,1420700,1470700,TRUE,"Відділ освіти, молоді та спорту Очаківської районної державної адміністрації"

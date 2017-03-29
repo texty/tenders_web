@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+462054,525014,2861,847600,953550,"2013-10-14",27,953550,953550,995930,TRUE,"Управління освіти Чернігівської міськради"

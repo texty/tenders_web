@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+530396,609002,217525,4e+05,567816.4,"2014-08-06",8,567816.4,567816,682038,TRUE,"КУ ""Центр екстреної медичної допомоги та медицини катастроф"" Житомирської облради "

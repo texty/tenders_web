@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+543334,634162,296,2973520.45,2573520,"2014-12-29",7,2573520,2573520,2952000,TRUE,"ПАТ ""Донбасенерго"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+503849,605614,910,13908909,11393019.24,"2014-07-15",25,11393019.24,11393019.24,14241281.25,TRUE,"Публічне акціонерне товариство ""Черкасиобленерго"""

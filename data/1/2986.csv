@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+463076,533127,120701,1024800,1023750,"2013-11-29",17,1023750,1023945,1102710,TRUE,"Одеське обласне відділення Фонду соцстрахування з тимчасової втрати працездатності"

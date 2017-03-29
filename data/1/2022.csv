@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+437884,498490,1011,6020000,6012274,"2013-05-14",7,6012274,6012274,7303324,TRUE,"Комунальна лікувально-профілактична установа ""Донецьке обласне клінічне територіальне медичне об’єднання"""

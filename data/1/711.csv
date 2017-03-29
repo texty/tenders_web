@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+380137,424258,1230,2740000,2734600.8,"2012-12-07",4,2734600.8,2734600.8,2739524,TRUE,"Управління капітального будівництва Вінницької облдержадміністрації"

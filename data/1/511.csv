@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+331196,370104,2890,1900000,1863240,"2012-06-06",12,1863240,1863240,2049773,TRUE,"Державне авіаційне підприємство ""Україна"" Державного управління справами"

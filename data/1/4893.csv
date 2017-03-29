@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+559432,657900,2853,1700879.52,2546316,"2015-02-19",1,2546316,2546378,2611741,TRUE,"Комунальна організація ""Київмедспецтранс"""

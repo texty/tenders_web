@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+568200,654595,10122,480000,820500,"2015-02-16",20,820500,820500,843450,TRUE,"Відділ освіти Конотопської міськради Сумської області"

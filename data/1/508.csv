@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+325358,367756,88670,540000,519580,"2012-06-01",11,519580,519580,541500,TRUE,"Івано-Франківський технікум ресторанного сервісу і туризму Національного університету харчових технологій"

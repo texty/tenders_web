@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+458271,526328,2383,650000,578537,"2013-10-22",22,578537,578537,696859,TRUE,"КП ""Міська молочна фабрика-кухня дитячого харчування"" м.Харкова"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+443049,514537,416,495177.33,582813.5,"2013-08-02",6,582813.5,601765,609260,TRUE,"ДП ""Придніпровська залізниця"""

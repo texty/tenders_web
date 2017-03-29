@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+530216,611313,83798,1200000,1191000,"2014-08-26",26,1191000,1191000,1199960,TRUE,"КМУ ""Обласна дитяча клінічна лікарня"" м.Чернівці"

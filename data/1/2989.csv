@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+463357,535848,361,960000,959820,"2013-12-11",7,959820,959820,1120450,TRUE,"СО СТАРОБЕШІВСЬКА ТЕС ПАТ ""ДОНБАСЕНЕРГО"""

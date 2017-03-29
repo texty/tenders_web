@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+539242,617706,3727,609023.88,608989.09,"2014-10-07",12,608989.09,608989.09,659347.76,TRUE,"Військова частина 1471"

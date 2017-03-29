@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+321027,368037,85951,550252.86,547676.7,"2012-06-01",20,547676.7,547676.7,558848.4,TRUE,"Глухівське комунальне виробниче управління водогінно-каналізаційного господарства Сумської області"

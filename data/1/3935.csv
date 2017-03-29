@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+524892,604561,2304,680000,680000,"2014-07-08",1,680000,680000,847214,TRUE,"Інститут геофізики ім.С.І. Субботіна НАН України"

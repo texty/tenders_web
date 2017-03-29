@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+466368,537128,77470,2300000,2732949.99,"2013-12-17",7,2732949.99,2732949.99,2736226,TRUE,"Управління Державної служби охорони при ГУ МВС України в Донецькій області"

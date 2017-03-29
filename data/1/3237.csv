@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+459699,531406,1641,820000,817534.56,"2013-11-19",1,817534.56,817534.56,1120455,TRUE,"КП ""Дирекція будівництва шляхово-транспортних споруд м.Києва"""

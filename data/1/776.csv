@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+378024,423685,10,1595652,1394368.8,"2012-12-05",10,1394368.8,1394368.8,1481892,TRUE,"ДП ""Маріупольський морський торговельний порт"""

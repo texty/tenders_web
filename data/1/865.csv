@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+379178,420721,64450,1376000,1289604,"2012-11-22",20,1289604,1289604,1349220,TRUE,"Шосткинський інститут Сумського державного Університету"

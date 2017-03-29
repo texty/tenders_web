@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+380577,424959,38657,6500000,4900000,"2012-12-10",17,4900000,4900000,4980000,TRUE,"ПАТ ""ЕК Одесаобленерго"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+444442,512195,1430,6400000,6369272,"2013-07-16",1,6369272,6369272,6427524,TRUE,"Підприємство ""Західний реабілітаційно-спортивний центр"" Національного комітету спорту інвалідів України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+227242,250106,1876,NA,1890500,"2011-11-24",1,1890500,1890500,2447700,TRUE,"Державне підприємство ""Управління промислових підприємств Державної адміністрації залізничного транспорту України"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+381814,424912,2900,1650000,1642751.35,"2012-12-06",3,1642751.35,1642751.35,1669735.52,TRUE,"Кримський природний заповідник"

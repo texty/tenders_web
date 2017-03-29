@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+548640,642035,10116,3080000,3530800,"2015-01-20",27,3530800,295,299.1,TRUE,"ДП ""Городнянське лісове господарство"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+397385,446501,1063,1032615,992285,"2013-01-21",9,992285,992285,1085404,TRUE,"ЗАКАРПАТСЬКИЙ ОБЛАСНИЙ КЛІНІЧНИЙ КАРДІОЛОГІЧНИЙ ДИСПАНСЕР"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+463173,533916,6352,3023985,3676291.2,"2013-12-06",15,3676291.2,3676291.2,3703758,TRUE,"ПУСТОМИТІВСЬКА МІСЬКРАДА ЛЬВІВСЬКОЇ ОБЛАСТІ"

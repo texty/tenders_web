@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+531491,613041,78,1370880,1359590.4,"2014-09-05",1,1359590.4,1359590.4,1369267.2,TRUE,"КП ""КИЇВПАСТРАНС"""

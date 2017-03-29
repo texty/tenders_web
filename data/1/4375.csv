@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+542678,623003,1519,846000,848351.64,"2014-11-14",15,848351.64,848351.64,882769.26,TRUE,"ПУСТОМИТІВСЬКА ЦЕНТРАЛЬНА РАЙОННА ЛІКАРНЯ ЛЬВІВСЬКОЇ ОБЛАСТІ"

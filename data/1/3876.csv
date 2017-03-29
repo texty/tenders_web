@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+521456,602365,1261,3707589.6,5617560,"2014-06-24",7,5617560,5617560,5673735.6,TRUE,"ПАТ ""Укртрансгаз"" Філія ""УМГ ""Донбастрансгаз"""

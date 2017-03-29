@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+222808,249018,610,NA,512940.42,"2011-11-22",20,512940.42,512940.42,764371.21,TRUE,"Управління капітального будівництва та дорожнього господарства Сумської міськради"

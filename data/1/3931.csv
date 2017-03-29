@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+530429,611410,882,2e+06,1999385.51,"2014-08-27",1,1999385.51,1999436,1999727,TRUE,"КП ""Керуюча дирекція Шевченківського району"" м.Києва"

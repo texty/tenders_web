@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+556575,644587,2431,1500000,1360000,"2015-01-26",22,1360000,1360000,1400000,TRUE,"Харківське державне вище училище фізичної культури №1"

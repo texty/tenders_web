@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+552378,658716,57175,1800000,1800000,"2015-02-23",12,1800000,1800000,2100000,TRUE,"Комунальне підприємство по утриманню зелених насаджень Деснянського району м.Києва"

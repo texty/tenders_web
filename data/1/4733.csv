@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+549303,645228,2973,874650,874650,"2015-01-27",22,874650,874650,945000,TRUE,"Відділ освіти Харківської райдержадміністрації"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+460134,529367,216883,554500,533400,"2013-11-08",14,533400,533400,557870,TRUE,"КП ""Житлосервіс ""Добробут"""

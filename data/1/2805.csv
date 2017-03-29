@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+457753,525522,2455,930000,927900,"2013-10-15",22,927900,936599,959099,TRUE,"Пісочинська селищна рада Харківської області"

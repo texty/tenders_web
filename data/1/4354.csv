@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+538923,631850,1261,1077103,1473723,"2014-12-18",7,1473723,1473723,1576227,TRUE,"ПАТ ""Укртрансгаз"" Філія ""УМГ ""Донбастрансгаз"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+451580,516207,1036,4356439,4239730.8,"2013-08-14",1,4239730.8,4239730.8,4318008,TRUE,"КП ""Позняки-Інвест-УКБ Дарницького району міста Києва"""

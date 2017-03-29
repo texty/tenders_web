@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+403919,475763,2415,1088000,1073080,"2013-03-06",7,1073080,1073080,1238400,TRUE,"КП ""Донецькфлора"""

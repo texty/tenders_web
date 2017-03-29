@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+423936,480734,10181,562320,562036,"2013-03-15",5,562036,39.58,42.3,TRUE,"Управління освіти Ковельського міськвиконкому Волинської області"

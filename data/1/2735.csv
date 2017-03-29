@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454961,521819,5756,3500000,3454495,"2013-09-20",4,3454495,3454495,3508788,TRUE,"Господарський суд Вінницької області"

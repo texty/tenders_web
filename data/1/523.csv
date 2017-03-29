@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+334281,376173,61026,650000,598000,"2012-06-19",17,598000,598000,629000,TRUE,"Підприємство засноване на власності об'єднання громадян ""Науково-практичний медичний центр ""ІБІС"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+257966,310449,1182,NA,3816732.22,"2012-03-02",6,3816732.22,3816732.22,4114552.75,TRUE,"КП ""Дніпроводоканал"" м.Дніпропетровська"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+376551,425868,640,8.5e+07,90877820,"2012-12-10",1,90877820,90877820,91374714,TRUE,"ДП ""Чайка"""

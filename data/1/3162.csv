@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+461470,529029,64699,8e+05,784980,"2013-11-04",17,784980,784980,821261,TRUE,"КУ ""Одеська обласна універсальна наукова бібліотека імені М.С. Грушевського"""

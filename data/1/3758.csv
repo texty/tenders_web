@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+520162,597295,5126,650000,650000,"2014-05-21",19,650000,131692.03,132139.51,TRUE,"ДЗ ""Спеціалізована медико-санітарна частина №3 МОЗ України"""

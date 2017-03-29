@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+385594,443916,1259,2937196,2937016,"2013-01-16",11,2937016,2937016,2999206.8,TRUE,"ПАТ ""Укртрансгаз""  Філія ""УМГ ""Прикарпаттрансгаз"" "

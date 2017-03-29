@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+515017,599106,76136,1362265,1308000,"2014-06-04",6,1308000,1308000,2371880.7,TRUE,"Управління житлово-комунального господарства та комунальної власності Синельниківської міської ради Дніпропетровської області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+424160,491975,784,2743104.78,2461760.7,"2013-04-17",1,2461760.7,2461830,2954196,TRUE,"Міністерство охорони здоров'я України"

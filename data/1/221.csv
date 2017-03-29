@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+222099,250503,70235,NA,2674400,"2011-11-28",15,2674400,2674400,3481500,TRUE,"ПАТ по газопостачанню та газифікації ""Львівгаз"""

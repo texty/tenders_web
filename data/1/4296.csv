@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+536032,619128,15869,920700,1015200,"2014-10-21",13,1015200,1015200,1019620,TRUE,"ДП ""Дирекція Криворізького гірничо-збагачувального комбінату окислених руд"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+547427,634145,1824,1700000,1543680,"2014-12-29",22,1543680,1543680,1643904,TRUE,"КП ""Харківський метрополітен"""

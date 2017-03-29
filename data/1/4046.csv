@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+531589,611871,1178,185716368,181043320,"2014-08-29",11,181043320,181043320,183461400,TRUE,"Служба автомобільних доріг в Івано-Франківській області Держагентства автомобільних доріг України"

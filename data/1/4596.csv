@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+546457,633627,273115,4020000,3347000,"2014-12-26",17,3347000,3347000,4959000,TRUE,"Южненська філія державного підприємства ""Адміністрація морських портів України"" (Адміністрація морського порту ""Южний"")"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+461331,531057,459,750000,739800,"2013-11-19",1,739800,739800,749700,TRUE,"Служба зовнішньої розвідки України"

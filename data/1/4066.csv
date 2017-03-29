@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+530141,612159,226198,855696.8,708286.85,"2014-09-01",22,708286.85,708286.85,758523,TRUE,"ДУ ""Харківський обласний лабораторний центр Держсанепідслужби України"""

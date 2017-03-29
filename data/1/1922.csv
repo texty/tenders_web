@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+433649,496167,73442,1573000,1572999.48,"2013-04-30",15,1572999.48,1572999.48,1631500,TRUE,"ПАТ ""Львівобленерго"""
+499467,585400,73442,1424170,1476600,"2014-04-01",15,1476600,1476600,1508700,TRUE,"ПАТ ""Львівобленерго"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+549467,641679,325,3200000,3150000,"2015-01-17",22,3150000,3150000,3829998,TRUE,"ПАТ ""Укргазвидобування"" в особі філії геофізичне управління ""Укргазпромгеофізика"" "

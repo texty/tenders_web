@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+389246,466474,232,75239917,54847743.6,"2013-02-20",15,54847743.6,54847803,55898985,TRUE,"ДП ""Львіввугілля"""

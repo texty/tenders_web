@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+449391,516083,715,9061800,8976195.15,"2013-08-14",17,8976195.15,9089262.05,9133511.87,TRUE,"КУ ""Одеська обласна клінічна лікарня"""

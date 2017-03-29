@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+450186,516232,654,1507561,1506277,"2013-08-15",22,1506277,1506227,1535214,TRUE,"Департамент житлово-комунального господарства та розвитку інфраструктури Харківської облдержадміністрації"

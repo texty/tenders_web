@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226826,259183,4,NA,864150,"2011-12-22",15,864150,864150,887190,TRUE,"ДТГО ""Львівська залізниця"""

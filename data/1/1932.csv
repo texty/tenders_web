@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+431907,491699,622,3e+07,29847601.2,"2013-04-15",1,29847601.2,29847601.2,29930119.2,TRUE,"Київський національний університет імені Тараса Шевченка"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+512795,593547,84708,1700000,2029460,"2014-05-05",6,2029460,2029460,2055850,TRUE,"Комунальне підприємство Дніпродзержинської міськради ""Зеленбуд"" Дніпропетровської області"

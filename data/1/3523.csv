@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+495894,570912,5456,811697,791337.4,"2014-02-28",15,791337.4,791337.4,792457.2,TRUE,"Відділ освіти Самбірської районної державної адміністрації"

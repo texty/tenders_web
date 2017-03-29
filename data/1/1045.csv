@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+391983,472806,3999,2328772,2326203.6,"2013-02-28",24,2326203.6,2326263,2391080,TRUE,"Відділ освіти, молоді та спорту Летичівської райдержадміністрації Хмельницької області"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+545838,633743,7239,928000,928000,"2014-12-26",22,928000,928000,932000,TRUE,"Харківський центр професійно-технічної освіти державної служби зайнятості"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+522626,601245,2693,1500000,1495200,"2014-06-17",16,1495200,1495200,1499400,TRUE,"Миколаївський міськвиконком"

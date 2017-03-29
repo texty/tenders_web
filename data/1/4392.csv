@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+541029,625507,3100,677005,705772.5,"2014-11-27",20,705772.5,705772.5,715927.5,TRUE,"Відділ освіти Ямпільської райдержадміністрації Сумської області"

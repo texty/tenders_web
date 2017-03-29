@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+462954,532118,1239,16716904,16680754,"2013-11-26",9,16680754,16680754,16716785,TRUE,"Хустський міськвиконком"

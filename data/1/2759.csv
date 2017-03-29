@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+455712,520975,2210,777487,755268.43,"2013-09-16",17,755268.43,755268.43,801295.63,TRUE,"Виконавчий комітет Одеської міської ради"

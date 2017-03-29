@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+457394,526984,2602,3771968,3231067.54,"2013-10-24",17,3231067.54,3231067.54,3308744,TRUE,"Відділ освіти, молоді та спорту Ширяївської райдержадміністрації Одеської області"

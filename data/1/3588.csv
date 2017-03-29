@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+500353,568593,1295,1090000,1012000,"2014-02-24",1,1012000,1012000,1032000,TRUE,"Управління освіти Голосіївської районної в місті Києві державної адміністрації"

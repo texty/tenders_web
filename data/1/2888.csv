@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+450670,517131,109536,620000,572400,"2013-08-21",12,572400,572400,6e+05,TRUE,"Комунальне унітарне підприємство Великоолександрівської сільради ""Олександрівкажитлобудсервіс"" Київської області"

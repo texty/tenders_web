@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+442005,501292,65762,3010600,3004128,"2013-05-22",1,3004128,3004128,3154334.4,TRUE,"Вищий спеціалізований суд України з розгляду цивільних і кримінальних справ"

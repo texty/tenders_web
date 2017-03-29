@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+530402,613103,774,8e+05,639325,"2014-09-08",25,639325,639325,642000,TRUE,"Комунальний заклад ""Черкаська обласна лікарня Черкаської обласної ради"""

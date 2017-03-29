@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+535800,617204,133779,589970,650000,"2014-10-07",21,650000,650000,652000,TRUE,"Чортківський гуманітарно-педагогічний коледж імені Олександра Барвінського"

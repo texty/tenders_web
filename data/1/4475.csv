@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+545934,643787,334,1380000,1359000,"2015-01-23",18,1359000,1359000,1360999.8,TRUE,"Філія Управління з переробки газу та газового конденсату  ПАТ ""Укргазвидобування"""

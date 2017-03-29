@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454649,521022,176482,2298504.68,2289660,"2013-09-13",3,2289660,2671270,2876507.2,TRUE,"Республіканський комітет АР Крим з інформації"

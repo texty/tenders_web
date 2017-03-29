@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454629,525769,63218,580700,568932,"2013-10-16",1,568932,568932,580117.2,TRUE,"Державне підприємство ""Парламентський телеканал ""Рада"""

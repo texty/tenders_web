@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+512760,588097,261587,654600,598973.86,"2014-04-10",11,598973.86,598973.86,637799.5,TRUE,"Івано-Франківська загальноосвітня школа I-III ступенів № 28 Івано-Франківської міської ради Івано-Франківської області"

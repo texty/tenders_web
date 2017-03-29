@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+460824,529621,124,12548738.4,12521331.6,"2013-11-08",12,12521331.6,12521331.6,12541284,TRUE,"ДСП ""Чорнобильська АЕС"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+436808,490530,13219,594500,594370,"2013-04-11",3,594370,594370,604680.5,TRUE,"ДЗ ""Дитячий спеціалізований (спеціальний) клінічний санаторій ""Ювілейний"" МОЗ України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+218814,251876,73,NA,1281107.99,"2011-12-01",1,1281107.99,1281107.99,1353669.71,TRUE,"КП ""КИЇВСЬКИЙ МЕТРОПОЛІТЕН"""

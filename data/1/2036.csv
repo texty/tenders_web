@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+425640,487420,3131,1404272,1388400,"2013-04-01",6,1388400,1388400,1401750,TRUE,"Відділ освіти Апостолівської районної державної адміністрації"

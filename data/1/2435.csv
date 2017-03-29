@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+448177,514041,4745,3125729,2944021.2,"2013-07-30",8,2944021.2,2944021.2,3385520,TRUE,"Комунальне підприємство ""Житомирський академічний український музично-драматичний театр ім.І.А. Кочерги"" Житомирської облради"

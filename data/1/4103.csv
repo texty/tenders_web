@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+533722,612728,620,502064.05,502037.58,"2014-09-04",1,502037.58,502037.58,517084.99,TRUE,"ДУ ""Науково-практичний медичний центр дитячої кардіології та кардіохірургії МОЗ України"""

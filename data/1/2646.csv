@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+454448,523219,225794,1236300,1197658.75,"2013-10-01",7,1197658.75,1197658.75,1222620,TRUE,"Орлівська сільрада Ясинуватського району Донецької області "

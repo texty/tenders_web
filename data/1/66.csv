@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+226133,242931,12664,NA,639930,"2011-10-31",26,639930,639930,640000.8,TRUE,"Заставнівська центральна районна лікарня Чернівецької області"

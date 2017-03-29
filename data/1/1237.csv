@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+389081,423373,2354,2154991.19,1836422.71,"2012-12-04",15,1836422.71,1836422.71,2159978.35,TRUE,"Департамент охорони здоров’я Львівської облдержадміністрації"

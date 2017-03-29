@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+471632,556295,300,1840000,1837209.6,"2014-01-29",19,1837209.6,1837209,1849635,TRUE,"Управління житлово-комунального господарства Рівненського міськвиконкому"

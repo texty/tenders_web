@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+381817,426808,10598,750000,746000,"2012-12-12",1,746000,746000,750000,TRUE,"Комунальне некомерційне підприємство ""Центр первинної медико-санітарної допомоги № 1"" Деснянського району м.Києва"

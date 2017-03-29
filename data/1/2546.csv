@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+448215,515043,456,1110000,1057000,"2013-08-07",1,1057000,1057000,1079500,TRUE,"Комунальне підприємство по ремонту і утриманню мостів і шляхів м.Києва ""Київавтошляхміст"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+471501,570969,674,938000,880000,"2014-02-27",1,880000,880000,914900,TRUE,"КП ""Шляхово-експлуатаційне управління по ремонту та утриманню автомобільних шляхів та споруд на них Шевченківського району"" м.Києва"

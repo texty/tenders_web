@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+516995,600322,151175,2231132,2171400,"2014-06-12",22,2171400,2171400,2640000,TRUE,"КЗОЗ ""Харківський міський центр здоров’я"""

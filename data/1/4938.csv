@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+574506,670344,26809,698820,931300,"2015-03-13",14,931300,931300,1026000,TRUE,"Відділ освіти Сватівської районної державної адміністрації"

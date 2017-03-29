@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+382505,427201,3856,1.7e+07,14397875,"2012-12-13",9,14397875,14397875,15679972,TRUE,"ДП ""Об’єднана дирекція будівництва водогосподарських об’єктів Закарпатської області"""

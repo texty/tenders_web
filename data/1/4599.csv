@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+544091,631619,119053,668100,665312.14,"2014-12-17",22,665312.14,665312.14,667879.09,TRUE,"Краснопавлівська селищна рада Лозівського району Харківської області"

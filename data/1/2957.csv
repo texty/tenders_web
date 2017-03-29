@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+459478,529606,1791,772741.28,761948.78,"2013-11-08",1,761948.78,761948.78,765025.42,TRUE,"ДП ""Український інститут промислової власності"""

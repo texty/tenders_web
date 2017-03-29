@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+239007,251505,151,NA,39741876.46,"2011-12-01",10,39741876.46,39741876.46,40196374.67,TRUE,"ВАТ ""Запоріжжяобленерго"""

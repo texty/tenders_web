@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+538853,620960,23096,8559523.4,8435834.7,"2014-11-03",23,8435834.7,8435834.7,8531478.42,TRUE,"КЗ ""НВК ""Школа гуманітарної праці"" Херсонської облради"

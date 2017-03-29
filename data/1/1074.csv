@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+384391,457101,798,8547000,8445990,"2013-02-04",1,8445990,8445990,8550108,TRUE,"ДП ""Адміністрація морських портів України"""

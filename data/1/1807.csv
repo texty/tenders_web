@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+386388,493985,86747,7833000,7800000,"2013-04-17",1,7800000,7800000,7824000,TRUE,"ДП ""Інвест Україна"""

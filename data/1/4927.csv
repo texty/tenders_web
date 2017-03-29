@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+586690,670157,73760,1874261,1873386.74,"2015-03-11",25,1873386.74,1873386,1875668,TRUE,"Відділ освіти Виконавчого комітету Канівської міської ради"

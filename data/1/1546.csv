@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+415162,479346,9856,2496500,2495000,"2013-03-13",10,2495000,2495000,2773076,TRUE,"Відділ охорони здоров'я Бердянського міськвиконкому Запорізької області"

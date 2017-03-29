@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+556213,647976,3703,650000,646380,"2015-02-03",4,646380,646380,649000,TRUE,"Військово-медичний клінічний центр Центрального регіону МО України"

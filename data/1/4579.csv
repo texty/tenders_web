@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+546074,632741,5563,9325633.2,9316713.88,"2014-12-23",1,9316713.88,9316713.88,15414917.3,TRUE,"КП ""Солом’янка-Сервіс"" Солом’янської районної в місті Києві держадміністрації"

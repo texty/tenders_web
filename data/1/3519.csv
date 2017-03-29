@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+498127,582179,100432,8754463,8582339,"2014-03-24",3,8582339,8582339,8671503,TRUE,"Управління архітектури та будівельної політики Судацької міськради АР Крим"

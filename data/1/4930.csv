@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+579271,664629,3370,3001907,2810760,"2015-03-03",15,2810760,2810760,2999990,TRUE,"Львівська обласна клінічна лікарня"

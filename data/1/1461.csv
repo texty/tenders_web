@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+399593,462144,837,750000,727596,"2013-02-12",20,727596,848862,930000,TRUE,"УПРАВЛІННЯ ЖИТЛОВО-КОМУНАЛЬНОГО ГОСПОДАРСТВА ОХТИРСЬКОЇ МІСЬКРАДИ СУМСЬКОЇ ОБЛАСТІ"

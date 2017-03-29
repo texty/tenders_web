@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+467150,550178,3312,621315,636775,"2014-01-20",6,636775,636775,640580,TRUE,"Відділ освіти виконкому Саксаганської районної у місті ради (м.Кривий Ріг Дніпропетровської області)"

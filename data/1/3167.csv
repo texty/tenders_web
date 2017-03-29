@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+463160,532130,1250,1975173.6,1818483,"2013-11-26",9,1818483,1818483,2009843.44,TRUE,"Управління освіти, релігій та у справах національностей виконкому Хустської міськради Закарпатської області"

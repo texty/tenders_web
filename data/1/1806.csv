@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+428213,490471,1121,3119700,3117502.4,"2013-04-12",22,3117502.4,3117502,3200055,TRUE,"Департамент комунального господарства Харківської міськради"

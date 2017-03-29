@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+406085,467874,15799,776720,671600,"2013-02-22",23,671600,671600,744600,TRUE,"Комунальний заклад Херсонської облради ""Херсонський психоневрологічний будинок-інтернат"""

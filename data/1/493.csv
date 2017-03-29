@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+313649,360063,125934,NA,5424272.19,"2012-05-16",6,5424272.19,5424272.19,5472361.2,TRUE,"Управління житлово-комунального господарства Марганецької міськради Дніпропетровської області"

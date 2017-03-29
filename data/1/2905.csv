@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+453224,518916,240243,3968736,2903022,"2013-08-30",6,2903022,2903.022,3000,TRUE,"Об’єднання Співвласників Багатоквартирного Будинку ""Житловий комплекс Славний"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225413,248752,60671,NA,580000,"2011-11-21",1,580000,580000,6e+05,TRUE,"Державне агентство  з питань науки, інновацій та інформатизації України"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+451772,520253,2713,2e+06,1810358.76,"2013-09-05",2,1810358.76,1810358.76,1863630.36,TRUE,"Управління з питань земельних, водних відносин та містобудування Севастопольської міськради"

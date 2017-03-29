@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+546779,637443,791,2421687.6,2281087.2,"2015-01-06",1,2281087.2,2281087.2,2623257.18,TRUE,"ПАТ ""АК ""Київводоканал"""

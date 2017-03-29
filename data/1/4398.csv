@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+533890,619027,426,7093000,7089605.69,"2014-10-21",20,7089605.69,7089605.69,7466694.29,TRUE,"Служба автомобільних доріг у Сумській області"

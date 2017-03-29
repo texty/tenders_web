@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+434831,498135,1174,550000,503000,"2013-05-13",8,503000,503000,511000,TRUE,"Обласна клінічна лікарня ім.О.Ф. Гербачевського Житомирської облради"

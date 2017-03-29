@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+501546,587956,2674,537220,526881.6,"2014-04-09",5,526881.6,526881,545448,TRUE,"Відділ освіти Ковельської районної державної адміністрації"

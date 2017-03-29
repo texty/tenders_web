@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+232513,246789,1122,NA,809248.8,"2011-11-14",1,809248.8,809248.8,818411,TRUE,"Олександрівська клінічна лікарня м. Києва"

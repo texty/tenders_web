@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+431937,495078,176,1300000,1265580,"2013-04-26",22,1265580,1265580,1337581,TRUE,"Служба автомобільних доріг у Харківській області Держагентства автомобільних доріг України"

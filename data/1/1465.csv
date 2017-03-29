@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+396583,471326,3300,6e+05,596000,"2013-02-28",17,596000,596000,1661000,TRUE,"КП ""Теплопостачання міста Одеси"""

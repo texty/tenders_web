@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+413066,477906,10024,590000,506620.17,"2013-03-12",9,506620.17,506620.17,515928,TRUE,"Закарпатська облдержадміністрація"

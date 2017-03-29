@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+381357,431301,38264,13500000,13499945.06,"2012-12-25",2,13499945.06,13499945.06,14100000,TRUE,"ПАТ ""ЕК ""Севастопольенерго"""

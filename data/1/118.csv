@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+222219,246919,12853,NA,776250,"2011-11-14",7,776250,776250,812000,TRUE,"Відділ освіти Тельманівської райдержадміністрації Донецької області"

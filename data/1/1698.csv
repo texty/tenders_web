@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+411503,480429,3607,1300000,1297932,"2013-03-15",1,1297932,1297932,1392208,TRUE,"Головне управління юстиції у місті Києві"

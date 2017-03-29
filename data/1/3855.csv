@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+509754,590985,181806,599850,596587.95,"2014-04-19",23,596587.95,4419.17,4902.11,TRUE,"КУ ""Скадовський районний центр фінансово-господарського обслуговування закладів та установ освіти"" Херсонської області"

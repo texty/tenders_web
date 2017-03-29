@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+534478,615084,236706,1180800,1180800,"2014-09-22",15,1180800,1180800,1211300,TRUE,"Самбірське управління водного господарства Львівського обласного управління водних ресурсів Держагентства водних ресурсів України"

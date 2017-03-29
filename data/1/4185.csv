@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+526177,609846,472,987480,709162.56,"2014-08-14",10,709162.56,709162.56,759600,TRUE,"ВП ""Атоменергомаш"" ДП ""НАЕК ""Енергоатом"" "

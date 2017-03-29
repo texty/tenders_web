@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+492273,561176,1253,1070489.63,953791.2,"2014-02-10",3,953791.2,953791.2,954687.48,TRUE,"Управління освіти Євпаторійської міськради АР Крим"

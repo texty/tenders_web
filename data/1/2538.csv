@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+442761,509278,6169,567000,559650,"2013-07-01",6,559650,559650,561030,TRUE,"Відділ освіти виконкому Центрально-Міської районної у місті ради (м.Кривий Ріг Дніпропетровської області)"

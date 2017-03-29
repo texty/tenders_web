@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+526781,609115,98828,1345000,1327800,"2014-08-07",1,1327800,1327800,1329420,TRUE,"Спеціальний  полк ""Титан"" УДСО при ГУМВС України в місті Києві"

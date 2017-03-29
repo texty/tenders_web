@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+446624,511169,1495,980000,978500,"2013-07-08",1,978500,978500,1573000,TRUE,"Державне космічне агентство України"

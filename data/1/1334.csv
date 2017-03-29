@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+398649,469934,3719,5e+05,548650,"2013-02-26",14,548650,548650,551000,TRUE,"Петрівська селищна рада Станично-Луганського району Луганської області"

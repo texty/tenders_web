@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+436575,495171,5267,849000,778783.2,"2013-04-25",1,778783.2,778803,789960,TRUE,"Дочірня компанія ""Газ України"" Національної акціонерної компанії ""Нафтогаз України"""

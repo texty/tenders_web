@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+514593,595612,68068,11404780,3427512,"2014-05-13",1,3427512,1858272,1946880,TRUE,"Служба автомобільного транспорту Департаменту господарського забезпечення Служби безпеки України"

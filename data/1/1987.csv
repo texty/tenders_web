@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+437426,502684,600,508550.4,508550.4,"2013-05-30",1,508550.4,508590,513259.2,TRUE,"ВП ""Центральна електроенергетична система ДП ""НЕК ""Укренерго"""

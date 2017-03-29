@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+548329,634480,19,3230000,2897500,"2014-12-30",10,2897500,2897500,2921300,TRUE,"ДП ""БЕРДЯНСЬКИЙ МОРСЬКИЙ ТОРГОВЕЛЬНИЙ ПОРТ"" "

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+397420,483792,6077,34668000,34300000,"2013-03-21",1,34300000,34300000,34600000,TRUE,"Державний науково-дослідний інститут з лабораторної діагностики та ветеринарно-санітарної експертизи"

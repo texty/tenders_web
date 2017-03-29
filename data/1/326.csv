@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225770,248375,106755,NA,690000,"2011-11-18",1,690000,690000,703804,TRUE,"Державна реєстраційна служба України"

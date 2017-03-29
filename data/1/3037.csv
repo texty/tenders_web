@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+466328,541216,62984,25305110,25305110,"2013-12-27",18,25305110,25305110,25510783,TRUE,"ПАТ ""Полтаваобленерго"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+547960,637353,164,1771000,1644780,"2015-01-06",17,1644780,5353230,5473622.99,TRUE,"КП ""Спеціалізований монтажно-експлуатаційний підрозділ"" м.Одеси"

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225814,249842,3097,NA,890115.63,"2011-11-24",12,890115.63,890115.63,956874.3,TRUE,"ПАТ ""Укртрансгаз"" Філія ""Управління сервісного обслуговування та ремонту імпортної автотракторної спецтехніки ""СІАТ"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+378023,420807,36099,3345404,3842068.94,"2012-11-23",15,3842068.94,3842068.94,4417797.82,TRUE,"Малехівська сільрада Жовківського району Львівської області"

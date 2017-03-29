@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+504515,593162,240847,1929436,689686.93,"2014-04-29",6,689686.93,689686.93,741308,TRUE,"Управління земельних ресурсів виконкому Криворізької міської ради"

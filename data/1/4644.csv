@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+542378,629946,251376,575697.5,570000,"2014-12-09",17,570000,570000,653000,TRUE,"Департамент екології та природних ресурсів Одеської обласної державної адміністрації"

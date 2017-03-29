@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+537826,624709,1275,6e+05,6e+05,"2014-11-24",15,6e+05,5928446.35,8978981.612,TRUE,"Філія ""Магістральні нафтопроводи ""ДРУЖБА"" ПАТ ""Укртранснафта"""

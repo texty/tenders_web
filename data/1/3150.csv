@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+468813,538602,245475,615000,615000,"2013-12-23",1,615000,615000,627300,TRUE,"КП ""ЛІК"" м.Києва"""

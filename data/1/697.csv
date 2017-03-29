@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+374394,420570,2657,5892945,5824500,"2012-11-21",17,5824500,5824500,5890000,TRUE,"Управління охорони об’єктів культурної спадщини Одеської облдержадміністрації"

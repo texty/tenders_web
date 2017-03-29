@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+529774,612274,273383,4387548.4,4307610,"2014-09-01",24,4307610,4307610,4509956.4,TRUE,"Новосільська сільська рада Ізяславського району Хмельницької області"

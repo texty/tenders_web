@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+529578,612654,145857,16804520.4,16448322,"2014-09-03",15,16448322,16448322,16758673,TRUE,"Дублянська селищна рада Самбірського району Львівської області"

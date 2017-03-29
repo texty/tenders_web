@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+541955,623482,11914,7e+05,693100,"2014-11-18",24,693100,693100,697447,TRUE,"Хмельницький міськвиконком"

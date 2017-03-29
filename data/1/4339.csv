@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+538673,624989,274928,12812685.6,14527670.4,"2014-11-24",1,14527670.4,14527670.4,14706321.6,TRUE,"Державне підприємство ""Об’єднана компанія ""Укрвуглереструктуризація"""

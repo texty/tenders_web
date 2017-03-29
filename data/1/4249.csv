@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+537546,625224,364,14848733,14799999.6,"2014-11-26",1,14799999.6,12333333,12583333,TRUE,"ДТГО ""Південно-Західна залізниця"""

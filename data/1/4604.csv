@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+543812,625027,228252,580000,624836,"2014-11-25",22,624836,624836,625236.48,TRUE,"Комунальний заклад охорони здоров’я ""Центр екстреної медичної допомоги та медицини катастроф"" м.Харків "

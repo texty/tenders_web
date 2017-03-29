@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+504949,588060,345,1179698,1155029.98,"2014-04-17",4,1155029.98,1155029.98,1186286.7,TRUE,"Департамент комунального господарства та благоустрою Вінницької міськради"

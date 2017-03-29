@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+340105,382595,91898,4250000,4250000,"2012-07-05",21,4250000,4297500,4575000,TRUE,"Тернопільське міське шляхове ремонтно-будівельне підприємство ""Міськшляхрембуд"""

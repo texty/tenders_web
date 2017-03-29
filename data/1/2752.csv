@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+453439,524534,8258,6900000,6811777.44,"2013-10-10",15,6811777.44,6811821,7319359.62,TRUE,"Львівський регіональний структурний підрозділ Державного підприємства обслуговування повітряного руху України"

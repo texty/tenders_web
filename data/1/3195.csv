@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+464796,532899,1288,6710302.4,6682314,"2013-11-29",9,6682314,6682314,6768262.8,TRUE,"Головне управління ДФС у Закарпатській області"

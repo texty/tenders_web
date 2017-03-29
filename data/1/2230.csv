@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+448727,513644,41,6e+06,5845496,"2013-07-26",17,5845496,5845496,5952119,TRUE,"СЛУЖБА АВТОМОБІЛЬНИХ ДОРІГ В ОДЕСЬКІЙ ОБЛАСТІ ДЕРЖАГЕНТСТВА АВТОМОБІЛЬНИХ ДОРІГ УКРАЇНИ"

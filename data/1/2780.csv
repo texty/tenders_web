@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+458479,527826,328,1200000,1095321.61,"2013-10-30",14,1095321.61,1095321.61,1109693.21,TRUE,"Управління з питань будівництва Луганської міськради"

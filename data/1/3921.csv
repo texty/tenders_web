@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+516011,596033,256904,455329.3,564026.4,"2014-05-16",23,564026.4,564026.4,652294.15,TRUE,"Комунальна установа ""Бериславський районний центр по обслуговуванню закладів освіти"""

@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+521002,602313,3800,544563.14,542242.5,"2014-06-23",22,542242.5,542242.5,595717.8,TRUE,"Харківська дирекція УДППЗ ""Укрпошта"""

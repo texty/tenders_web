@@ -1,0 +1,3 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+433594,495253,71205,934362,981080.1,"2013-04-26",11,981080.1,981080.1,1039940,TRUE,"ПАТ ""Прикарпаттяобленерго"""
+433597,495248,71205,303450,341377,"2013-04-26",11,341377,341377,354348,TRUE,"ПАТ ""Прикарпаттяобленерго"""

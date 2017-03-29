@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+507469,592031,831,1400000,1594656,"2014-04-25",5,1594656,1594656,1674388.8,TRUE,"ДП ""Волиньвугілля"""

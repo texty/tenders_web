@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+446701,513216,5175,8681443.96,7218565.66349,"2013-07-24",25,7218565.66349,8121676.59,8918798.03,TRUE,"ПАТ ""Укртрансгаз"" Філія ""УМГ ""Черкаситрансгаз"""

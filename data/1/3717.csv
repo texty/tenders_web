@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+500056,581979,16016,3286000,3285547,"2014-03-24",11,3285547,3315547.44,3317541.44,TRUE,"Обласна клінічна лікарня Департаменту охорони здоров’я Івано-Франківської облдержадміністрації"

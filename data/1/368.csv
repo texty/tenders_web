@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+225264,253174,91776,NA,533436,"2011-12-05",1,533436,533436,604888,TRUE,"Громадська організація ""Київська міська федерація хокею"""

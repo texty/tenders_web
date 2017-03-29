@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+536862,618139,7034,6e+05,668920.8,"2014-10-14",1,668920.8,668920.8,701014.8,TRUE,"Київський національний університет технологій та дизайну Міносвіти і науки України"

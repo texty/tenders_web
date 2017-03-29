@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+379994,421193,96526,5389222.4,5168764.8,"2012-11-23",24,5168764.8,5168764.8,5214688.5,TRUE,"ДП ""Хмельницька обласна служба єдиного замовника"""

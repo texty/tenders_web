@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+543315,625523,1644,2265500,2265450,"2014-11-28",26,2265450,2265450,2542600,TRUE,"ПАТ ""ЕК ""Чернівціобленерго"""

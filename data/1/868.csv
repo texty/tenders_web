@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+371027,413987,9228,1143300,1143156,"2012-10-23",1,1143156,1606967.8,1673473.2,TRUE,"КП ""Боярське головне виробниче управління житлово-комунального господарства"" Київської області"

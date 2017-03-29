@@ -1,0 +1,2 @@
+"purchase_id","contract_id","buyer_id","purchase_cost_uah","volume_uah","contract_date","region_id","volume","winner.bid","loser_bid","winner","buyer_name"
+491446,563833,22,6509956.16,6509220.36,"2014-02-13",22,6509220.36,618375.94,699682.45,TRUE,"ДП ""ПІВДЕННА ЗАЛІЗНИЦЯ"""
