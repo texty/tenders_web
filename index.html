@@ -108,7 +108,7 @@
 
         <p>Відфільтровуємо компанії, які завжди програють і дивимось кому вони програють і на чиїх тендерах.</p>
 
-        <table class="dataTable" id="scheme-two-table"></table>
+        <table class="dataTable stripe" id="scheme-two-table"></table>
 
         <br>
         <br>
@@ -281,6 +281,27 @@
         </div>
         <!--End mc_embed_signup-->
 
+        <!-- Modal -->
+        <div id="myModal" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Modal Header</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>Some text in the modal.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Закрити</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
 </div>
 
 
@@ -360,17 +381,18 @@
         </div>
     </div>
 </footer>
-</div>
-
 
 
 
 <script src="js/jquery-2.1.4.min.js"></script>
 <script src="js/jquery.dataTables.min.js"></script>
-<!--<script src="js/bootstrap.min.js"></script>-->
+<script src="js/bootstrap.min.js"></script>
 <script src="js/d3.v4.min.js"></script>
-<script src="js/main.js" type="text/javascript"></script>
+<script src="js/handlebars.min.js"></script>
+<script src="js/templates.js"></script>
+<script src="js/main.js"></script>
 <script src="js/share-behavior.js"></script>
+
 
 <script type="text/javascript">
 
@@ -393,6 +415,69 @@ $( window ).scroll(function() {
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
 </script>
+
+<script type="text/x-handlebars-template" id="count_template">
+    <a href="#" data-toggle="modal" data-target="#myModal">{{total_count}}</a>
+</script>
+
+<script type="text/x-handlebars-template" id="volume_template">
+    <a href="#" data-toggle="modal" data-target="#myModal">{{this}}</a>
+</script>
+
+<script type="text/x-handlebars-template" id="link_to_deal_template">
+    <a href="http://z.texty.org.ua/deal/{{contract_id}}" target="_blank">{{value}}</a>
+</script>
+
+<script type="text/x-handlebars-template" id="link_to_buyer_template">
+ <a href="http://z.texty.org.ua/buyer/{{buyer_id}}" target="_blank">{{buyer_name}}</a>
+</script>
+
+<script type="text/x-handlebars-template" id="link_to_seller_template">
+    {{#if seller_id}}
+        <a href="http://z.texty.org.ua/seller/{{seller_id}}" target="_blank">{{seller_name}}</a>
+    {{else}}
+        {{seller_name}}
+    {{/if}}
+</script>
+
+<script type="text/x-handlebars-template" id="table-one-modal-template">
+ <div class="modal-dialog">
+     <div class="modal-content">
+         <div class="modal-header">
+             <button type="button" class="close" data-dismiss="modal">&times;</button>
+             <h4 class="modal-title">Деталі по тендерах {{winner_name}} та {{loser_name}}</h4>
+         </div>
+         <div class="modal-body">
+             <!--<p>Some text in the modal.</p>-->
+
+             <table class="dataTable" id="modal-table"></table>
+         </div>
+         <div class="modal-footer">
+             <button type="button" class="btn btn-default" data-dismiss="modal">Закрити</button>
+         </div>
+     </div>
+ </div>
+</script>
+
+ <script type="text/x-handlebars-template" id="table-two-modal-template">
+     <div class="modal-dialog">
+         <div class="modal-content">
+             <div class="modal-header">
+                 <button type="button" class="close" data-dismiss="modal">&times;</button>
+                 <h4 class="modal-title">Перелік тендерів</h4>
+             </div>
+             <div class="modal-body">
+                 <!--<p>Some text in the modal.</p>-->
+
+                 <table class="dataTable" id="modal-table"></table>
+             </div>
+             <div class="modal-footer">
+                 <button type="button" class="btn btn-default" data-dismiss="modal">Закрити</button>
+             </div>
+         </div>
+     </div>
+ </script>
+
 
 </body>
 </html>
