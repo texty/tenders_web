@@ -35,6 +35,8 @@ $(document).ready(function () {
         return d3.format(",.0f")(+d / 1000).replace(/,/g, " ");
     };
 
+    var partNumFmt = d3.format(",.2f");
+
     d3.csv('data/data1.csv', function (err, data1) {
         if (err) throw err;
 
@@ -270,6 +272,41 @@ $(document).ready(function () {
             }
         });
     });
+
+    d3.csv('data/data3.csv', function (err, data3) {
+        if (err) throw err;
+
+        data3.forEach(function (d) {
+            d.volume=+d.volume;
+        });
+
+        var table3 = $('#scheme-three-table').DataTable({
+            language: language,
+
+            aaData: data3,
+            aoColumns: [
+                {mData: "buyer_name", sTitle: "Замовник", mRender: function (data, type, full) {
+                    if (type === 'display') return link_to_buyer_template(full);
+                    return data;
+                }},
+                {mData: "part_num", sTitle: "Середня к-сть учасників на тендер", mRender: function (data, type, full) {
+                    if (type === 'display') return partNumFmt(full.part_num);
+                    return data;
+                }},
+                {mData: "count", sTitle: "Тендерів"},
+                {mData: "volume", sTitle: "Загальга сума, тис. грн", mRender: function (data, type, full) {
+                    if (type === 'display') return currencyFmt(full.volume);
+                    return data;
+                }}
+            ],
+            "columnDefs": [
+                {className: "dt-body-center", "targets": [1, 2]},
+                {className: "dt-body-right volume-padding", "targets": [3]}
+            ],
+            order: [[1, "asc"],[3, "desc"], [2, "desc"]]
+        });
+    });
+
 
 });
 
