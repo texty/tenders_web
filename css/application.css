@@ -267,4 +267,28 @@ img {
 .dataTable td.volume-padding-right {
   padding-right: 15px; }
 
+.disclaimer h4 {
+  border-top: 3px solid #383e47;
+  font-weight: 600;
+  padding-top: 0.5em;
+  display: inline-block; }
+
+.disclaimer {
+  margin-top: 80px; }
+  .disclaimer p, .disclaimer li, .disclaimer h5 {
+    font-size: 12px;
+    line-height: 1.5; }
+
+.disclaimer h5 {
+  font-weight: 800; }
+
+.disclaimer .pointer {
+  cursor: pointer;
+  border-bottom: 1px dashed;
+  display: inline-block; }
+
+.disclaimer li {
+  margin-left: 30px;
+  margin-bottom: 10px; }
+
 /*# sourceMappingURL=application.css.map */
